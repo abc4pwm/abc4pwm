@@ -1,0 +1,21 @@
+MEF2_known1	#	MEF2_known1	MYEF2_1	MEF-2_transfac_M00006
+0.001     #       p-value
+8642     #       bonferroni
+0	1	1	1	1	0	1	1	1	1 # derived from leading strand
+#        a       c       g       t	 P=>P/0.25
+B	0	2.4	0.8	0.8
+K	0	0	0.8	3.2
+Y	0	3.2	0	0.8
+T	0	0	0	4
+A	4	0	0	0
+A	4	0	0	0
+A	4	0	0	0
+A	4	0	0	0
+A	4	0	0	0
+T	0	0	0	4
+A	4	0	0	0
+A	4	0	0	0
+C	0	4	0	0
+Y	0	1.6	0	2.4
+Y	0	3.2	0	0.8
+Y	0	1.6	0	2.4

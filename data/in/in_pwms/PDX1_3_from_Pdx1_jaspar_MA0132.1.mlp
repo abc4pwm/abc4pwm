@@ -1,0 +1,11 @@
+PDX1_3	#	PDX1_3	Pdx1_jaspar_MA0132.1
+0.001     #       p-value
+8642     #       bonferroni
+0	1	1	1	1	0	1	1	1	1 # derived from leading strand
+#        a       c       g       t	 P=>P/0.25
+Y	0.12903	2.4516	0.64516	0.77419
+T	0	0	0	4
+A	4	0	0	0
+A	4	0	0	0
+T	0	0	0.12903	3.871
+K	0.12903	0.12903	1.2903	2.4516

@@ -1,0 +1,17 @@
+GTF2A_1	#	GTF2A_1	TFIIA_transfac_M00707
+0.001     #       p-value
+8642     #       bonferroni
+0	1	1	1	1	0	1	1	1	1 # derived from leading strand
+#        a       c       g       t	 P=>P/0.25
+Y	0	0.8	0	3.2
+M	2.4	1.6	0	0
+T	0	0	0	4
+D	1.6	0	1.6	0.8
+H	1.6	0.8	0	1.6
+R	2.4	0	1.6	0
+A	4	0	0	0
+S	0	0.8	3.2	0
+S	0	0.8	3.2	0
+R	2.4	0	1.6	0
+V	0.8	1.6	1.6	0
+S	0	2.4	1.6	0

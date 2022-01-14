@@ -1,0 +1,13 @@
+SPI1_known1	#	SPI1_known1	SPI1_1	PU.1_transfac_M00658
+0.001     #       p-value
+8642     #       bonferroni
+0	1	1	1	1	0	1	1	1	1 # derived from leading strand
+#        a       c       g       t	 P=>P/0.25
+W	2.2857	0	0.28572	1.4286
+S	0	0.85714	3.1429	0
+R	2.5714	0.57143	0.85714	0
+G	0.57143	0	3.4286	0
+G	0	0	4	0
+A	4	0	0	0
+A	4	0	0	0
+S	0.28572	0.85714	2.8571	0

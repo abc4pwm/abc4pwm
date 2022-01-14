@@ -1,0 +1,13 @@
+MZF1_1	#	MZF1_1	MZF1_transfac_M00083
+0.001     #       p-value
+8642     #       bonferroni
+0	1	1	1	1	0	1	1	1	1 # derived from leading strand
+#        a       c       g       t	 P=>P/0.25
+R	1.6	0.6	1.2	0.6
+R	0.8	0.4	2.2	0.6
+K	0.6	0.6	1	1.8
+G	0	0	4	0
+G	0.2	0	3.6	0.2
+G	0	0	3.8	0.2
+G	0	0	4	0
+A	3.6	0.2	0.2	0

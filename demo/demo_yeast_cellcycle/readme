@@ -1,0 +1,35 @@
+README FOR YEAST CELL CYCLE DEMO
+
+
+Runs demo on 3 stages of yeast cell cycle -> Alpha7, alpha42, alpha49
+Cell cycle data is sourced by the following paper: http://genome-www.stanford.edu/cellcycle/
+
+******** What is in data sets ********
+Micro array expression data is acquired from : http://genome-www.stanford.edu/cellcycle/data/rawdata/
+
+
+filtered and clean input data for yeast cell cycle: yeast_in/
+
+Reference PWMs for 9 cell cycle regulating TES : SGD_yeast_cellCycle/
+
+Output for bayespi2 and input for abc4pwm: yeast_out/
+
+output for abc4pwm: yeast_abc4pwm_out/
+
+
+******** How to run demo ********
+
+Run following bash scripts to run the demo:
+
+1) To run bayespi (will automatically run for strand0 and then strand1):
+
+./demo_bsh_bayespi
+
+(See log files for console out put e.g. out.log.s0.alpha7)
+
+2) To run abc4pwm:
+
+./demo_bsh_abc4pwm_s0.sh (for strand0)
+./demo_bsh_abc4pwm_s1.sh (for strand1)
+
+

@@ -1,0 +1,14 @@
+PBX1_1	#	PBX1_1	Pbx-1_transfac_M00096
+0.001     #       p-value
+8642     #       bonferroni
+0	1	1	1	1	0	1	1	1	1 # derived from leading strand
+#        a       c       g       t	 P=>P/0.25
+W	3	0.25	0	0.75
+H	0.75	1	0.25	2
+Y	0.25	2.25	0.5	1
+A	3.25	0.25	0	0.5
+A	3.5	0	0	0.5
+T	0.5	0	0	3.5
+M	1	2.5	0	0.5
+A	3.5	0	0.25	0.25
+W	2.5	0	0	1.5

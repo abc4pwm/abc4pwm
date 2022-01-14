@@ -1,0 +1,13 @@
+NR5A1_1	#	NR5A1_1	SF1_transfac_M00727
+0.001     #       p-value
+8642     #       bonferroni
+0	1	1	1	1	0	1	1	1	1 # derived from leading strand
+#        a       c       g       t	 P=>P/0.25
+T	0	0	0.5	3.5
+R	1	0	2.5	0.5
+R	3	0	1	0
+C	0	4	0	0
+C	0	4	0	0
+T	0	0	0	4
+T	0	0	0	4
+G	0	0	4	0

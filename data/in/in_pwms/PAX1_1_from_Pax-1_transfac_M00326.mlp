@@ -1,0 +1,23 @@
+PAX1_1	#	PAX1_1	Pax-1_transfac_M00326
+0.001     #       p-value
+8642     #       bonferroni
+0	1	1	1	1	0	1	1	1	1 # derived from leading strand
+#        a       c       g       t	 P=>P/0.25
+C	0	4	0	0
+C	0	4	0	0
+G	0	0	4	0
+T	0	0	0	4
+T	0	0	0	4
+M	0.8	3.2	0	0
+C	0	4	0	0
+G	0	0	4	0
+S	0	3.2	0.8	0
+T	0	0	0	4
+C	0	4	0	0
+T	0	0	0	4
+A	4	0	0	0
+G	0	0	4	0
+A	4	0	0	0
+T	0	0	0	4
+A	4	0	0	0
+T	0	0	0	4

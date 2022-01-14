@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dbfa35dc-b4d0-4b92-b7b1-b799cc36c08c" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/knit.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="570">
+              <caret line="38" selection-start-line="38" selection-end-line="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>moving_files_input</find>
+      <find>outExp</find>
+      <find>DB_F</find>
+      <find>$opt_weak_expFile</find>
+      <find>$opt_numP</find>
+      <find>log</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/classification_pwm.py" />
+        <option value="$PROJECT_DIR$/clustering_pwm.py" />
+        <option value="$PROJECT_DIR$/cleandatabase_for_classification.py" />
+        <option value="$PROJECT_DIR$/quality_cluster.py" />
+        <option value="$PROJECT_DIR$/ensemble_learning.py" />
+        <option value="$PROJECT_DIR$/ensemble/run_bayesPI_parallel_by_motifLength.pl" />
+        <option value="$PROJECT_DIR$/ensemble/omer_run_ensemble.sh" />
+        <option value="$PROJECT_DIR$/ensemble/yeast_GE_7.txt_tab.txt" />
+        <option value="$PROJECT_DIR$/ensemble/yeast_GE_7.txt" />
+        <option value="$PROJECT_DIR$/ensemble/read_yeast.py" />
+        <option value="$PROJECT_DIR$/ensemble/ensemble_learning.py" />
+        <option value="$PROJECT_DIR$/ensemble/run_ensemble" />
+        <option value="$PROJECT_DIR$/ensemble/ensemble_learning_bayesPI_parallel_by_motifLength.pl" />
+        <option value="$PROJECT_DIR$/ensemble/programs/ensemble_learning_bayesPI_parallel_by_motifLength.pl" />
+        <option value="$PROJECT_DIR$/ensemble/omer_ensemble/ensemble_learning.py" />
+        <option value="$PROJECT_DIR$/knit.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
+    <option name="x" value="-1920" />
+    <option name="y" value="-127" />
+    <option name="width" value="1920" />
+    <option name="height" value="1200" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="abc4pwm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="abc4pwm" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PythonContentEntriesConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/ensemble" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dbfa35dc-b4d0-4b92-b7b1-b799cc36c08c" name="Default Changelist" comment="" />
+      <created>1588688881812</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588688881812</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-1920" y="-127" width="1920" height="1200" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14696486" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32920355" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" sideWeight="0.49946752" visible="true" weight="0.22123894" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5005325" side_tool="true" weight="0.22686026" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.32849365" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="R Graphics" order="3" />
+      <window_info anchor="right" id="R Packages" order="4" />
+    </layout>
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.pl" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/clustering_pwm.py" />
+    <entry file="file://$PROJECT_DIR$/make_pwm_logo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plot_representative.py" />
+    <entry file="file://$PROJECT_DIR$/classification_pwm.py" />
+    <entry file="file://$PROJECT_DIR$/mean_cluster.py" />
+    <entry file="file://$PROJECT_DIR$/quality_cluster.py" />
+    <entry file="file://$PROJECT_DIR$/demo_compare_motifs" />
+    <entry file="file://$PROJECT_DIR$/demo_compare_motifs_ensemble" />
+    <entry file="file://$PROJECT_DIR$/run_ensemble" />
+    <entry file="file://$PROJECT_DIR$/demo_ensemble_learning_parallel_by_motifLength" />
+    <entry file="file://$PROJECT_DIR$/ensemble_learning_bayesPI_parallel_by_motifLength.pl" />
+    <entry file="file://$PROJECT_DIR$/ensemble/programs/bayesPI" />
+    <entry file="file://$PROJECT_DIR$/energy_to_p.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-652">
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cleandatabase_for_classification.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="841">
+          <caret line="73" selection-start-line="73" selection-end-line="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ensemble/omer_run_ensemble.sh" />
+    <entry file="file://$PROJECT_DIR$/ensemble/run_bayesPI_parallel_by_motifLength.pl" />
+    <entry file="file://$PROJECT_DIR$/ensemble/yeast_GE_7.txt_tab" />
+    <entry file="file://$PROJECT_DIR$/ensemble/read_yeast.py" />
+    <entry file="file://$PROJECT_DIR$/ensemble/yeast_GE_7.txt" />
+    <entry file="file://$PROJECT_DIR$/ensemble/yeast_GE_7.txt_tab.txt" />
+    <entry file="file://$PROJECT_DIR$/ensemble/ensemble_learning.py" />
+    <entry file="file://$PROJECT_DIR$/ensemble/run_ensemble" />
+    <entry file="file://$PROJECT_DIR$/ensemble/ensemble_learning_bayesPI_parallel_by_motifLength.pl" />
+    <entry file="file://$PROJECT_DIR$/ensemble/omer_ensemble/programs/ensemble_learning_bayesPI_parallel_by_motifLength.pl" />
+    <entry file="file://$PROJECT_DIR$/ensemble/demo_ensemble_learning_parallel_by_motifLength" />
+    <entry file="file://$PROJECT_DIR$/clustering.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="398">
+          <caret line="126" column="85" selection-start-line="112" selection-start-column="12" selection-end-line="126" selection-end-column="85" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ensemble/programs/run_bayesPI_parallel_by_motifLength.pl" />
+    <entry file="file://$PROJECT_DIR$/ensemble/programs/ensemble_learning_bayesPI_parallel_by_motifLength.pl" />
+    <entry file="file://$PROJECT_DIR$/ensemble/omer_ensemble/ensemble_learning.py" />
+    <entry file="file://$PROJECT_DIR$/knit.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="38" selection-start-line="38" selection-end-line="38" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

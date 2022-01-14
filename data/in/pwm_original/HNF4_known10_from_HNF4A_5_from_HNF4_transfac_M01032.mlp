@@ -1,0 +1,11 @@
+HNF4_known10	#	HNF4_known10	HNF4A_5	HNF4_transfac_M01032
+0.001     #       p-value
+8642     #       bonferroni
+0	1	1	1	1	0	1	1	1	1 # derived from leading strand
+#        a       c       g       t	 P=>P/0.25
+A	3.3793	0	0.62069	0
+G	0	0	4	0
+K	0.2069	0.068964	1.7931	1.931
+Y	0.2069	1.3103	0.48276	2
+C	0.068964	3.2414	0.13793	0.55172
+A	3.1724	0.13793	0.41379	0.27586

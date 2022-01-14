@@ -1,0 +1,15 @@
+TAL1_known4	#	TAL1_known4	TAL1_4	TAL1_transfac_M00993
+0.001     #       p-value
+8642     #       bonferroni
+0	1	1	1	1	0	1	1	1	1 # derived from leading strand
+#        a       c       g       t	 P=>P/0.25
+D	1	0	1	2
+C	0	4	0	0
+C	0	4	0	0
+A	4	0	0	0
+B	0	0.8	1.6	1.6
+C	0	4	0	0
+T	0	0	0	4
+G	0	0	4	0
+N	0.8	1.6	0.8	0.8
+Y	0	1.6	0	2.4

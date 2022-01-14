@@ -1,0 +1,18 @@
+PTEN_1	#	PTEN_1	DEC_transfac_M00997
+0.001     #       p-value
+8642     #       bonferroni
+0	1	1	1	1	0	1	1	1	1 # derived from leading strand
+#        a       c       g       t	 P=>P/0.25
+V	0.8	1.6	1.6	0
+B	0	2.4	0.8	0.8
+B	0	2.4	0.8	0.8
+C	0	4	0	0
+A	4	0	0	0
+H	1.6	1.6	0	0.8
+S	0	0.8	3.2	0
+T	0	0	0	4
+G	0	0	4	0
+M	3.2	0.8	0	0
+D	2.4	0	0.8	0.8
+B	0	0.8	2.4	0.8
+N	0.8	0.8	1.6	0.8

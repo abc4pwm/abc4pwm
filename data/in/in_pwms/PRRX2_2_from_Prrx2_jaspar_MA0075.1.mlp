@@ -1,0 +1,10 @@
+PRRX2_2	#	PRRX2_2	Prrx2_jaspar_MA0075.1
+0.001     #       p-value
+8642     #       bonferroni
+0	1	1	1	1	0	1	1	1	1 # derived from leading strand
+#        a       c       g       t	 P=>P/0.25
+A	3.5254	0.13559	0.27119	0.067796
+A	4	0	0	0
+T	0	0	0.067796	3.9322
+T	0	0	0	4
+A	3.9322	0	0.067796	0

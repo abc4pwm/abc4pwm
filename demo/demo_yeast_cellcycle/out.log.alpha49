@@ -1,0 +1,6 @@
+Random seed for weights initialization: 1
+Reading sequences from FASTA file [yeast_in/yeast_GE_800bp_fasta.fa] (splitting into ACGT fragments)
+738 sequences read. Input sequences contained 0 non-ACGT nucleotides which were removed. Average sequence length after removal: 800 bp
+0 sequences had non-ACGT parts in the middle and were split into ACGT fragments, 1 fragments per sequence on average
+reading in signal data from file [/yeast_in/yeast_GE_49.txt]
+Fatal error encountered: open_file </yeast_in/yeast_GE_49.txt> failed: No such file or directory. Stopping.

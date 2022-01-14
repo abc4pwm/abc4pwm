@@ -1,0 +1,19 @@
+MYC_known1	#	MYC_known1	MYC::MAX_1	c-Myc:Max_transfac_M00118
+0.001     #       p-value
+8642     #       bonferroni
+0	1	1	1	1	0	1	1	1	1 # derived from leading strand
+#        a       c       g       t	 P=>P/0.25
+H	1	1.24	0.52	1.24
+D	1.12	0.28	1.88	0.72
+R	2.8	0.12	0.84	0.24
+S	0.4	2.76	0.76	0.08
+C	0	4	0	0
+A	4	0	0	0
+C	0	4	0	0
+G	0	0	4	0
+T	0	0	0	4
+G	0	0	4	0
+S	0.08	0.76	2.76	0.4
+Y	0.24	0.84	0.12	2.8
+H	0.72	1.88	0.28	1.12
+D	1.24	0.52	1.24	1

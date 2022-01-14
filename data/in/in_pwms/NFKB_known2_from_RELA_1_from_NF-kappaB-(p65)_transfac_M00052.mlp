@@ -1,0 +1,15 @@
+NFKB_known2	#	NFKB_known2	RELA_1	NF-kappaB-(p65)_transfac_M00052
+0.001     #       p-value
+8642     #       bonferroni
+0	1	1	1	1	0	1	1	1	1 # derived from leading strand
+#        a       c       g       t	 P=>P/0.25
+B	0	0.88889	2.2222	0.88889
+G	0	0	4	0
+G	0	0	4	0
+R	2.4444	0	1.5556	0
+M	2.2222	0.66667	0.66667	0.44444
+T	0.44444	0	0	3.5556
+T	0	0	0	4
+T	0	0.66667	0	3.3333
+C	0	4	0	0
+C	0	4	0	0

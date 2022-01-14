@@ -1,0 +1,17 @@
+MYOD1_1	#	MYOD1_1	MyoD_transfac_M00001
+0.001     #       p-value
+8642     #       bonferroni
+0	1	1	1	1	0	1	1	1	1 # derived from leading strand
+#        a       c       g       t	 P=>P/0.25
+V	0.8	1.6	1.6	0
+V	1.6	0.8	1.6	0
+D	2.4	0	0.8	0.8
+C	0	4	0	0
+A	4	0	0	0
+K	0	0	3.2	0.8
+S	0	0.8	3.2	0
+T	0	0	0	4
+G	0	0	4	0
+B	0	0.8	1.6	1.6
+Y	0	1.6	0	2.4
+D	0.8	0	2.4	0.8

@@ -1,0 +1,13 @@
+ATF2_1	#	ATF2_1	ATF2_transfac_M00040
+0.001     #       p-value
+8642     #       bonferroni
+0	1	1	1	1	0	1	1	1	1 # derived from leading strand
+#        a       c       g       t	 P=>P/0.25
+T	0	0	0	4
+K	0	0	0.68085	3.3191
+A	4	0	0	0
+C	0	4	0	0
+G	0.34042	0	3.6596	0
+T	0	0	0	4
+A	3.3191	0.59574	0	0.085108
+A	3.8298	0.17021	0	0

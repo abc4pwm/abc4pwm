@@ -1,0 +1,12 @@
+HMGA1_1	#	HMGA1_1	HMG-IY_transfac_M00750
+0.001     #       p-value
+8642     #       bonferroni
+0	1	1	1	1	0	1	1	1	1 # derived from leading strand
+#        a       c       g       t	 P=>P/0.25
+G	0.30769	0	3.6923	0
+K	0	0.61538	2.4615	0.92308
+A	4	0	0	0
+A	4	0	0	0
+A	3.3846	0	0	0.61538
+W	1.5385	0	0.61538	1.8462
+Y	0	1	0.33333	2.6667

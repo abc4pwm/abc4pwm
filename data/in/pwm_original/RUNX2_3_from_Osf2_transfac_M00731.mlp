@@ -1,0 +1,13 @@
+RUNX2_3	#	RUNX2_3	Osf2_transfac_M00731
+0.001     #       p-value
+8642     #       bonferroni
+0	1	1	1	1	0	1	1	1	1 # derived from leading strand
+#        a       c       g       t	 P=>P/0.25
+R	3.2	0	0.8	0
+C	0	4	0	0
+C	0	4	0	0
+R	3.2	0	0.8	0
+C	0	4	0	0
+A	4	0	0	0
+D	2	0.4	0.8	0.8
+M	2.4	1.2	0.4	0

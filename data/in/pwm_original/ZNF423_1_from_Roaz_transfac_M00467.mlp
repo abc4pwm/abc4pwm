@@ -1,0 +1,19 @@
+ZNF423_1	#	ZNF423_1	Roaz_transfac_M00467
+0.001     #       p-value
+8642     #       bonferroni
+0	1	1	1	1	0	1	1	1	1 # derived from leading strand
+#        a       c       g       t	 P=>P/0.25
+G	0	0	4	0
+C	0	4	0	0
+A	4	0	0	0
+C	0	4	0	0
+C	0	4	0	0
+C	0	4	0	0
+W	2.8571	0	0	1.1429
+W	2.5714	0	0	1.4286
+G	0	0	4	0
+G	0	0	4	0
+G	0	0	4	0
+T	0	0	0	4
+G	0	0.28572	3.7143	0
+M	1.7143	2	0	0.28572

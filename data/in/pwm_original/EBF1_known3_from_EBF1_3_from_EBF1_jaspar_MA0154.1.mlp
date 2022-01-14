@@ -1,0 +1,15 @@
+EBF1_known3	#	EBF1_known3	EBF1_3	EBF1_jaspar_MA0154.1
+0.001     #       p-value
+8642     #       bonferroni
+0	1	1	1	1	0	1	1	1	1 # derived from leading strand
+#        a       c       g       t	 P=>P/0.25
+M	1.76	1.44	0.32	0.48
+C	0	3.52	0	0.48
+Y	0.16	2.56	0.16	1.12
+C	0.32	3.2	0	0.48
+H	1.76	1.44	0	0.8
+R	2.56	0.16	0.8	0.48
+G	0	0	4	0
+G	0.32	0	3.68	0
+G	0	0	4	0
+A	3.36	0	0.64	0

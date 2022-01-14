@@ -1,0 +1,17 @@
+ATF3_known3	#	ATF3_known3	CREB1_2	CREB_transfac_M00113
+0.001     #       p-value
+8642     #       bonferroni
+0	1	1	1	1	0	1	1	1	1 # derived from leading strand
+#        a       c       g       t	 P=>P/0.25
+B	0.5	1.25	1	1.25
+B	0.25	0.75	1.5	1.5
+G	0.5	0.5	3	0
+D	1.25	0.25	1.75	0.75
+T	0	0	0	4
+G	0	0	3.75	0.25
+A	4	0	0	0
+C	0	3.75	0.25	0
+G	0	0	3.75	0.25
+Y	0.25	1.25	0	2.5
+V	1	1.75	0.75	0.5
+V	1.25	1.5	0.75	0.5

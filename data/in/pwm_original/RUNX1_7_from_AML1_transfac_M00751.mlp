@@ -1,0 +1,11 @@
+RUNX1_7	#	RUNX1_7	AML1_transfac_M00751
+0.001     #       p-value
+8642     #       bonferroni
+0	1	1	1	1	0	1	1	1	1 # derived from leading strand
+#        a       c       g       t	 P=>P/0.25
+T	0	0	0	4
+G	0	0	4	0
+T	0	0	0	4
+G	0	0	4	0
+G	0	0	4	0
+T	0	0	0.44444	3.5556

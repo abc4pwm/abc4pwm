@@ -1,0 +1,12 @@
+###### MatrixREDUCE Package v1.2 (xl2134@columbia.edu) ######
+## cd /usit/titan/u1/junbaiw/local/mlp_test/bayesPI_simple2012/c_code/demo_out/ace2_0.1k/demo_in
+
+AffinityLogo -file=demo_ace2_0.1Kseq_gctggt.txt_mlpout_L9_4.mlp \
+	-format=eps \
+	-type=matrix \
+	-style=bits_info \
+	-logo=demo_ace2_0.1Kseq_gctggt.txt_mlpout_L9_4.eps \
+	-width=12 \
+	-height=7.5 \
+	-start_num=1 \
+	-output=.

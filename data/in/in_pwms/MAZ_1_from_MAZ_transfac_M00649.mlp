@@ -1,0 +1,13 @@
+MAZ_1	#	MAZ_1	MAZ_transfac_M00649
+0.001     #       p-value
+8642     #       bonferroni
+0	1	1	1	1	0	1	1	1	1 # derived from leading strand
+#        a       c       g       t	 P=>P/0.25
+R	1	0	2.6667	0.33333
+G	0	0	4	0
+G	0	0	3.6667	0.33333
+G	0	0.33333	3.6667	0
+A	3.3333	0.66667	0	0
+G	0	0	4	0
+G	0.66667	0.33333	3	0
+G	0	0	4	0

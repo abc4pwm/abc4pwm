@@ -1,0 +1,15 @@
+HMX3_1	#	HMX3_1	Hmx3-(Nkx5-1)_transfac_M00433
+0.001     #       p-value
+8642     #       bonferroni
+0	1	1	1	1	0	1	1	1	1 # derived from leading strand
+#        a       c       g       t	 P=>P/0.25
+C	0	4	0	0
+A	4	0	0	0
+A	4	0	0	0
+G	0	0	4	0
+T	0	0	0	4
+G	0	0.36364	3.6364	0
+C	0	3.6364	0.36364	0
+G	0	0	4	0
+T	0.36364	0	0	3.6364
+G	0.36364	0	3.6364	0

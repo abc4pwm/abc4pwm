@@ -1,0 +1,13 @@
+RBPJ_1	#	RBPJ_1	RBP-Jkappa_transfac_M01111
+0.001     #       p-value
+8642     #       bonferroni
+0	1	1	1	1	0	1	1	1	1 # derived from leading strand
+#        a       c       g       t	 P=>P/0.25
+T	0	0	0	4
+T	0	0	0	4
+C	0	4	0	0
+C	0	4	0	0
+C	0	4	0	0
+A	4	0	0	0
+Y	0	2.8	0	1.2
+D	0.8	0	2	1.2

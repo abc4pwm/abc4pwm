@@ -1,0 +1,12 @@
+TEAD2_1	#	TEAD2_1	ETF_transfac_M00695
+0.001     #       p-value
+8642     #       bonferroni
+0	1	1	1	1	0	1	1	1	1 # derived from leading strand
+#        a       c       g       t	 P=>P/0.25
+G	0	0	3.3846	0.61538
+V	1.2308	1.5385	1.2308	0
+G	0	0	3.6923	0.30769
+G	0	0	4	0
+M	1.5385	2.4615	0	0
+G	0	0.61538	3.3846	0
+G	0	0	4	0

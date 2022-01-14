@@ -1,0 +1,20 @@
+RUNX1_5	#	RUNX1_5	Evi-1_transfac_M00081
+0.001     #       p-value
+8642     #       bonferroni
+0	1	1	1	1	0	1	1	1	1 # derived from leading strand
+#        a       c       g       t	 P=>P/0.25
+D	1.5	0	1.5	1
+R	1	0	3	0
+A	3	0.5	0	0.5
+T	0.5	0.5	0	3
+A	3.5	0	0	0.5
+D	1.5	0	1	1.5
+R	1	0	3	0
+W	3	0	0	1
+H	1	1	0	2
+W	2.5	0	0	1.5
+R	2.5	0	1	0.5
+R	1	0	3	0
+W	3	0	0	1
+W	1	0	0	3
+A	3	0.5	0	0.5

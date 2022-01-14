@@ -1,0 +1,11 @@
+ZNF354C_1	#	ZNF354C_1	ZNF354C_jaspar_MA0130.1
+0.001     #       p-value
+8642     #       bonferroni
+0	1	1	1	1	0	1	1	1	1 # derived from leading strand
+#        a       c       g       t	 P=>P/0.25
+V	1.75	1.5	0.75	0
+W	0.75	0.5	0	2.75
+C	0	4	0	0
+C	0	4	0	0
+A	4	0	0	0
+C	0	3.75	0.25	0

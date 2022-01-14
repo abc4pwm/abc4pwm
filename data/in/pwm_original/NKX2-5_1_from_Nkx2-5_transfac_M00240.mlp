@@ -1,0 +1,12 @@
+NKX2-5_1	#	NKX2-5_1	Nkx2-5_transfac_M00240
+0.001     #       p-value
+8642     #       bonferroni
+0	1	1	1	1	0	1	1	1	1 # derived from leading strand
+#        a       c       g       t	 P=>P/0.25
+T	0.57143	0	0.57143	2.8571
+Y	0	2.2857	0	1.7143
+A	4	0	0	0
+A	4	0	0	0
+G	0	0	4	0
+T	0	0	0	4
+G	0.57143	0	3.4286	0

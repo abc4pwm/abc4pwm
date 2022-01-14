@@ -1,0 +1,13 @@
+RXRA_known4	#	RXRA_known4	RXRA_2	PXR-(PXR:RXR)_transfac_M01153
+0.001     #       p-value
+8642     #       bonferroni
+0	1	1	1	1	0	1	1	1	1 # derived from leading strand
+#        a       c       g       t	 P=>P/0.25
+N	1.04	0.68	1.32	0.96
+V	0.98925	1.0323	1.9355	0.043012
+A	3.8	0	0.2	0
+G	0	0	4	0
+K	0	0	1.2	2.8
+T	0.16	0.04	0	3.8
+C	0	3.8	0	0.2
+A	3.8	0	0.2	0

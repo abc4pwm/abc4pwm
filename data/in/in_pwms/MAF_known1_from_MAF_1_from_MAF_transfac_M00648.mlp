@@ -1,0 +1,21 @@
+MAF_known1	#	MAF_known1	MAF_1	MAF_transfac_M00648
+0.001     #       p-value
+8642     #       bonferroni
+0	1	1	1	1	0	1	1	1	1 # derived from leading strand
+#        a       c       g       t	 P=>P/0.25
+W	0.8	0	0	3.2
+D	1.6	0	1.6	0.8
+R	0.8	0	3.2	0
+R	2.4	0	1.6	0
+R	1.6	0	2.4	0
+G	0	0	4	0
+G	0	0	4	0
+A	4	0	0	0
+A	4	0	0	0
+G	0	0	4	0
+T	0	0	0	4
+K	0	0	1.6	2.4
+K	0	0	2.4	1.6
+B	0	1.6	1.6	0.8
+S	0	2.4	1.6	0
+D	0.8	0	0.8	2.4

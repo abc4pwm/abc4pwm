@@ -1,0 +1,18 @@
+HSF_known2	#	HSF_known2	HSF1_2	HSF_transfac_M00641
+0.001     #       p-value
+8642     #       bonferroni
+0	1	1	1	1	0	1	1	1	1 # derived from leading strand
+#        a       c       g       t	 P=>P/0.25
+T	0	0	0	4
+T	0	0	0	4
+C	0	4	0	0
+B	0	2.4	0.8	0.8
+M	2.4	1.6	0	0
+G	0	0	4	0
+V	2.4	0.8	0.8	0
+R	1.6	0	2.4	0
+G	0	0	4	0
+Y	0	1.6	0	2.4
+T	0	0	0	4
+T	0	0	0	4
+C	0	4	0	0

@@ -1,0 +1,17 @@
+POU2F2_known9	#	POU2F2_known9	POU2F1_8	Oct-1_transfac_M00248
+0.001     #       p-value
+8642     #       bonferroni
+0	1	1	1	1	0	1	1	1	1 # derived from leading strand
+#        a       c       g       t	 P=>P/0.25
+W	0.92632	0.25263	0.46316	2.3579
+N	0.88	1.12	1.12	0.88
+T	0.23762	0.23762	0	3.5248
+A	4	0	0	0
+T	0	0	0	4
+G	0	0	3.8	0.2
+B	0	1.5758	1.2929	1.1313
+W	0.96	0	0	3.04
+A	4	0	0	0
+A	4	0	0	0
+T	0	0	0	4
+T	0	0	0	4

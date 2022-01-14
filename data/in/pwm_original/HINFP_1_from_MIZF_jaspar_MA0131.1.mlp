@@ -1,0 +1,15 @@
+HINFP_1	#	HINFP_1	MIZF_jaspar_MA0131.1
+0.001     #       p-value
+8642     #       bonferroni
+0	1	1	1	1	0	1	1	1	1 # derived from leading strand
+#        a       c       g       t	 P=>P/0.25
+B	0.4	1.2	1	1.4
+W	2.6	0.2	0	1.2
+A	4	0	0	0
+C	0.4	3.4	0.2	0
+G	0	0	3.8	0.2
+T	0	0.2	0	3.8
+C	0	3.8	0	0.2
+C	0	3.6	0.4	0
+G	0	0	3.8	0.2
+Y	0.4	2.6	0.2	0.8

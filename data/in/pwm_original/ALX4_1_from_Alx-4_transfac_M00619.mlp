@@ -1,0 +1,18 @@
+ALX4_1	#	ALX4_1	Alx-4_transfac_M00619
+0.001     #       p-value
+8642     #       bonferroni
+0	1	1	1	1	0	1	1	1	1 # derived from leading strand
+#        a       c       g       t	 P=>P/0.25
+C	0	4	0	0
+C	0	4	0	0
+T	0	0	0	4
+G	0	0	4	0
+A	4	0	0	0
+G	0	0	4	0
+A	4	0	0	0
+A	4	0	0	0
+T	0	0	0	4
+A	4	0	0	0
+A	4	0	0	0
+T	0	0	0	4
+C	0	4	0	0

@@ -1,0 +1,13 @@
+OTX_1	#	OTX_1	OTX_transfac_M01117
+0.001     #       p-value
+8642     #       bonferroni
+0	1	1	1	1	0	1	1	1	1 # derived from leading strand
+#        a       c       g       t	 P=>P/0.25
+G	0	0	4	0
+M	3.2	0.8	0	0
+T	0	0	0	4
+T	0	0	0	4
+W	3.2	0	0	0.8
+N	1.6	0.8	0.8	0.8
+D	1.2	0.4	0.8	1.6
+W	1.2	0	0	2.8

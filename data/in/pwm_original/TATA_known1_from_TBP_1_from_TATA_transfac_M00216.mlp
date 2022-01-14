@@ -1,0 +1,15 @@
+TATA_known1	#	TATA_known1	TBP_1	TATA_transfac_M00216
+0.001     #       p-value
+8642     #       bonferroni
+0	1	1	1	1	0	1	1	1	1 # derived from leading strand
+#        a       c       g       t	 P=>P/0.25
+N	0.8982	1.1647	0.74252	1.1946
+S	0	3.0486	0.79581	0.15557
+Y	0.098728	0.99626	0	2.905
+W	2.92	0	0	1.08
+T	0	0	0	4
+A	4	0	0	0
+A	3.7126	0	0	0.28742
+A	4	0	0	0
+A	4	0	0	0
+R	1.1737	0.40718	1.8293	0.58982

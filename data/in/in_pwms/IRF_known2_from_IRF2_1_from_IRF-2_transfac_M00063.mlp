@@ -1,0 +1,18 @@
+IRF_known2	#	IRF_known2	IRF2_1	IRF-2_transfac_M00063
+0.001     #       p-value
+8642     #       bonferroni
+0	1	1	1	1	0	1	1	1	1 # derived from leading strand
+#        a       c       g       t	 P=>P/0.25
+G	0	0.26667	3.7333	0
+A	4	0	0	0
+A	3.7333	0	0	0.26667
+A	4	0	0	0
+A	4	0	0	0
+G	0	0.30769	3.6923	0
+Y	0	1.8667	0	2.1333
+G	0	0	4	0
+A	4	0	0	0
+A	4	0	0	0
+A	4	0	0	0
+S	0	2.1333	1.8667	0
+Y	0	2.1333	0.53333	1.3333

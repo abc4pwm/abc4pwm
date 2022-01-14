@@ -1,0 +1,11 @@
+YY1_known6	#	YY1_known6	YY1_6	YY1_jaspar_MA0095.1
+0.001     #       p-value
+8642     #       bonferroni
+0	1	1	1	1	0	1	1	1	1 # derived from leading strand
+#        a       c       g       t	 P=>P/0.25
+D	1.4118	0.2353	1.6471	0.70588
+C	0	3.7647	0	0.2353
+C	0	4	0	0
+A	4	0	0	0
+T	0	0	0	4
+N	0.70588	1.8824	0.70588	0.70588

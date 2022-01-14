@@ -1,0 +1,15 @@
+E4F1_1	#	E4F1_1	E4F1_transfac_M00694
+0.001     #       p-value
+8642     #       bonferroni
+0	1	1	1	1	0	1	1	1	1 # derived from leading strand
+#        a       c       g       t	 P=>P/0.25
+S	0	1.6	2.4	0
+H	0.8	1.6	0	1.6
+Y	0	0.8	0	3.2
+W	3.2	0	0	0.8
+C	0	4	0	0
+G	0	0	4	0
+T	0	0	0	4
+C	0	4	0	0
+A	4	0	0	0
+Y	0	3.2	0	0.8

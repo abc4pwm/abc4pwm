@@ -1,0 +1,16 @@
+AFP_1	#	AFP_1	AFP1_transfac_M00616
+0.001     #       p-value
+8642     #       bonferroni
+0	1	1	1	1	0	1	1	1	1 # derived from leading strand
+#        a       c       g       t	 P=>P/0.25
+A	4	0	0	0
+W	0.8	0	0	3.2
+W	0.8	0	0	3.2
+A	4	0	0	0
+A	4	0	0	0
+Y	0	2.4	0	1.6
+W	0.8	0	0	3.2
+R	2.4	0	1.6	0
+S	0	3.2	0.8	0
+A	4	0	0	0
+Y	0	3.2	0	0.8

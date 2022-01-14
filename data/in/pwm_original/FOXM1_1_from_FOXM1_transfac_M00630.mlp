@@ -1,0 +1,14 @@
+FOXM1_1	#	FOXM1_1	FOXM1_transfac_M00630
+0.001     #       p-value
+8642     #       bonferroni
+0	1	1	1	1	0	1	1	1	1 # derived from leading strand
+#        a       c       g       t	 P=>P/0.25
+A	4	0	0	0
+R	1.6	0	2.4	0
+H	2.4	0.8	0	0.8
+W	0.8	0	0	3.2
+D	0.8	0	1.6	1.6
+S	0	0.8	3.2	0
+W	3.2	0	0	0.8
+B	0	1.6	1.6	0.8
+T	0	0	0	4

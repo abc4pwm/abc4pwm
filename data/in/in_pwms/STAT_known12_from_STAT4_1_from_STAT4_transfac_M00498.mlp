@@ -1,0 +1,13 @@
+STAT_known12	#	STAT_known12	STAT4_1	STAT4_transfac_M00498
+0.001     #       p-value
+8642     #       bonferroni
+0	1	1	1	1	0	1	1	1	1 # derived from leading strand
+#        a       c       g       t	 P=>P/0.25
+B	0	1.32	2	0.68
+N	1.9802	0.67327	0.67327	0.67327
+H	1.32	0.68	0	2
+T	0	0	0	4
+T	0	0	0	4
+M	0.68	3.32	0	0
+N	0.68	1.32	0.68	1.32
+N	1.32	0.68	0.68	1.32

@@ -1,0 +1,11 @@
+TCF7L2_known2	#	TCF7L2_known2	LEF1_1	LEF1_transfac_M00805
+0.001     #       p-value
+8642     #       bonferroni
+0	1	1	1	1	0	1	1	1	1 # derived from leading strand
+#        a       c       g       t	 P=>P/0.25
+W	0.92308	0	0	3.0769
+C	0	4	0	0
+A	4	0	0	0
+A	4	0	0	0
+A	3.3846	0	0.30769	0.30769
+G	0	0.61538	3.3846	0

@@ -1,0 +1,10 @@
+GATA_known12	#	GATA_known12	GATA2_2	GATA2_jaspar_MA0036.1
+0.001     #       p-value
+8642     #       bonferroni
+0	1	1	1	1	0	1	1	1	1 # derived from leading strand
+#        a       c       g       t	 P=>P/0.25
+N	0.98113	0.98113	1.3585	0.67924
+G	0	0.37736	3.6226	0
+A	3.9245	0	0.075472	0
+T	0	0	0	4
+R	1.8868	0.5283	1.1321	0.45283

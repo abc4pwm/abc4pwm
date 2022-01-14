@@ -1,0 +1,11 @@
+NFE2L1::MAFG_2	#	NFE2L1::MAFG_2	NFE2L1::MafG_jaspar_MA0089.1
+0.001     #       p-value
+8642     #       bonferroni
+0	1	1	1	1	0	1	1	1	1 # derived from leading strand
+#        a       c       g       t	 P=>P/0.25
+N	0.82353	1.2941	1.1765	0.70588
+A	3.4118	0.2353	0.35294	0
+T	0	0	0	4
+G	0.11765	0	3.7647	0.11765
+A	4	0	0	0
+Y	0	3.0588	0.2353	0.70588

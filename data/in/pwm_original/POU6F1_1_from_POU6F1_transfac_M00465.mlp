@@ -1,0 +1,16 @@
+POU6F1_1	#	POU6F1_1	POU6F1_transfac_M00465
+0.001     #       p-value
+8642     #       bonferroni
+0	1	1	1	1	0	1	1	1	1 # derived from leading strand
+#        a       c       g       t	 P=>P/0.25
+R	0.75	0.25	3	0
+C	0.5	3.25	0	0.25
+A	3.5	0	0	0.5
+T	0.5	0	0	3.5
+A	3.25	0.25	0	0.5
+A	3.25	0.25	0.5	0
+W	1.75	0	0	2.25
+T	0	0	0	4
+W	0.75	0	0	3.25
+A	4	0	0	0
+T	0	0	0.25	3.75

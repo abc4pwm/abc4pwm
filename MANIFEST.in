@@ -1,0 +1,3 @@
+include abc4pwm/bin/Linux/bayesPI
+include abc4pwm/bin/Mac/bayesPI
+

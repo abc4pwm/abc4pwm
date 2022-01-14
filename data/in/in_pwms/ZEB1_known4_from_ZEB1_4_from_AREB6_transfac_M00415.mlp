@@ -1,0 +1,14 @@
+ZEB1_known4	#	ZEB1_known4	ZEB1_4	AREB6_transfac_M00415
+0.001     #       p-value
+8642     #       bonferroni
+0	1	1	1	1	0	1	1	1	1 # derived from leading strand
+#        a       c       g       t	 P=>P/0.25
+M	1	2	0.66667	0.33333
+B	0	1	1.3333	1.6667
+G	0	0	4	0
+T	0	0	0	4
+T	0	0	0	4
+T	0	0	0	4
+S	0	2.3333	1.6667	0
+N	1.3333	0.66667	0.66667	1.3333
+N	1	0.66667	1.3333	1

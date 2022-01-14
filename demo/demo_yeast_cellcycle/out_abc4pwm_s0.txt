@@ -1,0 +1,2331 @@
+ 
+ 
+ ########running abc4pwm on = yeast_GE_7.txt_mlpout_L10_1.mlp
+Searching Task started. . . .  
+
+SGD-ACE2_2_psam.mlp
+SGD-FKH1_2_psam.mlp
+SGD-FKH2_psam.mlp
+SGD-SWI4_2_psam.mlp
+SGD-SWI5_psam.mlp
+yeast_GE_7.txt_mlpout_L10_1.mlp
+Searching Task finished. Please see results in  yeast_abc4pwm_out/strand0/cycle_alpha7/yeast_GE_7.txt_mlpout_L10_1.mlp
+ ########DONE for yeast_GE_7.txt_mlpout_L10_1.mlp
+ 
+ 
+ ########running abc4pwm on = yeast_GE_7.txt_mlpout_L10_2.mlp
+Searching Task started. . . .  
+
+SGD-FKH1_2_psam.mlp
+SGD-FKH2_psam.mlp
+SGD-MCM1_2_psam.mlp
+SGD-NDD1_psam.mlp
+SGD-SWI4_2_psam.mlp
+yeast_GE_7.txt_mlpout_L10_2.mlp
+Searching Task finished. Please see results in  yeast_abc4pwm_out/strand0/cycle_alpha7/yeast_GE_7.txt_mlpout_L10_2.mlp
+ ########DONE for yeast_GE_7.txt_mlpout_L10_2.mlp
+ 
+ 
+ ########running abc4pwm on = yeast_GE_7.txt_mlpout_L10_3.mlp
+Searching Task started. . . .  
+
+SGD-FKH1_1_psam.mlp
+SGD-FKH1_2_psam.mlp
+SGD-FKH2_psam.mlp
+SGD-MCM1_1_psam.mlp
+SGD-SWI5_psam.mlp
+yeast_GE_7.txt_mlpout_L10_3.mlp
+Searching Task finished. Please see results in  yeast_abc4pwm_out/strand0/cycle_alpha7/yeast_GE_7.txt_mlpout_L10_3.mlp
+ ########DONE for yeast_GE_7.txt_mlpout_L10_3.mlp
+ 
+ 
+ ########running abc4pwm on = yeast_GE_7.txt_mlpout_L10_4.mlp
+Searching Task started. . . .  
+
+SGD-FKH1_2_psam.mlp
+SGD-FKH2_psam.mlp
+SGD-MCM1_1_psam.mlp
+SGD-MCM1_2_psam.mlp
+SGD-NDD1_psam.mlp
+yeast_GE_7.txt_mlpout_L10_4.mlp
+Searching Task finished. Please see results in  yeast_abc4pwm_out/strand0/cycle_alpha7/yeast_GE_7.txt_mlpout_L10_4.mlp
+ ########DONE for yeast_GE_7.txt_mlpout_L10_4.mlp
+ 
+ 
+ ########running abc4pwm on = yeast_GE_7.txt_mlpout_L10_5.mlp
+Searching Task started. . . .  
+
+SGD-FKH1_2_psam.mlp
+SGD-FKH2_psam.mlp
+SGD-MCM1_1_psam.mlp
+SGD-MCM1_2_psam.mlp
+SGD-NDD1_psam.mlp
+yeast_GE_7.txt_mlpout_L10_5.mlp
+Searching Task finished. Please see results in  yeast_abc4pwm_out/strand0/cycle_alpha7/yeast_GE_7.txt_mlpout_L10_5.mlp
+ ########DONE for yeast_GE_7.txt_mlpout_L10_5.mlp
+ 
+ 
+ ########running abc4pwm on = yeast_GE_7.txt_mlpout_L10_6.mlp
+Searching Task started. . . .  
+
+SGD-ACE2_2_psam.mlp
+SGD-MBP1_psam.mlp
+SGD-NDD1_psam.mlp
+SGD-SWI4_1_psam.mlp
+SGD-SWI4_2_psam.mlp
+yeast_GE_7.txt_mlpout_L10_6.mlp
+Searching Task finished. Please see results in  yeast_abc4pwm_out/strand0/cycle_alpha7/yeast_GE_7.txt_mlpout_L10_6.mlp
+ ########DONE for yeast_GE_7.txt_mlpout_L10_6.mlp
+ 
+ 
+ ########running abc4pwm on = yeast_GE_7.txt_mlpout_L11_1.mlp
+Searching Task started. . . .  
+
+SGD-ACE2_1_psam.mlp
+SGD-ACE2_2_psam.mlp
+SGD-MCM1_1_psam.mlp
+SGD-NDD1_psam.mlp
+SGD-SWI5_psam.mlp
+yeast_GE_7.txt_mlpout_L11_1.mlp
+Searching Task finished. Please see results in  yeast_abc4pwm_out/strand0/cycle_alpha7/yeast_GE_7.txt_mlpout_L11_1.mlp
+ ########DONE for yeast_GE_7.txt_mlpout_L11_1.mlp
+ 
+ 
+ ########running abc4pwm on = yeast_GE_7.txt_mlpout_L11_2.mlp
+Searching Task started. . . .  
+
+SGD-FKH1_2_psam.mlp
+SGD-FKH2_psam.mlp
+SGD-MCM1_1_psam.mlp
+SGD-MCM1_2_psam.mlp
+SGD-NDD1_psam.mlp
+yeast_GE_7.txt_mlpout_L11_2.mlp
+Searching Task finished. Please see results in  yeast_abc4pwm_out/strand0/cycle_alpha7/yeast_GE_7.txt_mlpout_L11_2.mlp
+ ########DONE for yeast_GE_7.txt_mlpout_L11_2.mlp
+ 
+ 
+ ########running abc4pwm on = yeast_GE_7.txt_mlpout_L11_3.mlp
+Searching Task started. . . .  
+
+SGD-FKH1_2_psam.mlp
+SGD-FKH2_psam.mlp
+SGD-MCM1_1_psam.mlp
+SGD-MCM1_2_psam.mlp
+SGD-NDD1_psam.mlp
+yeast_GE_7.txt_mlpout_L11_3.mlp
+Searching Task finished. Please see results in  yeast_abc4pwm_out/strand0/cycle_alpha7/yeast_GE_7.txt_mlpout_L11_3.mlp
+ ########DONE for yeast_GE_7.txt_mlpout_L11_3.mlp
+ 
+ 
+ ########running abc4pwm on = yeast_GE_7.txt_mlpout_L11_4.mlp
+Searching Task started. . . .  
+
+SGD-FKH1_2_psam.mlp
+SGD-FKH2_psam.mlp
+SGD-MCM1_1_psam.mlp
+SGD-MCM1_2_psam.mlp
+SGD-NDD1_psam.mlp
+yeast_GE_7.txt_mlpout_L11_4.mlp
+Searching Task finished. Please see results in  yeast_abc4pwm_out/strand0/cycle_alpha7/yeast_GE_7.txt_mlpout_L11_4.mlp
+ ########DONE for yeast_GE_7.txt_mlpout_L11_4.mlp
+ 
+ 
+ ########running abc4pwm on = yeast_GE_7.txt_mlpout_L11_5.mlp
+Searching Task started. . . .  
+
+SGD-FKH1_2_psam.mlp
+SGD-FKH2_psam.mlp
+SGD-MCM1_1_psam.mlp
+SGD-MCM1_2_psam.mlp
+SGD-NDD1_psam.mlp
+yeast_GE_7.txt_mlpout_L11_5.mlp
+Searching Task finished. Please see results in  yeast_abc4pwm_out/strand0/cycle_alpha7/yeast_GE_7.txt_mlpout_L11_5.mlp
+ ########DONE for yeast_GE_7.txt_mlpout_L11_5.mlp
+ 
+ 
+ ########running abc4pwm on = yeast_GE_7.txt_mlpout_L11_6.mlp
+Searching Task started. . . .  
+
+SGD-FKH1_2_psam.mlp
+SGD-FKH2_psam.mlp
+SGD-MCM1_1_psam.mlp
+SGD-MCM1_2_psam.mlp
+SGD-NDD1_psam.mlp
+yeast_GE_7.txt_mlpout_L11_6.mlp
+Searching Task finished. Please see results in  yeast_abc4pwm_out/strand0/cycle_alpha7/yeast_GE_7.txt_mlpout_L11_6.mlp
+ ########DONE for yeast_GE_7.txt_mlpout_L11_6.mlp
+ 
+ 
+ ########running abc4pwm on = yeast_GE_7.txt_mlpout_L12_1.mlp
+Searching Task started. . . .  
+
+SGD-ACE2_1_psam.mlp
+SGD-FKH1_2_psam.mlp
+SGD-FKH2_psam.mlp
+SGD-SWI4_1_psam.mlp
+SGD-SWI4_2_psam.mlp
+yeast_GE_7.txt_mlpout_L12_1.mlp
+Searching Task finished. Please see results in  yeast_abc4pwm_out/strand0/cycle_alpha7/yeast_GE_7.txt_mlpout_L12_1.mlp
+ ########DONE for yeast_GE_7.txt_mlpout_L12_1.mlp
+ 
+ 
+ ########running abc4pwm on = yeast_GE_7.txt_mlpout_L12_2.mlp
+Searching Task started. . . .  
+
+SGD-ACE2_1_psam.mlp
+SGD-FKH1_2_psam.mlp
+SGD-FKH2_psam.mlp
+SGD-MBP1_psam.mlp
+SGD-NDD1_psam.mlp
+yeast_GE_7.txt_mlpout_L12_2.mlp
+Searching Task finished. Please see results in  yeast_abc4pwm_out/strand0/cycle_alpha7/yeast_GE_7.txt_mlpout_L12_2.mlp
+ ########DONE for yeast_GE_7.txt_mlpout_L12_2.mlp
+ 
+ 
+ ########running abc4pwm on = yeast_GE_7.txt_mlpout_L12_3.mlp
+Searching Task started. . . .  
+
+SGD-FKH1_2_psam.mlp
+SGD-FKH2_psam.mlp
+SGD-MCM1_1_psam.mlp
+SGD-MCM1_2_psam.mlp
+SGD-NDD1_psam.mlp
+yeast_GE_7.txt_mlpout_L12_3.mlp
+Searching Task finished. Please see results in  yeast_abc4pwm_out/strand0/cycle_alpha7/yeast_GE_7.txt_mlpout_L12_3.mlp
+ ########DONE for yeast_GE_7.txt_mlpout_L12_3.mlp
+ 
+ 
+ ########running abc4pwm on = yeast_GE_7.txt_mlpout_L12_4.mlp
+Searching Task started. . . .  
+
+SGD-FKH1_2_psam.mlp
+SGD-FKH2_psam.mlp
+SGD-MCM1_1_psam.mlp
+SGD-MCM1_2_psam.mlp
+SGD-NDD1_psam.mlp
+yeast_GE_7.txt_mlpout_L12_4.mlp
+Searching Task finished. Please see results in  yeast_abc4pwm_out/strand0/cycle_alpha7/yeast_GE_7.txt_mlpout_L12_4.mlp
+ ########DONE for yeast_GE_7.txt_mlpout_L12_4.mlp
+ 
+ 
+ ########running abc4pwm on = yeast_GE_7.txt_mlpout_L12_5.mlp
+Searching Task started. . . .  
+
+SGD-FKH1_1_psam.mlp
+SGD-MBP1_psam.mlp
+SGD-MCM1_2_psam.mlp
+SGD-NDD1_psam.mlp
+SGD-SWI4_1_psam.mlp
+yeast_GE_7.txt_mlpout_L12_5.mlp
+Searching Task finished. Please see results in  yeast_abc4pwm_out/strand0/cycle_alpha7/yeast_GE_7.txt_mlpout_L12_5.mlp
+ ########DONE for yeast_GE_7.txt_mlpout_L12_5.mlp
+ 
+ 
+ ########running abc4pwm on = yeast_GE_7.txt_mlpout_L12_6.mlp
+Searching Task started. . . .  
+
+SGD-ACE2_1_psam.mlp
+SGD-ACE2_2_psam.mlp
+SGD-FKH1_1_psam.mlp
+SGD-SWI4_1_psam.mlp
+SGD-SWI4_2_psam.mlp
+yeast_GE_7.txt_mlpout_L12_6.mlp
+Searching Task finished. Please see results in  yeast_abc4pwm_out/strand0/cycle_alpha7/yeast_GE_7.txt_mlpout_L12_6.mlp
+ ########DONE for yeast_GE_7.txt_mlpout_L12_6.mlp
+ 
+ 
+ ########running abc4pwm on = yeast_GE_7.txt_mlpout_L13_1.mlp
+Searching Task started. . . .  
+
+SGD-ACE2_2_psam.mlp
+SGD-MCM1_2_psam.mlp
+SGD-NDD1_psam.mlp
+SGD-SWI4_2_psam.mlp
+SGD-SWI5_psam.mlp
+yeast_GE_7.txt_mlpout_L13_1.mlp
+Searching Task finished. Please see results in  yeast_abc4pwm_out/strand0/cycle_alpha7/yeast_GE_7.txt_mlpout_L13_1.mlp
+ ########DONE for yeast_GE_7.txt_mlpout_L13_1.mlp
+ 
+ 
+ ########running abc4pwm on = yeast_GE_7.txt_mlpout_L13_2.mlp
+Searching Task started. . . .  
+
+SGD-FKH1_2_psam.mlp
+SGD-FKH2_psam.mlp
+SGD-MCM1_1_psam.mlp
+SGD-MCM1_2_psam.mlp
+SGD-NDD1_psam.mlp
+yeast_GE_7.txt_mlpout_L13_2.mlp
+Searching Task finished. Please see results in  yeast_abc4pwm_out/strand0/cycle_alpha7/yeast_GE_7.txt_mlpout_L13_2.mlp
+ ########DONE for yeast_GE_7.txt_mlpout_L13_2.mlp
+ 
+ 
+ ########running abc4pwm on = yeast_GE_7.txt_mlpout_L13_3.mlp
+Searching Task started. . . .  
+
+SGD-ACE2_2_psam.mlp
+SGD-MCM1_2_psam.mlp
+SGD-NDD1_psam.mlp
+SGD-SWI4_1_psam.mlp
+SGD-SWI4_2_psam.mlp
+yeast_GE_7.txt_mlpout_L13_3.mlp
+Searching Task finished. Please see results in  yeast_abc4pwm_out/strand0/cycle_alpha7/yeast_GE_7.txt_mlpout_L13_3.mlp
+ ########DONE for yeast_GE_7.txt_mlpout_L13_3.mlp
+ 
+ 
+ ########running abc4pwm on = yeast_GE_7.txt_mlpout_L13_4.mlp
+Searching Task started. . . .  
+
+SGD-ACE2_1_psam.mlp
+SGD-ACE2_2_psam.mlp
+SGD-NDD1_psam.mlp
+SGD-SWI4_1_psam.mlp
+SGD-SWI5_psam.mlp
+yeast_GE_7.txt_mlpout_L13_4.mlp
+Searching Task finished. Please see results in  yeast_abc4pwm_out/strand0/cycle_alpha7/yeast_GE_7.txt_mlpout_L13_4.mlp
+ ########DONE for yeast_GE_7.txt_mlpout_L13_4.mlp
+ 
+ 
+ ########running abc4pwm on = yeast_GE_7.txt_mlpout_L13_5.mlp
+Searching Task started. . . .  
+
+SGD-FKH1_1_psam.mlp
+SGD-FKH1_2_psam.mlp
+SGD-FKH2_psam.mlp
+SGD-SWI4_1_psam.mlp
+SGD-SWI5_psam.mlp
+yeast_GE_7.txt_mlpout_L13_5.mlp
+Searching Task finished. Please see results in  yeast_abc4pwm_out/strand0/cycle_alpha7/yeast_GE_7.txt_mlpout_L13_5.mlp
+ ########DONE for yeast_GE_7.txt_mlpout_L13_5.mlp
+ 
+ 
+ ########running abc4pwm on = yeast_GE_7.txt_mlpout_L13_6.mlp
+Searching Task started. . . .  
+
+SGD-ACE2_1_psam.mlp
+SGD-ACE2_2_psam.mlp
+SGD-MBP1_psam.mlp
+SGD-SWI4_2_psam.mlp
+SGD-SWI5_psam.mlp
+yeast_GE_7.txt_mlpout_L13_6.mlp
+Searching Task finished. Please see results in  yeast_abc4pwm_out/strand0/cycle_alpha7/yeast_GE_7.txt_mlpout_L13_6.mlp
+ ########DONE for yeast_GE_7.txt_mlpout_L13_6.mlp
+ 
+ 
+ ########running abc4pwm on = yeast_GE_7.txt_mlpout_L14_1.mlp
+Searching Task started. . . .  
+
+SGD-ACE2_1_psam.mlp
+SGD-ACE2_2_psam.mlp
+SGD-FKH2_psam.mlp
+SGD-SWI4_2_psam.mlp
+SGD-SWI5_psam.mlp
+yeast_GE_7.txt_mlpout_L14_1.mlp
+Searching Task finished. Please see results in  yeast_abc4pwm_out/strand0/cycle_alpha7/yeast_GE_7.txt_mlpout_L14_1.mlp
+ ########DONE for yeast_GE_7.txt_mlpout_L14_1.mlp
+ 
+ 
+ ########running abc4pwm on = yeast_GE_7.txt_mlpout_L14_2.mlp
+Searching Task started. . . .  
+
+SGD-FKH1_2_psam.mlp
+SGD-FKH2_psam.mlp
+SGD-MCM1_2_psam.mlp
+SGD-NDD1_psam.mlp
+SGD-SWI5_psam.mlp
+yeast_GE_7.txt_mlpout_L14_2.mlp
+Searching Task finished. Please see results in  yeast_abc4pwm_out/strand0/cycle_alpha7/yeast_GE_7.txt_mlpout_L14_2.mlp
+ ########DONE for yeast_GE_7.txt_mlpout_L14_2.mlp
+ 
+ 
+ ########running abc4pwm on = yeast_GE_7.txt_mlpout_L14_3.mlp
+Searching Task started. . . .  
+
+SGD-ACE2_2_psam.mlp
+SGD-FKH1_2_psam.mlp
+SGD-FKH2_psam.mlp
+SGD-MCM1_2_psam.mlp
+SGD-NDD1_psam.mlp
+yeast_GE_7.txt_mlpout_L14_3.mlp
+Searching Task finished. Please see results in  yeast_abc4pwm_out/strand0/cycle_alpha7/yeast_GE_7.txt_mlpout_L14_3.mlp
+ ########DONE for yeast_GE_7.txt_mlpout_L14_3.mlp
+ 
+ 
+ ########running abc4pwm on = yeast_GE_7.txt_mlpout_L14_4.mlp
+Searching Task started. . . .  
+
+SGD-ACE2_1_psam.mlp
+SGD-FKH1_2_psam.mlp
+SGD-FKH2_psam.mlp
+SGD-SWI4_1_psam.mlp
+SGD-SWI5_psam.mlp
+yeast_GE_7.txt_mlpout_L14_4.mlp
+Searching Task finished. Please see results in  yeast_abc4pwm_out/strand0/cycle_alpha7/yeast_GE_7.txt_mlpout_L14_4.mlp
+ ########DONE for yeast_GE_7.txt_mlpout_L14_4.mlp
+ 
+ 
+ ########running abc4pwm on = yeast_GE_7.txt_mlpout_L14_5.mlp
+Searching Task started. . . .  
+
+SGD-FKH1_1_psam.mlp
+SGD-FKH1_2_psam.mlp
+SGD-FKH2_psam.mlp
+SGD-MBP1_psam.mlp
+SGD-NDD1_psam.mlp
+yeast_GE_7.txt_mlpout_L14_5.mlp
+Searching Task finished. Please see results in  yeast_abc4pwm_out/strand0/cycle_alpha7/yeast_GE_7.txt_mlpout_L14_5.mlp
+ ########DONE for yeast_GE_7.txt_mlpout_L14_5.mlp
+ 
+ 
+ ########running abc4pwm on = yeast_GE_7.txt_mlpout_L14_6.mlp
+Searching Task started. . . .  
+
+SGD-ACE2_1_psam.mlp
+SGD-ACE2_2_psam.mlp
+SGD-MCM1_2_psam.mlp
+SGD-NDD1_psam.mlp
+SGD-SWI5_psam.mlp
+yeast_GE_7.txt_mlpout_L14_6.mlp
+Searching Task finished. Please see results in  yeast_abc4pwm_out/strand0/cycle_alpha7/yeast_GE_7.txt_mlpout_L14_6.mlp
+ ########DONE for yeast_GE_7.txt_mlpout_L14_6.mlp
+ 
+ 
+ ########running abc4pwm on = yeast_GE_7.txt_mlpout_L6_1.mlp
+Searching Task started. . . .  
+
+SGD-FKH2_psam.mlp
+SGD-MCM1_1_psam.mlp
+SGD-MCM1_2_psam.mlp
+SGD-NDD1_psam.mlp
+SGD-SWI4_2_psam.mlp
+yeast_GE_7.txt_mlpout_L6_1.mlp
+Searching Task finished. Please see results in  yeast_abc4pwm_out/strand0/cycle_alpha7/yeast_GE_7.txt_mlpout_L6_1.mlp
+ ########DONE for yeast_GE_7.txt_mlpout_L6_1.mlp
+ 
+ 
+ ########running abc4pwm on = yeast_GE_7.txt_mlpout_L6_2.mlp
+Searching Task started. . . .  
+
+SGD-FKH1_2_psam.mlp
+SGD-FKH2_psam.mlp
+SGD-MCM1_1_psam.mlp
+SGD-MCM1_2_psam.mlp
+SGD-NDD1_psam.mlp
+yeast_GE_7.txt_mlpout_L6_2.mlp
+Searching Task finished. Please see results in  yeast_abc4pwm_out/strand0/cycle_alpha7/yeast_GE_7.txt_mlpout_L6_2.mlp
+ ########DONE for yeast_GE_7.txt_mlpout_L6_2.mlp
+ 
+ 
+ ########running abc4pwm on = yeast_GE_7.txt_mlpout_L6_3.mlp
+Searching Task started. . . .  
+
+SGD-ACE2_2_psam.mlp
+SGD-FKH1_2_psam.mlp
+SGD-FKH2_psam.mlp
+SGD-MCM1_2_psam.mlp
+SGD-NDD1_psam.mlp
+yeast_GE_7.txt_mlpout_L6_3.mlp
+Searching Task finished. Please see results in  yeast_abc4pwm_out/strand0/cycle_alpha7/yeast_GE_7.txt_mlpout_L6_3.mlp
+ ########DONE for yeast_GE_7.txt_mlpout_L6_3.mlp
+ 
+ 
+ ########running abc4pwm on = yeast_GE_7.txt_mlpout_L6_4.mlp
+Searching Task started. . . .  
+
+SGD-MCM1_1_psam.mlp
+SGD-MCM1_2_psam.mlp
+SGD-NDD1_psam.mlp
+SGD-SWI4_1_psam.mlp
+SGD-SWI4_2_psam.mlp
+yeast_GE_7.txt_mlpout_L6_4.mlp
+Searching Task finished. Please see results in  yeast_abc4pwm_out/strand0/cycle_alpha7/yeast_GE_7.txt_mlpout_L6_4.mlp
+ ########DONE for yeast_GE_7.txt_mlpout_L6_4.mlp
+ 
+ 
+ ########running abc4pwm on = yeast_GE_7.txt_mlpout_L6_5.mlp
+Searching Task started. . . .  
+
+SGD-FKH2_psam.mlp
+SGD-MCM1_1_psam.mlp
+SGD-MCM1_2_psam.mlp
+SGD-NDD1_psam.mlp
+SGD-SWI4_1_psam.mlp
+yeast_GE_7.txt_mlpout_L6_5.mlp
+Searching Task finished. Please see results in  yeast_abc4pwm_out/strand0/cycle_alpha7/yeast_GE_7.txt_mlpout_L6_5.mlp
+ ########DONE for yeast_GE_7.txt_mlpout_L6_5.mlp
+ 
+ 
+ ########running abc4pwm on = yeast_GE_7.txt_mlpout_L6_6.mlp
+Searching Task started. . . .  
+
+SGD-FKH1_2_psam.mlp
+SGD-FKH2_psam.mlp
+SGD-MCM1_1_psam.mlp
+SGD-MCM1_2_psam.mlp
+SGD-NDD1_psam.mlp
+yeast_GE_7.txt_mlpout_L6_6.mlp
+Searching Task finished. Please see results in  yeast_abc4pwm_out/strand0/cycle_alpha7/yeast_GE_7.txt_mlpout_L6_6.mlp
+ ########DONE for yeast_GE_7.txt_mlpout_L6_6.mlp
+ 
+ 
+ ########running abc4pwm on = yeast_GE_7.txt_mlpout_L7_1.mlp
+Searching Task started. . . .  
+
+SGD-ACE2_1_psam.mlp
+SGD-ACE2_2_psam.mlp
+SGD-FKH1_1_psam.mlp
+SGD-FKH1_2_psam.mlp
+SGD-FKH2_psam.mlp
+yeast_GE_7.txt_mlpout_L7_1.mlp
+Searching Task finished. Please see results in  yeast_abc4pwm_out/strand0/cycle_alpha7/yeast_GE_7.txt_mlpout_L7_1.mlp
+ ########DONE for yeast_GE_7.txt_mlpout_L7_1.mlp
+ 
+ 
+ ########running abc4pwm on = yeast_GE_7.txt_mlpout_L7_2.mlp
+Searching Task started. . . .  
+
+SGD-FKH1_2_psam.mlp
+SGD-FKH2_psam.mlp
+SGD-MCM1_1_psam.mlp
+SGD-MCM1_2_psam.mlp
+SGD-NDD1_psam.mlp
+yeast_GE_7.txt_mlpout_L7_2.mlp
+Searching Task finished. Please see results in  yeast_abc4pwm_out/strand0/cycle_alpha7/yeast_GE_7.txt_mlpout_L7_2.mlp
+ ########DONE for yeast_GE_7.txt_mlpout_L7_2.mlp
+ 
+ 
+ ########running abc4pwm on = yeast_GE_7.txt_mlpout_L7_3.mlp
+Searching Task started. . . .  
+
+SGD-FKH2_psam.mlp
+SGD-MCM1_1_psam.mlp
+SGD-MCM1_2_psam.mlp
+SGD-NDD1_psam.mlp
+SGD-SWI5_psam.mlp
+yeast_GE_7.txt_mlpout_L7_3.mlp
+Searching Task finished. Please see results in  yeast_abc4pwm_out/strand0/cycle_alpha7/yeast_GE_7.txt_mlpout_L7_3.mlp
+ ########DONE for yeast_GE_7.txt_mlpout_L7_3.mlp
+ 
+ 
+ ########running abc4pwm on = yeast_GE_7.txt_mlpout_L7_4.mlp
+Searching Task started. . . .  
+
+SGD-FKH1_2_psam.mlp
+SGD-FKH2_psam.mlp
+SGD-MCM1_1_psam.mlp
+SGD-NDD1_psam.mlp
+SGD-SWI5_psam.mlp
+yeast_GE_7.txt_mlpout_L7_4.mlp
+Searching Task finished. Please see results in  yeast_abc4pwm_out/strand0/cycle_alpha7/yeast_GE_7.txt_mlpout_L7_4.mlp
+ ########DONE for yeast_GE_7.txt_mlpout_L7_4.mlp
+ 
+ 
+ ########running abc4pwm on = yeast_GE_7.txt_mlpout_L7_5.mlp
+Searching Task started. . . .  
+
+SGD-ACE2_2_psam.mlp
+SGD-FKH2_psam.mlp
+SGD-MCM1_1_psam.mlp
+SGD-MCM1_2_psam.mlp
+SGD-NDD1_psam.mlp
+yeast_GE_7.txt_mlpout_L7_5.mlp
+Searching Task finished. Please see results in  yeast_abc4pwm_out/strand0/cycle_alpha7/yeast_GE_7.txt_mlpout_L7_5.mlp
+ ########DONE for yeast_GE_7.txt_mlpout_L7_5.mlp
+ 
+ 
+ ########running abc4pwm on = yeast_GE_7.txt_mlpout_L7_6.mlp
+Searching Task started. . . .  
+
+SGD-FKH1_1_psam.mlp
+SGD-FKH2_psam.mlp
+SGD-MCM1_1_psam.mlp
+SGD-SWI4_2_psam.mlp
+SGD-SWI5_psam.mlp
+yeast_GE_7.txt_mlpout_L7_6.mlp
+Searching Task finished. Please see results in  yeast_abc4pwm_out/strand0/cycle_alpha7/yeast_GE_7.txt_mlpout_L7_6.mlp
+ ########DONE for yeast_GE_7.txt_mlpout_L7_6.mlp
+ 
+ 
+ ########running abc4pwm on = yeast_GE_7.txt_mlpout_L8_1.mlp
+Searching Task started. . . .  
+
+SGD-ACE2_2_psam.mlp
+SGD-FKH1_2_psam.mlp
+SGD-FKH2_psam.mlp
+SGD-SWI4_2_psam.mlp
+SGD-SWI5_psam.mlp
+yeast_GE_7.txt_mlpout_L8_1.mlp
+Searching Task finished. Please see results in  yeast_abc4pwm_out/strand0/cycle_alpha7/yeast_GE_7.txt_mlpout_L8_1.mlp
+ ########DONE for yeast_GE_7.txt_mlpout_L8_1.mlp
+ 
+ 
+ ########running abc4pwm on = yeast_GE_7.txt_mlpout_L8_2.mlp
+Searching Task started. . . .  
+
+SGD-FKH1_2_psam.mlp
+SGD-FKH2_psam.mlp
+SGD-MCM1_1_psam.mlp
+SGD-MCM1_2_psam.mlp
+SGD-NDD1_psam.mlp
+yeast_GE_7.txt_mlpout_L8_2.mlp
+Searching Task finished. Please see results in  yeast_abc4pwm_out/strand0/cycle_alpha7/yeast_GE_7.txt_mlpout_L8_2.mlp
+ ########DONE for yeast_GE_7.txt_mlpout_L8_2.mlp
+ 
+ 
+ ########running abc4pwm on = yeast_GE_7.txt_mlpout_L8_3.mlp
+Searching Task started. . . .  
+
+SGD-ACE2_2_psam.mlp
+SGD-MCM1_1_psam.mlp
+SGD-MCM1_2_psam.mlp
+SGD-NDD1_psam.mlp
+SGD-SWI4_2_psam.mlp
+yeast_GE_7.txt_mlpout_L8_3.mlp
+Searching Task finished. Please see results in  yeast_abc4pwm_out/strand0/cycle_alpha7/yeast_GE_7.txt_mlpout_L8_3.mlp
+ ########DONE for yeast_GE_7.txt_mlpout_L8_3.mlp
+ 
+ 
+ ########running abc4pwm on = yeast_GE_7.txt_mlpout_L8_4.mlp
+Searching Task started. . . .  
+
+SGD-FKH1_2_psam.mlp
+SGD-FKH2_psam.mlp
+SGD-MCM1_1_psam.mlp
+SGD-NDD1_psam.mlp
+SGD-SWI5_psam.mlp
+yeast_GE_7.txt_mlpout_L8_4.mlp
+Searching Task finished. Please see results in  yeast_abc4pwm_out/strand0/cycle_alpha7/yeast_GE_7.txt_mlpout_L8_4.mlp
+ ########DONE for yeast_GE_7.txt_mlpout_L8_4.mlp
+ 
+ 
+ ########running abc4pwm on = yeast_GE_7.txt_mlpout_L8_5.mlp
+Searching Task started. . . .  
+
+SGD-FKH1_2_psam.mlp
+SGD-FKH2_psam.mlp
+SGD-MCM1_1_psam.mlp
+SGD-MCM1_2_psam.mlp
+SGD-NDD1_psam.mlp
+yeast_GE_7.txt_mlpout_L8_5.mlp
+Searching Task finished. Please see results in  yeast_abc4pwm_out/strand0/cycle_alpha7/yeast_GE_7.txt_mlpout_L8_5.mlp
+ ########DONE for yeast_GE_7.txt_mlpout_L8_5.mlp
+ 
+ 
+ ########running abc4pwm on = yeast_GE_7.txt_mlpout_L8_6.mlp
+Searching Task started. . . .  
+
+SGD-FKH1_2_psam.mlp
+SGD-FKH2_psam.mlp
+SGD-MCM1_1_psam.mlp
+SGD-MCM1_2_psam.mlp
+SGD-NDD1_psam.mlp
+yeast_GE_7.txt_mlpout_L8_6.mlp
+Searching Task finished. Please see results in  yeast_abc4pwm_out/strand0/cycle_alpha7/yeast_GE_7.txt_mlpout_L8_6.mlp
+ ########DONE for yeast_GE_7.txt_mlpout_L8_6.mlp
+ 
+ 
+ ########running abc4pwm on = yeast_GE_7.txt_mlpout_L9_1.mlp
+Searching Task started. . . .  
+
+SGD-ACE2_1_psam.mlp
+SGD-ACE2_2_psam.mlp
+SGD-FKH1_2_psam.mlp
+SGD-FKH2_psam.mlp
+SGD-MCM1_2_psam.mlp
+yeast_GE_7.txt_mlpout_L9_1.mlp
+Searching Task finished. Please see results in  yeast_abc4pwm_out/strand0/cycle_alpha7/yeast_GE_7.txt_mlpout_L9_1.mlp
+ ########DONE for yeast_GE_7.txt_mlpout_L9_1.mlp
+ 
+ 
+ ########running abc4pwm on = yeast_GE_7.txt_mlpout_L9_2.mlp
+Searching Task started. . . .  
+
+SGD-FKH1_2_psam.mlp
+SGD-FKH2_psam.mlp
+SGD-MCM1_1_psam.mlp
+SGD-MCM1_2_psam.mlp
+SGD-NDD1_psam.mlp
+yeast_GE_7.txt_mlpout_L9_2.mlp
+Searching Task finished. Please see results in  yeast_abc4pwm_out/strand0/cycle_alpha7/yeast_GE_7.txt_mlpout_L9_2.mlp
+ ########DONE for yeast_GE_7.txt_mlpout_L9_2.mlp
+ 
+ 
+ ########running abc4pwm on = yeast_GE_7.txt_mlpout_L9_3.mlp
+Searching Task started. . . .  
+
+SGD-FKH1_2_psam.mlp
+SGD-FKH2_psam.mlp
+SGD-NDD1_psam.mlp
+SGD-SWI4_1_psam.mlp
+SGD-SWI4_2_psam.mlp
+yeast_GE_7.txt_mlpout_L9_3.mlp
+Searching Task finished. Please see results in  yeast_abc4pwm_out/strand0/cycle_alpha7/yeast_GE_7.txt_mlpout_L9_3.mlp
+ ########DONE for yeast_GE_7.txt_mlpout_L9_3.mlp
+ 
+ 
+ ########running abc4pwm on = yeast_GE_7.txt_mlpout_L9_4.mlp
+Searching Task started. . . .  
+
+SGD-FKH1_1_psam.mlp
+SGD-FKH1_2_psam.mlp
+SGD-FKH2_psam.mlp
+SGD-MCM1_2_psam.mlp
+SGD-NDD1_psam.mlp
+yeast_GE_7.txt_mlpout_L9_4.mlp
+Searching Task finished. Please see results in  yeast_abc4pwm_out/strand0/cycle_alpha7/yeast_GE_7.txt_mlpout_L9_4.mlp
+ ########DONE for yeast_GE_7.txt_mlpout_L9_4.mlp
+ 
+ 
+ ########running abc4pwm on = yeast_GE_7.txt_mlpout_L9_5.mlp
+Searching Task started. . . .  
+
+SGD-ACE2_2_psam.mlp
+SGD-MCM1_2_psam.mlp
+SGD-NDD1_psam.mlp
+SGD-SWI4_2_psam.mlp
+SGD-SWI5_psam.mlp
+yeast_GE_7.txt_mlpout_L9_5.mlp
+Searching Task finished. Please see results in  yeast_abc4pwm_out/strand0/cycle_alpha7/yeast_GE_7.txt_mlpout_L9_5.mlp
+ ########DONE for yeast_GE_7.txt_mlpout_L9_5.mlp
+ 
+ 
+ ########running abc4pwm on = yeast_GE_7.txt_mlpout_L9_6.mlp
+Searching Task started. . . .  
+
+SGD-FKH1_2_psam.mlp
+SGD-FKH2_psam.mlp
+SGD-MCM1_1_psam.mlp
+SGD-MCM1_2_psam.mlp
+SGD-NDD1_psam.mlp
+yeast_GE_7.txt_mlpout_L9_6.mlp
+Searching Task finished. Please see results in  yeast_abc4pwm_out/strand0/cycle_alpha7/yeast_GE_7.txt_mlpout_L9_6.mlp
+ ########DONE for yeast_GE_7.txt_mlpout_L9_6.mlp
+ 
+Combining scores for predicted mols
+ ########running abc4pwm on = yeast_GE_7.txt_mlpout_L10_1.mlp
+ ########Written file: yeast_abc4pwm_out/strand0/cycle_alpha7/yeast_GE_7.txt_mlpout_L10_1.mlp/search_results.txt.fname
+ ########running abc4pwm on = yeast_GE_7.txt_mlpout_L10_2.mlp
+ ########Written file: yeast_abc4pwm_out/strand0/cycle_alpha7/yeast_GE_7.txt_mlpout_L10_2.mlp/search_results.txt.fname
+ ########running abc4pwm on = yeast_GE_7.txt_mlpout_L10_3.mlp
+ ########Written file: yeast_abc4pwm_out/strand0/cycle_alpha7/yeast_GE_7.txt_mlpout_L10_3.mlp/search_results.txt.fname
+ ########running abc4pwm on = yeast_GE_7.txt_mlpout_L10_4.mlp
+ ########Written file: yeast_abc4pwm_out/strand0/cycle_alpha7/yeast_GE_7.txt_mlpout_L10_4.mlp/search_results.txt.fname
+ ########running abc4pwm on = yeast_GE_7.txt_mlpout_L10_5.mlp
+ ########Written file: yeast_abc4pwm_out/strand0/cycle_alpha7/yeast_GE_7.txt_mlpout_L10_5.mlp/search_results.txt.fname
+ ########running abc4pwm on = yeast_GE_7.txt_mlpout_L10_6.mlp
+ ########Written file: yeast_abc4pwm_out/strand0/cycle_alpha7/yeast_GE_7.txt_mlpout_L10_6.mlp/search_results.txt.fname
+ ########running abc4pwm on = yeast_GE_7.txt_mlpout_L11_1.mlp
+ ########Written file: yeast_abc4pwm_out/strand0/cycle_alpha7/yeast_GE_7.txt_mlpout_L11_1.mlp/search_results.txt.fname
+ ########running abc4pwm on = yeast_GE_7.txt_mlpout_L11_2.mlp
+ ########Written file: yeast_abc4pwm_out/strand0/cycle_alpha7/yeast_GE_7.txt_mlpout_L11_2.mlp/search_results.txt.fname
+ ########running abc4pwm on = yeast_GE_7.txt_mlpout_L11_3.mlp
+ ########Written file: yeast_abc4pwm_out/strand0/cycle_alpha7/yeast_GE_7.txt_mlpout_L11_3.mlp/search_results.txt.fname
+ ########running abc4pwm on = yeast_GE_7.txt_mlpout_L11_4.mlp
+ ########Written file: yeast_abc4pwm_out/strand0/cycle_alpha7/yeast_GE_7.txt_mlpout_L11_4.mlp/search_results.txt.fname
+ ########running abc4pwm on = yeast_GE_7.txt_mlpout_L11_5.mlp
+ ########Written file: yeast_abc4pwm_out/strand0/cycle_alpha7/yeast_GE_7.txt_mlpout_L11_5.mlp/search_results.txt.fname
+ ########running abc4pwm on = yeast_GE_7.txt_mlpout_L11_6.mlp
+ ########Written file: yeast_abc4pwm_out/strand0/cycle_alpha7/yeast_GE_7.txt_mlpout_L11_6.mlp/search_results.txt.fname
+ ########running abc4pwm on = yeast_GE_7.txt_mlpout_L12_1.mlp
+ ########Written file: yeast_abc4pwm_out/strand0/cycle_alpha7/yeast_GE_7.txt_mlpout_L12_1.mlp/search_results.txt.fname
+ ########running abc4pwm on = yeast_GE_7.txt_mlpout_L12_2.mlp
+ ########Written file: yeast_abc4pwm_out/strand0/cycle_alpha7/yeast_GE_7.txt_mlpout_L12_2.mlp/search_results.txt.fname
+ ########running abc4pwm on = yeast_GE_7.txt_mlpout_L12_3.mlp
+ ########Written file: yeast_abc4pwm_out/strand0/cycle_alpha7/yeast_GE_7.txt_mlpout_L12_3.mlp/search_results.txt.fname
+ ########running abc4pwm on = yeast_GE_7.txt_mlpout_L12_4.mlp
+ ########Written file: yeast_abc4pwm_out/strand0/cycle_alpha7/yeast_GE_7.txt_mlpout_L12_4.mlp/search_results.txt.fname
+ ########running abc4pwm on = yeast_GE_7.txt_mlpout_L12_5.mlp
+ ########Written file: yeast_abc4pwm_out/strand0/cycle_alpha7/yeast_GE_7.txt_mlpout_L12_5.mlp/search_results.txt.fname
+ ########running abc4pwm on = yeast_GE_7.txt_mlpout_L12_6.mlp
+ ########Written file: yeast_abc4pwm_out/strand0/cycle_alpha7/yeast_GE_7.txt_mlpout_L12_6.mlp/search_results.txt.fname
+ ########running abc4pwm on = yeast_GE_7.txt_mlpout_L13_1.mlp
+ ########Written file: yeast_abc4pwm_out/strand0/cycle_alpha7/yeast_GE_7.txt_mlpout_L13_1.mlp/search_results.txt.fname
+ ########running abc4pwm on = yeast_GE_7.txt_mlpout_L13_2.mlp
+ ########Written file: yeast_abc4pwm_out/strand0/cycle_alpha7/yeast_GE_7.txt_mlpout_L13_2.mlp/search_results.txt.fname
+ ########running abc4pwm on = yeast_GE_7.txt_mlpout_L13_3.mlp
+ ########Written file: yeast_abc4pwm_out/strand0/cycle_alpha7/yeast_GE_7.txt_mlpout_L13_3.mlp/search_results.txt.fname
+ ########running abc4pwm on = yeast_GE_7.txt_mlpout_L13_4.mlp
+ ########Written file: yeast_abc4pwm_out/strand0/cycle_alpha7/yeast_GE_7.txt_mlpout_L13_4.mlp/search_results.txt.fname
+ ########running abc4pwm on = yeast_GE_7.txt_mlpout_L13_5.mlp
+ ########Written file: yeast_abc4pwm_out/strand0/cycle_alpha7/yeast_GE_7.txt_mlpout_L13_5.mlp/search_results.txt.fname
+ ########running abc4pwm on = yeast_GE_7.txt_mlpout_L13_6.mlp
+ ########Written file: yeast_abc4pwm_out/strand0/cycle_alpha7/yeast_GE_7.txt_mlpout_L13_6.mlp/search_results.txt.fname
+ ########running abc4pwm on = yeast_GE_7.txt_mlpout_L14_1.mlp
+ ########Written file: yeast_abc4pwm_out/strand0/cycle_alpha7/yeast_GE_7.txt_mlpout_L14_1.mlp/search_results.txt.fname
+ ########running abc4pwm on = yeast_GE_7.txt_mlpout_L14_2.mlp
+ ########Written file: yeast_abc4pwm_out/strand0/cycle_alpha7/yeast_GE_7.txt_mlpout_L14_2.mlp/search_results.txt.fname
+ ########running abc4pwm on = yeast_GE_7.txt_mlpout_L14_3.mlp
+ ########Written file: yeast_abc4pwm_out/strand0/cycle_alpha7/yeast_GE_7.txt_mlpout_L14_3.mlp/search_results.txt.fname
+ ########running abc4pwm on = yeast_GE_7.txt_mlpout_L14_4.mlp
+ ########Written file: yeast_abc4pwm_out/strand0/cycle_alpha7/yeast_GE_7.txt_mlpout_L14_4.mlp/search_results.txt.fname
+ ########running abc4pwm on = yeast_GE_7.txt_mlpout_L14_5.mlp
+ ########Written file: yeast_abc4pwm_out/strand0/cycle_alpha7/yeast_GE_7.txt_mlpout_L14_5.mlp/search_results.txt.fname
+ ########running abc4pwm on = yeast_GE_7.txt_mlpout_L14_6.mlp
+ ########Written file: yeast_abc4pwm_out/strand0/cycle_alpha7/yeast_GE_7.txt_mlpout_L14_6.mlp/search_results.txt.fname
+ ########running abc4pwm on = yeast_GE_7.txt_mlpout_L6_1.mlp
+ ########Written file: yeast_abc4pwm_out/strand0/cycle_alpha7/yeast_GE_7.txt_mlpout_L6_1.mlp/search_results.txt.fname
+ ########running abc4pwm on = yeast_GE_7.txt_mlpout_L6_2.mlp
+ ########Written file: yeast_abc4pwm_out/strand0/cycle_alpha7/yeast_GE_7.txt_mlpout_L6_2.mlp/search_results.txt.fname
+ ########running abc4pwm on = yeast_GE_7.txt_mlpout_L6_3.mlp
+ ########Written file: yeast_abc4pwm_out/strand0/cycle_alpha7/yeast_GE_7.txt_mlpout_L6_3.mlp/search_results.txt.fname
+ ########running abc4pwm on = yeast_GE_7.txt_mlpout_L6_4.mlp
+ ########Written file: yeast_abc4pwm_out/strand0/cycle_alpha7/yeast_GE_7.txt_mlpout_L6_4.mlp/search_results.txt.fname
+ ########running abc4pwm on = yeast_GE_7.txt_mlpout_L6_5.mlp
+ ########Written file: yeast_abc4pwm_out/strand0/cycle_alpha7/yeast_GE_7.txt_mlpout_L6_5.mlp/search_results.txt.fname
+ ########running abc4pwm on = yeast_GE_7.txt_mlpout_L6_6.mlp
+ ########Written file: yeast_abc4pwm_out/strand0/cycle_alpha7/yeast_GE_7.txt_mlpout_L6_6.mlp/search_results.txt.fname
+ ########running abc4pwm on = yeast_GE_7.txt_mlpout_L7_1.mlp
+ ########Written file: yeast_abc4pwm_out/strand0/cycle_alpha7/yeast_GE_7.txt_mlpout_L7_1.mlp/search_results.txt.fname
+ ########running abc4pwm on = yeast_GE_7.txt_mlpout_L7_2.mlp
+ ########Written file: yeast_abc4pwm_out/strand0/cycle_alpha7/yeast_GE_7.txt_mlpout_L7_2.mlp/search_results.txt.fname
+ ########running abc4pwm on = yeast_GE_7.txt_mlpout_L7_3.mlp
+ ########Written file: yeast_abc4pwm_out/strand0/cycle_alpha7/yeast_GE_7.txt_mlpout_L7_3.mlp/search_results.txt.fname
+ ########running abc4pwm on = yeast_GE_7.txt_mlpout_L7_4.mlp
+ ########Written file: yeast_abc4pwm_out/strand0/cycle_alpha7/yeast_GE_7.txt_mlpout_L7_4.mlp/search_results.txt.fname
+ ########running abc4pwm on = yeast_GE_7.txt_mlpout_L7_5.mlp
+ ########Written file: yeast_abc4pwm_out/strand0/cycle_alpha7/yeast_GE_7.txt_mlpout_L7_5.mlp/search_results.txt.fname
+ ########running abc4pwm on = yeast_GE_7.txt_mlpout_L7_6.mlp
+ ########Written file: yeast_abc4pwm_out/strand0/cycle_alpha7/yeast_GE_7.txt_mlpout_L7_6.mlp/search_results.txt.fname
+ ########running abc4pwm on = yeast_GE_7.txt_mlpout_L8_1.mlp
+ ########Written file: yeast_abc4pwm_out/strand0/cycle_alpha7/yeast_GE_7.txt_mlpout_L8_1.mlp/search_results.txt.fname
+ ########running abc4pwm on = yeast_GE_7.txt_mlpout_L8_2.mlp
+ ########Written file: yeast_abc4pwm_out/strand0/cycle_alpha7/yeast_GE_7.txt_mlpout_L8_2.mlp/search_results.txt.fname
+ ########running abc4pwm on = yeast_GE_7.txt_mlpout_L8_3.mlp
+ ########Written file: yeast_abc4pwm_out/strand0/cycle_alpha7/yeast_GE_7.txt_mlpout_L8_3.mlp/search_results.txt.fname
+ ########running abc4pwm on = yeast_GE_7.txt_mlpout_L8_4.mlp
+ ########Written file: yeast_abc4pwm_out/strand0/cycle_alpha7/yeast_GE_7.txt_mlpout_L8_4.mlp/search_results.txt.fname
+ ########running abc4pwm on = yeast_GE_7.txt_mlpout_L8_5.mlp
+ ########Written file: yeast_abc4pwm_out/strand0/cycle_alpha7/yeast_GE_7.txt_mlpout_L8_5.mlp/search_results.txt.fname
+ ########running abc4pwm on = yeast_GE_7.txt_mlpout_L8_6.mlp
+ ########Written file: yeast_abc4pwm_out/strand0/cycle_alpha7/yeast_GE_7.txt_mlpout_L8_6.mlp/search_results.txt.fname
+ ########running abc4pwm on = yeast_GE_7.txt_mlpout_L9_1.mlp
+ ########Written file: yeast_abc4pwm_out/strand0/cycle_alpha7/yeast_GE_7.txt_mlpout_L9_1.mlp/search_results.txt.fname
+ ########running abc4pwm on = yeast_GE_7.txt_mlpout_L9_2.mlp
+ ########Written file: yeast_abc4pwm_out/strand0/cycle_alpha7/yeast_GE_7.txt_mlpout_L9_2.mlp/search_results.txt.fname
+ ########running abc4pwm on = yeast_GE_7.txt_mlpout_L9_3.mlp
+ ########Written file: yeast_abc4pwm_out/strand0/cycle_alpha7/yeast_GE_7.txt_mlpout_L9_3.mlp/search_results.txt.fname
+ ########running abc4pwm on = yeast_GE_7.txt_mlpout_L9_4.mlp
+ ########Written file: yeast_abc4pwm_out/strand0/cycle_alpha7/yeast_GE_7.txt_mlpout_L9_4.mlp/search_results.txt.fname
+ ########running abc4pwm on = yeast_GE_7.txt_mlpout_L9_5.mlp
+ ########Written file: yeast_abc4pwm_out/strand0/cycle_alpha7/yeast_GE_7.txt_mlpout_L9_5.mlp/search_results.txt.fname
+ ########running abc4pwm on = yeast_GE_7.txt_mlpout_L9_6.mlp
+ ########Written file: yeast_abc4pwm_out/strand0/cycle_alpha7/yeast_GE_7.txt_mlpout_L9_6.mlp/search_results.txt.fname
+ 
+ 
+ ########running abc4pwm on = yeast_GE_42.txt_mlpout_L10_1.mlp
+Searching Task started. . . .  
+
+SGD-FKH2_psam.mlp
+SGD-MCM1_1_psam.mlp
+SGD-MCM1_2_psam.mlp
+SGD-NDD1_psam.mlp
+SGD-SWI5_psam.mlp
+yeast_GE_42.txt_mlpout_L10_1.mlp
+Searching Task finished. Please see results in  yeast_abc4pwm_out/strand0/cycle_alpha42/yeast_GE_42.txt_mlpout_L10_1.mlp
+ ########DONE for yeast_GE_42.txt_mlpout_L10_1.mlp
+ 
+ 
+ ########running abc4pwm on = yeast_GE_42.txt_mlpout_L10_2.mlp
+Searching Task started. . . .  
+
+SGD-FKH1_2_psam.mlp
+SGD-FKH2_psam.mlp
+SGD-MCM1_1_psam.mlp
+SGD-MCM1_2_psam.mlp
+SGD-NDD1_psam.mlp
+yeast_GE_42.txt_mlpout_L10_2.mlp
+Searching Task finished. Please see results in  yeast_abc4pwm_out/strand0/cycle_alpha42/yeast_GE_42.txt_mlpout_L10_2.mlp
+ ########DONE for yeast_GE_42.txt_mlpout_L10_2.mlp
+ 
+ 
+ ########running abc4pwm on = yeast_GE_42.txt_mlpout_L10_3.mlp
+Searching Task started. . . .  
+
+SGD-FKH1_2_psam.mlp
+SGD-FKH2_psam.mlp
+SGD-MCM1_1_psam.mlp
+SGD-MCM1_2_psam.mlp
+SGD-NDD1_psam.mlp
+yeast_GE_42.txt_mlpout_L10_3.mlp
+Searching Task finished. Please see results in  yeast_abc4pwm_out/strand0/cycle_alpha42/yeast_GE_42.txt_mlpout_L10_3.mlp
+ ########DONE for yeast_GE_42.txt_mlpout_L10_3.mlp
+ 
+ 
+ ########running abc4pwm on = yeast_GE_42.txt_mlpout_L10_4.mlp
+Searching Task started. . . .  
+
+SGD-FKH1_2_psam.mlp
+SGD-FKH2_psam.mlp
+SGD-MCM1_1_psam.mlp
+SGD-MCM1_2_psam.mlp
+SGD-NDD1_psam.mlp
+yeast_GE_42.txt_mlpout_L10_4.mlp
+Searching Task finished. Please see results in  yeast_abc4pwm_out/strand0/cycle_alpha42/yeast_GE_42.txt_mlpout_L10_4.mlp
+ ########DONE for yeast_GE_42.txt_mlpout_L10_4.mlp
+ 
+ 
+ ########running abc4pwm on = yeast_GE_42.txt_mlpout_L10_5.mlp
+Searching Task started. . . .  
+
+SGD-FKH1_2_psam.mlp
+SGD-FKH2_psam.mlp
+SGD-MCM1_1_psam.mlp
+SGD-MCM1_2_psam.mlp
+SGD-NDD1_psam.mlp
+yeast_GE_42.txt_mlpout_L10_5.mlp
+Searching Task finished. Please see results in  yeast_abc4pwm_out/strand0/cycle_alpha42/yeast_GE_42.txt_mlpout_L10_5.mlp
+ ########DONE for yeast_GE_42.txt_mlpout_L10_5.mlp
+ 
+ 
+ ########running abc4pwm on = yeast_GE_42.txt_mlpout_L10_6.mlp
+Searching Task started. . . .  
+
+SGD-FKH1_2_psam.mlp
+SGD-FKH2_psam.mlp
+SGD-MCM1_1_psam.mlp
+SGD-MCM1_2_psam.mlp
+SGD-NDD1_psam.mlp
+yeast_GE_42.txt_mlpout_L10_6.mlp
+Searching Task finished. Please see results in  yeast_abc4pwm_out/strand0/cycle_alpha42/yeast_GE_42.txt_mlpout_L10_6.mlp
+ ########DONE for yeast_GE_42.txt_mlpout_L10_6.mlp
+ 
+ 
+ ########running abc4pwm on = yeast_GE_42.txt_mlpout_L11_1.mlp
+Searching Task started. . . .  
+
+SGD-FKH1_2_psam.mlp
+SGD-FKH2_psam.mlp
+SGD-MCM1_2_psam.mlp
+SGD-NDD1_psam.mlp
+SGD-SWI4_2_psam.mlp
+yeast_GE_42.txt_mlpout_L11_1.mlp
+Searching Task finished. Please see results in  yeast_abc4pwm_out/strand0/cycle_alpha42/yeast_GE_42.txt_mlpout_L11_1.mlp
+ ########DONE for yeast_GE_42.txt_mlpout_L11_1.mlp
+ 
+ 
+ ########running abc4pwm on = yeast_GE_42.txt_mlpout_L11_2.mlp
+Searching Task started. . . .  
+
+SGD-FKH1_2_psam.mlp
+SGD-FKH2_psam.mlp
+SGD-MCM1_1_psam.mlp
+SGD-MCM1_2_psam.mlp
+SGD-NDD1_psam.mlp
+yeast_GE_42.txt_mlpout_L11_2.mlp
+Searching Task finished. Please see results in  yeast_abc4pwm_out/strand0/cycle_alpha42/yeast_GE_42.txt_mlpout_L11_2.mlp
+ ########DONE for yeast_GE_42.txt_mlpout_L11_2.mlp
+ 
+ 
+ ########running abc4pwm on = yeast_GE_42.txt_mlpout_L11_3.mlp
+Searching Task started. . . .  
+
+SGD-ACE2_2_psam.mlp
+SGD-FKH1_2_psam.mlp
+SGD-FKH2_psam.mlp
+SGD-MCM1_2_psam.mlp
+SGD-NDD1_psam.mlp
+yeast_GE_42.txt_mlpout_L11_3.mlp
+Searching Task finished. Please see results in  yeast_abc4pwm_out/strand0/cycle_alpha42/yeast_GE_42.txt_mlpout_L11_3.mlp
+ ########DONE for yeast_GE_42.txt_mlpout_L11_3.mlp
+ 
+ 
+ ########running abc4pwm on = yeast_GE_42.txt_mlpout_L11_4.mlp
+Searching Task started. . . .  
+
+SGD-ACE2_2_psam.mlp
+SGD-MCM1_1_psam.mlp
+SGD-MCM1_2_psam.mlp
+SGD-NDD1_psam.mlp
+SGD-SWI5_psam.mlp
+yeast_GE_42.txt_mlpout_L11_4.mlp
+Searching Task finished. Please see results in  yeast_abc4pwm_out/strand0/cycle_alpha42/yeast_GE_42.txt_mlpout_L11_4.mlp
+ ########DONE for yeast_GE_42.txt_mlpout_L11_4.mlp
+ 
+ 
+ ########running abc4pwm on = yeast_GE_42.txt_mlpout_L11_5.mlp
+Searching Task started. . . .  
+
+SGD-FKH1_2_psam.mlp
+SGD-FKH2_psam.mlp
+SGD-MCM1_1_psam.mlp
+SGD-MCM1_2_psam.mlp
+SGD-NDD1_psam.mlp
+yeast_GE_42.txt_mlpout_L11_5.mlp
+Searching Task finished. Please see results in  yeast_abc4pwm_out/strand0/cycle_alpha42/yeast_GE_42.txt_mlpout_L11_5.mlp
+ ########DONE for yeast_GE_42.txt_mlpout_L11_5.mlp
+ 
+ 
+ ########running abc4pwm on = yeast_GE_42.txt_mlpout_L11_6.mlp
+Searching Task started. . . .  
+
+SGD-FKH1_2_psam.mlp
+SGD-FKH2_psam.mlp
+SGD-MCM1_1_psam.mlp
+SGD-MCM1_2_psam.mlp
+SGD-NDD1_psam.mlp
+yeast_GE_42.txt_mlpout_L11_6.mlp
+Searching Task finished. Please see results in  yeast_abc4pwm_out/strand0/cycle_alpha42/yeast_GE_42.txt_mlpout_L11_6.mlp
+ ########DONE for yeast_GE_42.txt_mlpout_L11_6.mlp
+ 
+ 
+ ########running abc4pwm on = yeast_GE_42.txt_mlpout_L12_1.mlp
+Searching Task started. . . .  
+
+SGD-ACE2_1_psam.mlp
+SGD-ACE2_2_psam.mlp
+SGD-MCM1_2_psam.mlp
+SGD-NDD1_psam.mlp
+SGD-SWI5_psam.mlp
+yeast_GE_42.txt_mlpout_L12_1.mlp
+Searching Task finished. Please see results in  yeast_abc4pwm_out/strand0/cycle_alpha42/yeast_GE_42.txt_mlpout_L12_1.mlp
+ ########DONE for yeast_GE_42.txt_mlpout_L12_1.mlp
+ 
+ 
+ ########running abc4pwm on = yeast_GE_42.txt_mlpout_L12_2.mlp
+Searching Task started. . . .  
+
+SGD-FKH1_2_psam.mlp
+SGD-FKH2_psam.mlp
+SGD-MCM1_1_psam.mlp
+SGD-MCM1_2_psam.mlp
+SGD-NDD1_psam.mlp
+yeast_GE_42.txt_mlpout_L12_2.mlp
+Searching Task finished. Please see results in  yeast_abc4pwm_out/strand0/cycle_alpha42/yeast_GE_42.txt_mlpout_L12_2.mlp
+ ########DONE for yeast_GE_42.txt_mlpout_L12_2.mlp
+ 
+ 
+ ########running abc4pwm on = yeast_GE_42.txt_mlpout_L12_3.mlp
+Searching Task started. . . .  
+
+SGD-FKH1_2_psam.mlp
+SGD-FKH2_psam.mlp
+SGD-MCM1_2_psam.mlp
+SGD-NDD1_psam.mlp
+SGD-SWI5_psam.mlp
+yeast_GE_42.txt_mlpout_L12_3.mlp
+Searching Task finished. Please see results in  yeast_abc4pwm_out/strand0/cycle_alpha42/yeast_GE_42.txt_mlpout_L12_3.mlp
+ ########DONE for yeast_GE_42.txt_mlpout_L12_3.mlp
+ 
+ 
+ ########running abc4pwm on = yeast_GE_42.txt_mlpout_L12_4.mlp
+Searching Task started. . . .  
+
+SGD-FKH1_2_psam.mlp
+SGD-FKH2_psam.mlp
+SGD-MCM1_1_psam.mlp
+SGD-MCM1_2_psam.mlp
+SGD-NDD1_psam.mlp
+yeast_GE_42.txt_mlpout_L12_4.mlp
+Searching Task finished. Please see results in  yeast_abc4pwm_out/strand0/cycle_alpha42/yeast_GE_42.txt_mlpout_L12_4.mlp
+ ########DONE for yeast_GE_42.txt_mlpout_L12_4.mlp
+ 
+ 
+ ########running abc4pwm on = yeast_GE_42.txt_mlpout_L12_5.mlp
+Searching Task started. . . .  
+
+SGD-FKH1_2_psam.mlp
+SGD-FKH2_psam.mlp
+SGD-MCM1_1_psam.mlp
+SGD-MCM1_2_psam.mlp
+SGD-NDD1_psam.mlp
+yeast_GE_42.txt_mlpout_L12_5.mlp
+Searching Task finished. Please see results in  yeast_abc4pwm_out/strand0/cycle_alpha42/yeast_GE_42.txt_mlpout_L12_5.mlp
+ ########DONE for yeast_GE_42.txt_mlpout_L12_5.mlp
+ 
+ 
+ ########running abc4pwm on = yeast_GE_42.txt_mlpout_L12_6.mlp
+Searching Task started. . . .  
+
+SGD-FKH1_2_psam.mlp
+SGD-FKH2_psam.mlp
+SGD-MCM1_1_psam.mlp
+SGD-MCM1_2_psam.mlp
+SGD-NDD1_psam.mlp
+yeast_GE_42.txt_mlpout_L12_6.mlp
+Searching Task finished. Please see results in  yeast_abc4pwm_out/strand0/cycle_alpha42/yeast_GE_42.txt_mlpout_L12_6.mlp
+ ########DONE for yeast_GE_42.txt_mlpout_L12_6.mlp
+ 
+ 
+ ########running abc4pwm on = yeast_GE_42.txt_mlpout_L13_1.mlp
+Searching Task started. . . .  
+
+SGD-FKH1_2_psam.mlp
+SGD-FKH2_psam.mlp
+SGD-MCM1_1_psam.mlp
+SGD-MCM1_2_psam.mlp
+SGD-NDD1_psam.mlp
+yeast_GE_42.txt_mlpout_L13_1.mlp
+Searching Task finished. Please see results in  yeast_abc4pwm_out/strand0/cycle_alpha42/yeast_GE_42.txt_mlpout_L13_1.mlp
+ ########DONE for yeast_GE_42.txt_mlpout_L13_1.mlp
+ 
+ 
+ ########running abc4pwm on = yeast_GE_42.txt_mlpout_L13_2.mlp
+Searching Task started. . . .  
+
+SGD-FKH1_2_psam.mlp
+SGD-FKH2_psam.mlp
+SGD-MCM1_1_psam.mlp
+SGD-MCM1_2_psam.mlp
+SGD-NDD1_psam.mlp
+yeast_GE_42.txt_mlpout_L13_2.mlp
+Searching Task finished. Please see results in  yeast_abc4pwm_out/strand0/cycle_alpha42/yeast_GE_42.txt_mlpout_L13_2.mlp
+ ########DONE for yeast_GE_42.txt_mlpout_L13_2.mlp
+ 
+ 
+ ########running abc4pwm on = yeast_GE_42.txt_mlpout_L13_3.mlp
+Searching Task started. . . .  
+
+SGD-FKH1_2_psam.mlp
+SGD-FKH2_psam.mlp
+SGD-MCM1_1_psam.mlp
+SGD-MCM1_2_psam.mlp
+SGD-NDD1_psam.mlp
+yeast_GE_42.txt_mlpout_L13_3.mlp
+Searching Task finished. Please see results in  yeast_abc4pwm_out/strand0/cycle_alpha42/yeast_GE_42.txt_mlpout_L13_3.mlp
+ ########DONE for yeast_GE_42.txt_mlpout_L13_3.mlp
+ 
+ 
+ ########running abc4pwm on = yeast_GE_42.txt_mlpout_L13_4.mlp
+Searching Task started. . . .  
+
+SGD-FKH1_2_psam.mlp
+SGD-FKH2_psam.mlp
+SGD-MCM1_1_psam.mlp
+SGD-MCM1_2_psam.mlp
+SGD-NDD1_psam.mlp
+yeast_GE_42.txt_mlpout_L13_4.mlp
+Searching Task finished. Please see results in  yeast_abc4pwm_out/strand0/cycle_alpha42/yeast_GE_42.txt_mlpout_L13_4.mlp
+ ########DONE for yeast_GE_42.txt_mlpout_L13_4.mlp
+ 
+ 
+ ########running abc4pwm on = yeast_GE_42.txt_mlpout_L13_5.mlp
+Searching Task started. . . .  
+
+SGD-FKH1_2_psam.mlp
+SGD-FKH2_psam.mlp
+SGD-MCM1_1_psam.mlp
+SGD-MCM1_2_psam.mlp
+SGD-NDD1_psam.mlp
+yeast_GE_42.txt_mlpout_L13_5.mlp
+Searching Task finished. Please see results in  yeast_abc4pwm_out/strand0/cycle_alpha42/yeast_GE_42.txt_mlpout_L13_5.mlp
+ ########DONE for yeast_GE_42.txt_mlpout_L13_5.mlp
+ 
+ 
+ ########running abc4pwm on = yeast_GE_42.txt_mlpout_L13_6.mlp
+Searching Task started. . . .  
+
+SGD-ACE2_2_psam.mlp
+SGD-MBP1_psam.mlp
+SGD-SWI4_1_psam.mlp
+SGD-SWI4_2_psam.mlp
+SGD-SWI5_psam.mlp
+yeast_GE_42.txt_mlpout_L13_6.mlp
+Searching Task finished. Please see results in  yeast_abc4pwm_out/strand0/cycle_alpha42/yeast_GE_42.txt_mlpout_L13_6.mlp
+ ########DONE for yeast_GE_42.txt_mlpout_L13_6.mlp
+ 
+ 
+ ########running abc4pwm on = yeast_GE_42.txt_mlpout_L14_1.mlp
+Searching Task started. . . .  
+
+SGD-ACE2_1_psam.mlp
+SGD-ACE2_2_psam.mlp
+SGD-MBP1_psam.mlp
+SGD-NDD1_psam.mlp
+SGD-SWI5_psam.mlp
+yeast_GE_42.txt_mlpout_L14_1.mlp
+Searching Task finished. Please see results in  yeast_abc4pwm_out/strand0/cycle_alpha42/yeast_GE_42.txt_mlpout_L14_1.mlp
+ ########DONE for yeast_GE_42.txt_mlpout_L14_1.mlp
+ 
+ 
+ ########running abc4pwm on = yeast_GE_42.txt_mlpout_L14_2.mlp
+Searching Task started. . . .  
+
+SGD-FKH1_2_psam.mlp
+SGD-FKH2_psam.mlp
+SGD-MCM1_1_psam.mlp
+SGD-MCM1_2_psam.mlp
+SGD-NDD1_psam.mlp
+yeast_GE_42.txt_mlpout_L14_2.mlp
+Searching Task finished. Please see results in  yeast_abc4pwm_out/strand0/cycle_alpha42/yeast_GE_42.txt_mlpout_L14_2.mlp
+ ########DONE for yeast_GE_42.txt_mlpout_L14_2.mlp
+ 
+ 
+ ########running abc4pwm on = yeast_GE_42.txt_mlpout_L14_3.mlp
+Searching Task started. . . .  
+
+SGD-FKH1_2_psam.mlp
+SGD-FKH2_psam.mlp
+SGD-MCM1_1_psam.mlp
+SGD-MCM1_2_psam.mlp
+SGD-NDD1_psam.mlp
+yeast_GE_42.txt_mlpout_L14_3.mlp
+Searching Task finished. Please see results in  yeast_abc4pwm_out/strand0/cycle_alpha42/yeast_GE_42.txt_mlpout_L14_3.mlp
+ ########DONE for yeast_GE_42.txt_mlpout_L14_3.mlp
+ 
+ 
+ ########running abc4pwm on = yeast_GE_42.txt_mlpout_L14_4.mlp
+Searching Task started. . . .  
+
+SGD-FKH1_2_psam.mlp
+SGD-FKH2_psam.mlp
+SGD-MCM1_2_psam.mlp
+SGD-NDD1_psam.mlp
+SGD-SWI5_psam.mlp
+yeast_GE_42.txt_mlpout_L14_4.mlp
+Searching Task finished. Please see results in  yeast_abc4pwm_out/strand0/cycle_alpha42/yeast_GE_42.txt_mlpout_L14_4.mlp
+ ########DONE for yeast_GE_42.txt_mlpout_L14_4.mlp
+ 
+ 
+ ########running abc4pwm on = yeast_GE_42.txt_mlpout_L14_5.mlp
+Searching Task started. . . .  
+
+SGD-FKH1_2_psam.mlp
+SGD-FKH2_psam.mlp
+SGD-MCM1_1_psam.mlp
+SGD-MCM1_2_psam.mlp
+SGD-NDD1_psam.mlp
+yeast_GE_42.txt_mlpout_L14_5.mlp
+Searching Task finished. Please see results in  yeast_abc4pwm_out/strand0/cycle_alpha42/yeast_GE_42.txt_mlpout_L14_5.mlp
+ ########DONE for yeast_GE_42.txt_mlpout_L14_5.mlp
+ 
+ 
+ ########running abc4pwm on = yeast_GE_42.txt_mlpout_L14_6.mlp
+Searching Task started. . . .  
+
+SGD-FKH1_2_psam.mlp
+SGD-FKH2_psam.mlp
+SGD-MCM1_1_psam.mlp
+SGD-MCM1_2_psam.mlp
+SGD-NDD1_psam.mlp
+yeast_GE_42.txt_mlpout_L14_6.mlp
+Searching Task finished. Please see results in  yeast_abc4pwm_out/strand0/cycle_alpha42/yeast_GE_42.txt_mlpout_L14_6.mlp
+ ########DONE for yeast_GE_42.txt_mlpout_L14_6.mlp
+ 
+ 
+ ########running abc4pwm on = yeast_GE_42.txt_mlpout_L6_1.mlp
+Searching Task started. . . .  
+
+SGD-ACE2_2_psam.mlp
+SGD-FKH2_psam.mlp
+SGD-MCM1_1_psam.mlp
+SGD-MCM1_2_psam.mlp
+SGD-NDD1_psam.mlp
+yeast_GE_42.txt_mlpout_L6_1.mlp
+Searching Task finished. Please see results in  yeast_abc4pwm_out/strand0/cycle_alpha42/yeast_GE_42.txt_mlpout_L6_1.mlp
+ ########DONE for yeast_GE_42.txt_mlpout_L6_1.mlp
+ 
+ 
+ ########running abc4pwm on = yeast_GE_42.txt_mlpout_L6_2.mlp
+Searching Task started. . . .  
+
+SGD-FKH1_2_psam.mlp
+SGD-FKH2_psam.mlp
+SGD-MCM1_1_psam.mlp
+SGD-MCM1_2_psam.mlp
+SGD-NDD1_psam.mlp
+yeast_GE_42.txt_mlpout_L6_2.mlp
+Searching Task finished. Please see results in  yeast_abc4pwm_out/strand0/cycle_alpha42/yeast_GE_42.txt_mlpout_L6_2.mlp
+ ########DONE for yeast_GE_42.txt_mlpout_L6_2.mlp
+ 
+ 
+ ########running abc4pwm on = yeast_GE_42.txt_mlpout_L6_3.mlp
+Searching Task started. . . .  
+
+SGD-FKH1_2_psam.mlp
+SGD-FKH2_psam.mlp
+SGD-MCM1_1_psam.mlp
+SGD-MCM1_2_psam.mlp
+SGD-NDD1_psam.mlp
+yeast_GE_42.txt_mlpout_L6_3.mlp
+Searching Task finished. Please see results in  yeast_abc4pwm_out/strand0/cycle_alpha42/yeast_GE_42.txt_mlpout_L6_3.mlp
+ ########DONE for yeast_GE_42.txt_mlpout_L6_3.mlp
+ 
+ 
+ ########running abc4pwm on = yeast_GE_42.txt_mlpout_L6_4.mlp
+Searching Task started. . . .  
+
+SGD-FKH1_2_psam.mlp
+SGD-FKH2_psam.mlp
+SGD-MCM1_1_psam.mlp
+SGD-MCM1_2_psam.mlp
+SGD-NDD1_psam.mlp
+yeast_GE_42.txt_mlpout_L6_4.mlp
+Searching Task finished. Please see results in  yeast_abc4pwm_out/strand0/cycle_alpha42/yeast_GE_42.txt_mlpout_L6_4.mlp
+ ########DONE for yeast_GE_42.txt_mlpout_L6_4.mlp
+ 
+ 
+ ########running abc4pwm on = yeast_GE_42.txt_mlpout_L6_5.mlp
+Searching Task started. . . .  
+
+SGD-ACE2_1_psam.mlp
+SGD-ACE2_2_psam.mlp
+SGD-FKH1_2_psam.mlp
+SGD-FKH2_psam.mlp
+SGD-NDD1_psam.mlp
+yeast_GE_42.txt_mlpout_L6_5.mlp
+Searching Task finished. Please see results in  yeast_abc4pwm_out/strand0/cycle_alpha42/yeast_GE_42.txt_mlpout_L6_5.mlp
+ ########DONE for yeast_GE_42.txt_mlpout_L6_5.mlp
+ 
+ 
+ ########running abc4pwm on = yeast_GE_42.txt_mlpout_L6_6.mlp
+Searching Task started. . . .  
+
+SGD-FKH1_2_psam.mlp
+SGD-FKH2_psam.mlp
+SGD-MCM1_1_psam.mlp
+SGD-MCM1_2_psam.mlp
+SGD-NDD1_psam.mlp
+yeast_GE_42.txt_mlpout_L6_6.mlp
+Searching Task finished. Please see results in  yeast_abc4pwm_out/strand0/cycle_alpha42/yeast_GE_42.txt_mlpout_L6_6.mlp
+ ########DONE for yeast_GE_42.txt_mlpout_L6_6.mlp
+ 
+ 
+ ########running abc4pwm on = yeast_GE_42.txt_mlpout_L7_1.mlp
+Searching Task started. . . .  
+
+SGD-FKH1_2_psam.mlp
+SGD-FKH2_psam.mlp
+SGD-MCM1_1_psam.mlp
+SGD-MCM1_2_psam.mlp
+SGD-NDD1_psam.mlp
+yeast_GE_42.txt_mlpout_L7_1.mlp
+Searching Task finished. Please see results in  yeast_abc4pwm_out/strand0/cycle_alpha42/yeast_GE_42.txt_mlpout_L7_1.mlp
+ ########DONE for yeast_GE_42.txt_mlpout_L7_1.mlp
+ 
+ 
+ ########running abc4pwm on = yeast_GE_42.txt_mlpout_L7_2.mlp
+Searching Task started. . . .  
+
+SGD-FKH1_2_psam.mlp
+SGD-FKH2_psam.mlp
+SGD-MCM1_1_psam.mlp
+SGD-MCM1_2_psam.mlp
+SGD-NDD1_psam.mlp
+yeast_GE_42.txt_mlpout_L7_2.mlp
+Searching Task finished. Please see results in  yeast_abc4pwm_out/strand0/cycle_alpha42/yeast_GE_42.txt_mlpout_L7_2.mlp
+ ########DONE for yeast_GE_42.txt_mlpout_L7_2.mlp
+ 
+ 
+ ########running abc4pwm on = yeast_GE_42.txt_mlpout_L7_3.mlp
+Searching Task started. . . .  
+
+SGD-FKH1_2_psam.mlp
+SGD-FKH2_psam.mlp
+SGD-MCM1_1_psam.mlp
+SGD-MCM1_2_psam.mlp
+SGD-NDD1_psam.mlp
+yeast_GE_42.txt_mlpout_L7_3.mlp
+Searching Task finished. Please see results in  yeast_abc4pwm_out/strand0/cycle_alpha42/yeast_GE_42.txt_mlpout_L7_3.mlp
+ ########DONE for yeast_GE_42.txt_mlpout_L7_3.mlp
+ 
+ 
+ ########running abc4pwm on = yeast_GE_42.txt_mlpout_L7_4.mlp
+Searching Task started. . . .  
+
+SGD-FKH1_2_psam.mlp
+SGD-FKH2_psam.mlp
+SGD-MCM1_1_psam.mlp
+SGD-MCM1_2_psam.mlp
+SGD-NDD1_psam.mlp
+yeast_GE_42.txt_mlpout_L7_4.mlp
+Searching Task finished. Please see results in  yeast_abc4pwm_out/strand0/cycle_alpha42/yeast_GE_42.txt_mlpout_L7_4.mlp
+ ########DONE for yeast_GE_42.txt_mlpout_L7_4.mlp
+ 
+ 
+ ########running abc4pwm on = yeast_GE_42.txt_mlpout_L7_5.mlp
+Searching Task started. . . .  
+
+SGD-FKH1_2_psam.mlp
+SGD-FKH2_psam.mlp
+SGD-MCM1_1_psam.mlp
+SGD-MCM1_2_psam.mlp
+SGD-NDD1_psam.mlp
+yeast_GE_42.txt_mlpout_L7_5.mlp
+Searching Task finished. Please see results in  yeast_abc4pwm_out/strand0/cycle_alpha42/yeast_GE_42.txt_mlpout_L7_5.mlp
+ ########DONE for yeast_GE_42.txt_mlpout_L7_5.mlp
+ 
+ 
+ ########running abc4pwm on = yeast_GE_42.txt_mlpout_L7_6.mlp
+Searching Task started. . . .  
+
+SGD-FKH1_2_psam.mlp
+SGD-FKH2_psam.mlp
+SGD-MCM1_1_psam.mlp
+SGD-MCM1_2_psam.mlp
+SGD-NDD1_psam.mlp
+yeast_GE_42.txt_mlpout_L7_6.mlp
+Searching Task finished. Please see results in  yeast_abc4pwm_out/strand0/cycle_alpha42/yeast_GE_42.txt_mlpout_L7_6.mlp
+ ########DONE for yeast_GE_42.txt_mlpout_L7_6.mlp
+ 
+ 
+ ########running abc4pwm on = yeast_GE_42.txt_mlpout_L8_1.mlp
+Searching Task started. . . .  
+
+SGD-FKH2_psam.mlp
+SGD-MCM1_1_psam.mlp
+SGD-MCM1_2_psam.mlp
+SGD-NDD1_psam.mlp
+SGD-SWI5_psam.mlp
+yeast_GE_42.txt_mlpout_L8_1.mlp
+Searching Task finished. Please see results in  yeast_abc4pwm_out/strand0/cycle_alpha42/yeast_GE_42.txt_mlpout_L8_1.mlp
+ ########DONE for yeast_GE_42.txt_mlpout_L8_1.mlp
+ 
+ 
+ ########running abc4pwm on = yeast_GE_42.txt_mlpout_L8_2.mlp
+Searching Task started. . . .  
+
+SGD-FKH1_2_psam.mlp
+SGD-FKH2_psam.mlp
+SGD-MCM1_1_psam.mlp
+SGD-MCM1_2_psam.mlp
+SGD-NDD1_psam.mlp
+yeast_GE_42.txt_mlpout_L8_2.mlp
+Searching Task finished. Please see results in  yeast_abc4pwm_out/strand0/cycle_alpha42/yeast_GE_42.txt_mlpout_L8_2.mlp
+ ########DONE for yeast_GE_42.txt_mlpout_L8_2.mlp
+ 
+ 
+ ########running abc4pwm on = yeast_GE_42.txt_mlpout_L8_3.mlp
+Searching Task started. . . .  
+
+SGD-FKH1_2_psam.mlp
+SGD-FKH2_psam.mlp
+SGD-MCM1_1_psam.mlp
+SGD-MCM1_2_psam.mlp
+SGD-NDD1_psam.mlp
+yeast_GE_42.txt_mlpout_L8_3.mlp
+Searching Task finished. Please see results in  yeast_abc4pwm_out/strand0/cycle_alpha42/yeast_GE_42.txt_mlpout_L8_3.mlp
+ ########DONE for yeast_GE_42.txt_mlpout_L8_3.mlp
+ 
+ 
+ ########running abc4pwm on = yeast_GE_42.txt_mlpout_L8_4.mlp
+Searching Task started. . . .  
+
+SGD-FKH1_2_psam.mlp
+SGD-FKH2_psam.mlp
+SGD-MCM1_1_psam.mlp
+SGD-MCM1_2_psam.mlp
+SGD-NDD1_psam.mlp
+yeast_GE_42.txt_mlpout_L8_4.mlp
+Searching Task finished. Please see results in  yeast_abc4pwm_out/strand0/cycle_alpha42/yeast_GE_42.txt_mlpout_L8_4.mlp
+ ########DONE for yeast_GE_42.txt_mlpout_L8_4.mlp
+ 
+ 
+ ########running abc4pwm on = yeast_GE_42.txt_mlpout_L8_5.mlp
+Searching Task started. . . .  
+
+SGD-FKH1_2_psam.mlp
+SGD-FKH2_psam.mlp
+SGD-MCM1_1_psam.mlp
+SGD-MCM1_2_psam.mlp
+SGD-NDD1_psam.mlp
+yeast_GE_42.txt_mlpout_L8_5.mlp
+Searching Task finished. Please see results in  yeast_abc4pwm_out/strand0/cycle_alpha42/yeast_GE_42.txt_mlpout_L8_5.mlp
+ ########DONE for yeast_GE_42.txt_mlpout_L8_5.mlp
+ 
+ 
+ ########running abc4pwm on = yeast_GE_42.txt_mlpout_L8_6.mlp
+Searching Task started. . . .  
+
+SGD-FKH1_2_psam.mlp
+SGD-FKH2_psam.mlp
+SGD-MCM1_1_psam.mlp
+SGD-MCM1_2_psam.mlp
+SGD-NDD1_psam.mlp
+yeast_GE_42.txt_mlpout_L8_6.mlp
+Searching Task finished. Please see results in  yeast_abc4pwm_out/strand0/cycle_alpha42/yeast_GE_42.txt_mlpout_L8_6.mlp
+ ########DONE for yeast_GE_42.txt_mlpout_L8_6.mlp
+ 
+ 
+ ########running abc4pwm on = yeast_GE_42.txt_mlpout_L9_1.mlp
+Searching Task started. . . .  
+
+SGD-FKH1_2_psam.mlp
+SGD-FKH2_psam.mlp
+SGD-MCM1_1_psam.mlp
+SGD-MCM1_2_psam.mlp
+SGD-NDD1_psam.mlp
+yeast_GE_42.txt_mlpout_L9_1.mlp
+Searching Task finished. Please see results in  yeast_abc4pwm_out/strand0/cycle_alpha42/yeast_GE_42.txt_mlpout_L9_1.mlp
+ ########DONE for yeast_GE_42.txt_mlpout_L9_1.mlp
+ 
+ 
+ ########running abc4pwm on = yeast_GE_42.txt_mlpout_L9_2.mlp
+Searching Task started. . . .  
+
+SGD-FKH1_2_psam.mlp
+SGD-FKH2_psam.mlp
+SGD-MCM1_1_psam.mlp
+SGD-MCM1_2_psam.mlp
+SGD-NDD1_psam.mlp
+yeast_GE_42.txt_mlpout_L9_2.mlp
+Searching Task finished. Please see results in  yeast_abc4pwm_out/strand0/cycle_alpha42/yeast_GE_42.txt_mlpout_L9_2.mlp
+ ########DONE for yeast_GE_42.txt_mlpout_L9_2.mlp
+ 
+ 
+ ########running abc4pwm on = yeast_GE_42.txt_mlpout_L9_3.mlp
+Searching Task started. . . .  
+
+SGD-FKH1_2_psam.mlp
+SGD-FKH2_psam.mlp
+SGD-MCM1_1_psam.mlp
+SGD-MCM1_2_psam.mlp
+SGD-NDD1_psam.mlp
+yeast_GE_42.txt_mlpout_L9_3.mlp
+Searching Task finished. Please see results in  yeast_abc4pwm_out/strand0/cycle_alpha42/yeast_GE_42.txt_mlpout_L9_3.mlp
+ ########DONE for yeast_GE_42.txt_mlpout_L9_3.mlp
+ 
+ 
+ ########running abc4pwm on = yeast_GE_42.txt_mlpout_L9_4.mlp
+Searching Task started. . . .  
+
+SGD-ACE2_2_psam.mlp
+SGD-MCM1_1_psam.mlp
+SGD-MCM1_2_psam.mlp
+SGD-NDD1_psam.mlp
+SGD-SWI5_psam.mlp
+yeast_GE_42.txt_mlpout_L9_4.mlp
+Searching Task finished. Please see results in  yeast_abc4pwm_out/strand0/cycle_alpha42/yeast_GE_42.txt_mlpout_L9_4.mlp
+ ########DONE for yeast_GE_42.txt_mlpout_L9_4.mlp
+ 
+ 
+ ########running abc4pwm on = yeast_GE_42.txt_mlpout_L9_5.mlp
+Searching Task started. . . .  
+
+SGD-FKH1_2_psam.mlp
+SGD-FKH2_psam.mlp
+SGD-MCM1_1_psam.mlp
+SGD-MCM1_2_psam.mlp
+SGD-NDD1_psam.mlp
+yeast_GE_42.txt_mlpout_L9_5.mlp
+Searching Task finished. Please see results in  yeast_abc4pwm_out/strand0/cycle_alpha42/yeast_GE_42.txt_mlpout_L9_5.mlp
+ ########DONE for yeast_GE_42.txt_mlpout_L9_5.mlp
+ 
+ 
+ ########running abc4pwm on = yeast_GE_42.txt_mlpout_L9_6.mlp
+Searching Task started. . . .  
+
+SGD-ACE2_2_psam.mlp
+SGD-MCM1_1_psam.mlp
+SGD-MCM1_2_psam.mlp
+SGD-NDD1_psam.mlp
+SGD-SWI5_psam.mlp
+yeast_GE_42.txt_mlpout_L9_6.mlp
+Searching Task finished. Please see results in  yeast_abc4pwm_out/strand0/cycle_alpha42/yeast_GE_42.txt_mlpout_L9_6.mlp
+ ########DONE for yeast_GE_42.txt_mlpout_L9_6.mlp
+ 
+Combining scores for predicted mols
+ ########running abc4pwm on = yeast_GE_42.txt_mlpout_L10_1.mlp
+ ########Written file: yeast_abc4pwm_out/strand0/cycle_alpha42/yeast_GE_42.txt_mlpout_L10_1.mlp/search_results.txt.fname
+ ########running abc4pwm on = yeast_GE_42.txt_mlpout_L10_2.mlp
+ ########Written file: yeast_abc4pwm_out/strand0/cycle_alpha42/yeast_GE_42.txt_mlpout_L10_2.mlp/search_results.txt.fname
+ ########running abc4pwm on = yeast_GE_42.txt_mlpout_L10_3.mlp
+ ########Written file: yeast_abc4pwm_out/strand0/cycle_alpha42/yeast_GE_42.txt_mlpout_L10_3.mlp/search_results.txt.fname
+ ########running abc4pwm on = yeast_GE_42.txt_mlpout_L10_4.mlp
+ ########Written file: yeast_abc4pwm_out/strand0/cycle_alpha42/yeast_GE_42.txt_mlpout_L10_4.mlp/search_results.txt.fname
+ ########running abc4pwm on = yeast_GE_42.txt_mlpout_L10_5.mlp
+ ########Written file: yeast_abc4pwm_out/strand0/cycle_alpha42/yeast_GE_42.txt_mlpout_L10_5.mlp/search_results.txt.fname
+ ########running abc4pwm on = yeast_GE_42.txt_mlpout_L10_6.mlp
+ ########Written file: yeast_abc4pwm_out/strand0/cycle_alpha42/yeast_GE_42.txt_mlpout_L10_6.mlp/search_results.txt.fname
+ ########running abc4pwm on = yeast_GE_42.txt_mlpout_L11_1.mlp
+ ########Written file: yeast_abc4pwm_out/strand0/cycle_alpha42/yeast_GE_42.txt_mlpout_L11_1.mlp/search_results.txt.fname
+ ########running abc4pwm on = yeast_GE_42.txt_mlpout_L11_2.mlp
+ ########Written file: yeast_abc4pwm_out/strand0/cycle_alpha42/yeast_GE_42.txt_mlpout_L11_2.mlp/search_results.txt.fname
+ ########running abc4pwm on = yeast_GE_42.txt_mlpout_L11_3.mlp
+ ########Written file: yeast_abc4pwm_out/strand0/cycle_alpha42/yeast_GE_42.txt_mlpout_L11_3.mlp/search_results.txt.fname
+ ########running abc4pwm on = yeast_GE_42.txt_mlpout_L11_4.mlp
+ ########Written file: yeast_abc4pwm_out/strand0/cycle_alpha42/yeast_GE_42.txt_mlpout_L11_4.mlp/search_results.txt.fname
+ ########running abc4pwm on = yeast_GE_42.txt_mlpout_L11_5.mlp
+ ########Written file: yeast_abc4pwm_out/strand0/cycle_alpha42/yeast_GE_42.txt_mlpout_L11_5.mlp/search_results.txt.fname
+ ########running abc4pwm on = yeast_GE_42.txt_mlpout_L11_6.mlp
+ ########Written file: yeast_abc4pwm_out/strand0/cycle_alpha42/yeast_GE_42.txt_mlpout_L11_6.mlp/search_results.txt.fname
+ ########running abc4pwm on = yeast_GE_42.txt_mlpout_L12_1.mlp
+ ########Written file: yeast_abc4pwm_out/strand0/cycle_alpha42/yeast_GE_42.txt_mlpout_L12_1.mlp/search_results.txt.fname
+ ########running abc4pwm on = yeast_GE_42.txt_mlpout_L12_2.mlp
+ ########Written file: yeast_abc4pwm_out/strand0/cycle_alpha42/yeast_GE_42.txt_mlpout_L12_2.mlp/search_results.txt.fname
+ ########running abc4pwm on = yeast_GE_42.txt_mlpout_L12_3.mlp
+ ########Written file: yeast_abc4pwm_out/strand0/cycle_alpha42/yeast_GE_42.txt_mlpout_L12_3.mlp/search_results.txt.fname
+ ########running abc4pwm on = yeast_GE_42.txt_mlpout_L12_4.mlp
+ ########Written file: yeast_abc4pwm_out/strand0/cycle_alpha42/yeast_GE_42.txt_mlpout_L12_4.mlp/search_results.txt.fname
+ ########running abc4pwm on = yeast_GE_42.txt_mlpout_L12_5.mlp
+ ########Written file: yeast_abc4pwm_out/strand0/cycle_alpha42/yeast_GE_42.txt_mlpout_L12_5.mlp/search_results.txt.fname
+ ########running abc4pwm on = yeast_GE_42.txt_mlpout_L12_6.mlp
+ ########Written file: yeast_abc4pwm_out/strand0/cycle_alpha42/yeast_GE_42.txt_mlpout_L12_6.mlp/search_results.txt.fname
+ ########running abc4pwm on = yeast_GE_42.txt_mlpout_L13_1.mlp
+ ########Written file: yeast_abc4pwm_out/strand0/cycle_alpha42/yeast_GE_42.txt_mlpout_L13_1.mlp/search_results.txt.fname
+ ########running abc4pwm on = yeast_GE_42.txt_mlpout_L13_2.mlp
+ ########Written file: yeast_abc4pwm_out/strand0/cycle_alpha42/yeast_GE_42.txt_mlpout_L13_2.mlp/search_results.txt.fname
+ ########running abc4pwm on = yeast_GE_42.txt_mlpout_L13_3.mlp
+ ########Written file: yeast_abc4pwm_out/strand0/cycle_alpha42/yeast_GE_42.txt_mlpout_L13_3.mlp/search_results.txt.fname
+ ########running abc4pwm on = yeast_GE_42.txt_mlpout_L13_4.mlp
+ ########Written file: yeast_abc4pwm_out/strand0/cycle_alpha42/yeast_GE_42.txt_mlpout_L13_4.mlp/search_results.txt.fname
+ ########running abc4pwm on = yeast_GE_42.txt_mlpout_L13_5.mlp
+ ########Written file: yeast_abc4pwm_out/strand0/cycle_alpha42/yeast_GE_42.txt_mlpout_L13_5.mlp/search_results.txt.fname
+ ########running abc4pwm on = yeast_GE_42.txt_mlpout_L13_6.mlp
+ ########Written file: yeast_abc4pwm_out/strand0/cycle_alpha42/yeast_GE_42.txt_mlpout_L13_6.mlp/search_results.txt.fname
+ ########running abc4pwm on = yeast_GE_42.txt_mlpout_L14_1.mlp
+ ########Written file: yeast_abc4pwm_out/strand0/cycle_alpha42/yeast_GE_42.txt_mlpout_L14_1.mlp/search_results.txt.fname
+ ########running abc4pwm on = yeast_GE_42.txt_mlpout_L14_2.mlp
+ ########Written file: yeast_abc4pwm_out/strand0/cycle_alpha42/yeast_GE_42.txt_mlpout_L14_2.mlp/search_results.txt.fname
+ ########running abc4pwm on = yeast_GE_42.txt_mlpout_L14_3.mlp
+ ########Written file: yeast_abc4pwm_out/strand0/cycle_alpha42/yeast_GE_42.txt_mlpout_L14_3.mlp/search_results.txt.fname
+ ########running abc4pwm on = yeast_GE_42.txt_mlpout_L14_4.mlp
+ ########Written file: yeast_abc4pwm_out/strand0/cycle_alpha42/yeast_GE_42.txt_mlpout_L14_4.mlp/search_results.txt.fname
+ ########running abc4pwm on = yeast_GE_42.txt_mlpout_L14_5.mlp
+ ########Written file: yeast_abc4pwm_out/strand0/cycle_alpha42/yeast_GE_42.txt_mlpout_L14_5.mlp/search_results.txt.fname
+ ########running abc4pwm on = yeast_GE_42.txt_mlpout_L14_6.mlp
+ ########Written file: yeast_abc4pwm_out/strand0/cycle_alpha42/yeast_GE_42.txt_mlpout_L14_6.mlp/search_results.txt.fname
+ ########running abc4pwm on = yeast_GE_42.txt_mlpout_L6_1.mlp
+ ########Written file: yeast_abc4pwm_out/strand0/cycle_alpha42/yeast_GE_42.txt_mlpout_L6_1.mlp/search_results.txt.fname
+ ########running abc4pwm on = yeast_GE_42.txt_mlpout_L6_2.mlp
+ ########Written file: yeast_abc4pwm_out/strand0/cycle_alpha42/yeast_GE_42.txt_mlpout_L6_2.mlp/search_results.txt.fname
+ ########running abc4pwm on = yeast_GE_42.txt_mlpout_L6_3.mlp
+ ########Written file: yeast_abc4pwm_out/strand0/cycle_alpha42/yeast_GE_42.txt_mlpout_L6_3.mlp/search_results.txt.fname
+ ########running abc4pwm on = yeast_GE_42.txt_mlpout_L6_4.mlp
+ ########Written file: yeast_abc4pwm_out/strand0/cycle_alpha42/yeast_GE_42.txt_mlpout_L6_4.mlp/search_results.txt.fname
+ ########running abc4pwm on = yeast_GE_42.txt_mlpout_L6_5.mlp
+ ########Written file: yeast_abc4pwm_out/strand0/cycle_alpha42/yeast_GE_42.txt_mlpout_L6_5.mlp/search_results.txt.fname
+ ########running abc4pwm on = yeast_GE_42.txt_mlpout_L6_6.mlp
+ ########Written file: yeast_abc4pwm_out/strand0/cycle_alpha42/yeast_GE_42.txt_mlpout_L6_6.mlp/search_results.txt.fname
+ ########running abc4pwm on = yeast_GE_42.txt_mlpout_L7_1.mlp
+ ########Written file: yeast_abc4pwm_out/strand0/cycle_alpha42/yeast_GE_42.txt_mlpout_L7_1.mlp/search_results.txt.fname
+ ########running abc4pwm on = yeast_GE_42.txt_mlpout_L7_2.mlp
+ ########Written file: yeast_abc4pwm_out/strand0/cycle_alpha42/yeast_GE_42.txt_mlpout_L7_2.mlp/search_results.txt.fname
+ ########running abc4pwm on = yeast_GE_42.txt_mlpout_L7_3.mlp
+ ########Written file: yeast_abc4pwm_out/strand0/cycle_alpha42/yeast_GE_42.txt_mlpout_L7_3.mlp/search_results.txt.fname
+ ########running abc4pwm on = yeast_GE_42.txt_mlpout_L7_4.mlp
+ ########Written file: yeast_abc4pwm_out/strand0/cycle_alpha42/yeast_GE_42.txt_mlpout_L7_4.mlp/search_results.txt.fname
+ ########running abc4pwm on = yeast_GE_42.txt_mlpout_L7_5.mlp
+ ########Written file: yeast_abc4pwm_out/strand0/cycle_alpha42/yeast_GE_42.txt_mlpout_L7_5.mlp/search_results.txt.fname
+ ########running abc4pwm on = yeast_GE_42.txt_mlpout_L7_6.mlp
+ ########Written file: yeast_abc4pwm_out/strand0/cycle_alpha42/yeast_GE_42.txt_mlpout_L7_6.mlp/search_results.txt.fname
+ ########running abc4pwm on = yeast_GE_42.txt_mlpout_L8_1.mlp
+ ########Written file: yeast_abc4pwm_out/strand0/cycle_alpha42/yeast_GE_42.txt_mlpout_L8_1.mlp/search_results.txt.fname
+ ########running abc4pwm on = yeast_GE_42.txt_mlpout_L8_2.mlp
+ ########Written file: yeast_abc4pwm_out/strand0/cycle_alpha42/yeast_GE_42.txt_mlpout_L8_2.mlp/search_results.txt.fname
+ ########running abc4pwm on = yeast_GE_42.txt_mlpout_L8_3.mlp
+ ########Written file: yeast_abc4pwm_out/strand0/cycle_alpha42/yeast_GE_42.txt_mlpout_L8_3.mlp/search_results.txt.fname
+ ########running abc4pwm on = yeast_GE_42.txt_mlpout_L8_4.mlp
+ ########Written file: yeast_abc4pwm_out/strand0/cycle_alpha42/yeast_GE_42.txt_mlpout_L8_4.mlp/search_results.txt.fname
+ ########running abc4pwm on = yeast_GE_42.txt_mlpout_L8_5.mlp
+ ########Written file: yeast_abc4pwm_out/strand0/cycle_alpha42/yeast_GE_42.txt_mlpout_L8_5.mlp/search_results.txt.fname
+ ########running abc4pwm on = yeast_GE_42.txt_mlpout_L8_6.mlp
+ ########Written file: yeast_abc4pwm_out/strand0/cycle_alpha42/yeast_GE_42.txt_mlpout_L8_6.mlp/search_results.txt.fname
+ ########running abc4pwm on = yeast_GE_42.txt_mlpout_L9_1.mlp
+ ########Written file: yeast_abc4pwm_out/strand0/cycle_alpha42/yeast_GE_42.txt_mlpout_L9_1.mlp/search_results.txt.fname
+ ########running abc4pwm on = yeast_GE_42.txt_mlpout_L9_2.mlp
+ ########Written file: yeast_abc4pwm_out/strand0/cycle_alpha42/yeast_GE_42.txt_mlpout_L9_2.mlp/search_results.txt.fname
+ ########running abc4pwm on = yeast_GE_42.txt_mlpout_L9_3.mlp
+ ########Written file: yeast_abc4pwm_out/strand0/cycle_alpha42/yeast_GE_42.txt_mlpout_L9_3.mlp/search_results.txt.fname
+ ########running abc4pwm on = yeast_GE_42.txt_mlpout_L9_4.mlp
+ ########Written file: yeast_abc4pwm_out/strand0/cycle_alpha42/yeast_GE_42.txt_mlpout_L9_4.mlp/search_results.txt.fname
+ ########running abc4pwm on = yeast_GE_42.txt_mlpout_L9_5.mlp
+ ########Written file: yeast_abc4pwm_out/strand0/cycle_alpha42/yeast_GE_42.txt_mlpout_L9_5.mlp/search_results.txt.fname
+ ########running abc4pwm on = yeast_GE_42.txt_mlpout_L9_6.mlp
+ ########Written file: yeast_abc4pwm_out/strand0/cycle_alpha42/yeast_GE_42.txt_mlpout_L9_6.mlp/search_results.txt.fname
+ 
+ 
+ ########running abc4pwm on = yeast_GE_49.txt_mlpout_L10_1.mlp
+Searching Task started. . . .  
+
+SGD-FKH1_2_psam.mlp
+SGD-FKH2_psam.mlp
+SGD-MCM1_1_psam.mlp
+SGD-NDD1_psam.mlp
+SGD-SWI5_psam.mlp
+yeast_GE_49.txt_mlpout_L10_1.mlp
+Searching Task finished. Please see results in  yeast_abc4pwm_out/strand0/cycle_alpha49/yeast_GE_49.txt_mlpout_L10_1.mlp
+ ########DONE for yeast_GE_49.txt_mlpout_L10_1.mlp
+ 
+ 
+ ########running abc4pwm on = yeast_GE_49.txt_mlpout_L10_2.mlp
+Searching Task started. . . .  
+
+SGD-FKH1_2_psam.mlp
+SGD-FKH2_psam.mlp
+SGD-MCM1_1_psam.mlp
+SGD-MCM1_2_psam.mlp
+SGD-NDD1_psam.mlp
+yeast_GE_49.txt_mlpout_L10_2.mlp
+Searching Task finished. Please see results in  yeast_abc4pwm_out/strand0/cycle_alpha49/yeast_GE_49.txt_mlpout_L10_2.mlp
+ ########DONE for yeast_GE_49.txt_mlpout_L10_2.mlp
+ 
+ 
+ ########running abc4pwm on = yeast_GE_49.txt_mlpout_L10_3.mlp
+Searching Task started. . . .  
+
+SGD-FKH1_2_psam.mlp
+SGD-FKH2_psam.mlp
+SGD-MCM1_1_psam.mlp
+SGD-MCM1_2_psam.mlp
+SGD-NDD1_psam.mlp
+yeast_GE_49.txt_mlpout_L10_3.mlp
+Searching Task finished. Please see results in  yeast_abc4pwm_out/strand0/cycle_alpha49/yeast_GE_49.txt_mlpout_L10_3.mlp
+ ########DONE for yeast_GE_49.txt_mlpout_L10_3.mlp
+ 
+ 
+ ########running abc4pwm on = yeast_GE_49.txt_mlpout_L10_6.mlp
+Searching Task started. . . .  
+
+SGD-FKH1_2_psam.mlp
+SGD-FKH2_psam.mlp
+SGD-MCM1_1_psam.mlp
+SGD-MCM1_2_psam.mlp
+SGD-NDD1_psam.mlp
+yeast_GE_49.txt_mlpout_L10_6.mlp
+Searching Task finished. Please see results in  yeast_abc4pwm_out/strand0/cycle_alpha49/yeast_GE_49.txt_mlpout_L10_6.mlp
+ ########DONE for yeast_GE_49.txt_mlpout_L10_6.mlp
+ 
+ 
+ ########running abc4pwm on = yeast_GE_49.txt_mlpout_L11_1.mlp
+Searching Task started. . . .  
+
+SGD-ACE2_1_psam.mlp
+SGD-ACE2_2_psam.mlp
+SGD-MCM1_1_psam.mlp
+SGD-NDD1_psam.mlp
+SGD-SWI5_psam.mlp
+yeast_GE_49.txt_mlpout_L11_1.mlp
+Searching Task finished. Please see results in  yeast_abc4pwm_out/strand0/cycle_alpha49/yeast_GE_49.txt_mlpout_L11_1.mlp
+ ########DONE for yeast_GE_49.txt_mlpout_L11_1.mlp
+ 
+ 
+ ########running abc4pwm on = yeast_GE_49.txt_mlpout_L11_2.mlp
+Searching Task started. . . .  
+
+SGD-FKH1_2_psam.mlp
+SGD-FKH2_psam.mlp
+SGD-MCM1_1_psam.mlp
+SGD-MCM1_2_psam.mlp
+SGD-NDD1_psam.mlp
+yeast_GE_49.txt_mlpout_L11_2.mlp
+Searching Task finished. Please see results in  yeast_abc4pwm_out/strand0/cycle_alpha49/yeast_GE_49.txt_mlpout_L11_2.mlp
+ ########DONE for yeast_GE_49.txt_mlpout_L11_2.mlp
+ 
+ 
+ ########running abc4pwm on = yeast_GE_49.txt_mlpout_L11_3.mlp
+Searching Task started. . . .  
+
+SGD-FKH1_2_psam.mlp
+SGD-FKH2_psam.mlp
+SGD-MCM1_1_psam.mlp
+SGD-MCM1_2_psam.mlp
+SGD-NDD1_psam.mlp
+yeast_GE_49.txt_mlpout_L11_3.mlp
+Searching Task finished. Please see results in  yeast_abc4pwm_out/strand0/cycle_alpha49/yeast_GE_49.txt_mlpout_L11_3.mlp
+ ########DONE for yeast_GE_49.txt_mlpout_L11_3.mlp
+ 
+ 
+ ########running abc4pwm on = yeast_GE_49.txt_mlpout_L11_4.mlp
+Searching Task started. . . .  
+
+SGD-FKH1_2_psam.mlp
+SGD-FKH2_psam.mlp
+SGD-MCM1_1_psam.mlp
+SGD-MCM1_2_psam.mlp
+SGD-NDD1_psam.mlp
+yeast_GE_49.txt_mlpout_L11_4.mlp
+Searching Task finished. Please see results in  yeast_abc4pwm_out/strand0/cycle_alpha49/yeast_GE_49.txt_mlpout_L11_4.mlp
+ ########DONE for yeast_GE_49.txt_mlpout_L11_4.mlp
+ 
+ 
+ ########running abc4pwm on = yeast_GE_49.txt_mlpout_L11_5.mlp
+Searching Task started. . . .  
+
+SGD-FKH1_2_psam.mlp
+SGD-FKH2_psam.mlp
+SGD-MCM1_1_psam.mlp
+SGD-MCM1_2_psam.mlp
+SGD-NDD1_psam.mlp
+yeast_GE_49.txt_mlpout_L11_5.mlp
+Searching Task finished. Please see results in  yeast_abc4pwm_out/strand0/cycle_alpha49/yeast_GE_49.txt_mlpout_L11_5.mlp
+ ########DONE for yeast_GE_49.txt_mlpout_L11_5.mlp
+ 
+ 
+ ########running abc4pwm on = yeast_GE_49.txt_mlpout_L11_6.mlp
+Searching Task started. . . .  
+
+SGD-FKH1_2_psam.mlp
+SGD-FKH2_psam.mlp
+SGD-MCM1_1_psam.mlp
+SGD-MCM1_2_psam.mlp
+SGD-NDD1_psam.mlp
+yeast_GE_49.txt_mlpout_L11_6.mlp
+Searching Task finished. Please see results in  yeast_abc4pwm_out/strand0/cycle_alpha49/yeast_GE_49.txt_mlpout_L11_6.mlp
+ ########DONE for yeast_GE_49.txt_mlpout_L11_6.mlp
+ 
+ 
+ ########running abc4pwm on = yeast_GE_49.txt_mlpout_L12_1.mlp
+Searching Task started. . . .  
+
+SGD-FKH1_2_psam.mlp
+SGD-FKH2_psam.mlp
+SGD-MCM1_1_psam.mlp
+SGD-MCM1_2_psam.mlp
+SGD-NDD1_psam.mlp
+yeast_GE_49.txt_mlpout_L12_1.mlp
+Searching Task finished. Please see results in  yeast_abc4pwm_out/strand0/cycle_alpha49/yeast_GE_49.txt_mlpout_L12_1.mlp
+ ########DONE for yeast_GE_49.txt_mlpout_L12_1.mlp
+ 
+ 
+ ########running abc4pwm on = yeast_GE_49.txt_mlpout_L12_2.mlp
+Searching Task started. . . .  
+
+SGD-FKH1_2_psam.mlp
+SGD-FKH2_psam.mlp
+SGD-MCM1_1_psam.mlp
+SGD-MCM1_2_psam.mlp
+SGD-NDD1_psam.mlp
+yeast_GE_49.txt_mlpout_L12_2.mlp
+Searching Task finished. Please see results in  yeast_abc4pwm_out/strand0/cycle_alpha49/yeast_GE_49.txt_mlpout_L12_2.mlp
+ ########DONE for yeast_GE_49.txt_mlpout_L12_2.mlp
+ 
+ 
+ ########running abc4pwm on = yeast_GE_49.txt_mlpout_L12_3.mlp
+Searching Task started. . . .  
+
+SGD-FKH1_2_psam.mlp
+SGD-FKH2_psam.mlp
+SGD-MCM1_1_psam.mlp
+SGD-MCM1_2_psam.mlp
+SGD-NDD1_psam.mlp
+yeast_GE_49.txt_mlpout_L12_3.mlp
+Searching Task finished. Please see results in  yeast_abc4pwm_out/strand0/cycle_alpha49/yeast_GE_49.txt_mlpout_L12_3.mlp
+ ########DONE for yeast_GE_49.txt_mlpout_L12_3.mlp
+ 
+ 
+ ########running abc4pwm on = yeast_GE_49.txt_mlpout_L12_4.mlp
+Searching Task started. . . .  
+
+SGD-FKH1_2_psam.mlp
+SGD-FKH2_psam.mlp
+SGD-MCM1_1_psam.mlp
+SGD-MCM1_2_psam.mlp
+SGD-NDD1_psam.mlp
+yeast_GE_49.txt_mlpout_L12_4.mlp
+Searching Task finished. Please see results in  yeast_abc4pwm_out/strand0/cycle_alpha49/yeast_GE_49.txt_mlpout_L12_4.mlp
+ ########DONE for yeast_GE_49.txt_mlpout_L12_4.mlp
+ 
+ 
+ ########running abc4pwm on = yeast_GE_49.txt_mlpout_L12_5.mlp
+Searching Task started. . . .  
+
+SGD-FKH1_2_psam.mlp
+SGD-FKH2_psam.mlp
+SGD-MCM1_1_psam.mlp
+SGD-MCM1_2_psam.mlp
+SGD-NDD1_psam.mlp
+yeast_GE_49.txt_mlpout_L12_5.mlp
+Searching Task finished. Please see results in  yeast_abc4pwm_out/strand0/cycle_alpha49/yeast_GE_49.txt_mlpout_L12_5.mlp
+ ########DONE for yeast_GE_49.txt_mlpout_L12_5.mlp
+ 
+ 
+ ########running abc4pwm on = yeast_GE_49.txt_mlpout_L12_6.mlp
+Searching Task started. . . .  
+
+SGD-FKH1_2_psam.mlp
+SGD-FKH2_psam.mlp
+SGD-MCM1_1_psam.mlp
+SGD-MCM1_2_psam.mlp
+SGD-NDD1_psam.mlp
+yeast_GE_49.txt_mlpout_L12_6.mlp
+Searching Task finished. Please see results in  yeast_abc4pwm_out/strand0/cycle_alpha49/yeast_GE_49.txt_mlpout_L12_6.mlp
+ ########DONE for yeast_GE_49.txt_mlpout_L12_6.mlp
+ 
+ 
+ ########running abc4pwm on = yeast_GE_49.txt_mlpout_L13_1.mlp
+Searching Task started. . . .  
+
+SGD-FKH1_2_psam.mlp
+SGD-FKH2_psam.mlp
+SGD-MCM1_1_psam.mlp
+SGD-MCM1_2_psam.mlp
+SGD-NDD1_psam.mlp
+yeast_GE_49.txt_mlpout_L13_1.mlp
+Searching Task finished. Please see results in  yeast_abc4pwm_out/strand0/cycle_alpha49/yeast_GE_49.txt_mlpout_L13_1.mlp
+ ########DONE for yeast_GE_49.txt_mlpout_L13_1.mlp
+ 
+ 
+ ########running abc4pwm on = yeast_GE_49.txt_mlpout_L13_2.mlp
+Searching Task started. . . .  
+
+SGD-FKH1_2_psam.mlp
+SGD-FKH2_psam.mlp
+SGD-MCM1_1_psam.mlp
+SGD-MCM1_2_psam.mlp
+SGD-NDD1_psam.mlp
+yeast_GE_49.txt_mlpout_L13_2.mlp
+Searching Task finished. Please see results in  yeast_abc4pwm_out/strand0/cycle_alpha49/yeast_GE_49.txt_mlpout_L13_2.mlp
+ ########DONE for yeast_GE_49.txt_mlpout_L13_2.mlp
+ 
+ 
+ ########running abc4pwm on = yeast_GE_49.txt_mlpout_L13_3.mlp
+Searching Task started. . . .  
+
+SGD-FKH1_2_psam.mlp
+SGD-FKH2_psam.mlp
+SGD-MCM1_1_psam.mlp
+SGD-MCM1_2_psam.mlp
+SGD-NDD1_psam.mlp
+yeast_GE_49.txt_mlpout_L13_3.mlp
+Searching Task finished. Please see results in  yeast_abc4pwm_out/strand0/cycle_alpha49/yeast_GE_49.txt_mlpout_L13_3.mlp
+ ########DONE for yeast_GE_49.txt_mlpout_L13_3.mlp
+ 
+ 
+ ########running abc4pwm on = yeast_GE_49.txt_mlpout_L13_4.mlp
+Searching Task started. . . .  
+
+SGD-FKH1_2_psam.mlp
+SGD-FKH2_psam.mlp
+SGD-MCM1_1_psam.mlp
+SGD-MCM1_2_psam.mlp
+SGD-NDD1_psam.mlp
+yeast_GE_49.txt_mlpout_L13_4.mlp
+Searching Task finished. Please see results in  yeast_abc4pwm_out/strand0/cycle_alpha49/yeast_GE_49.txt_mlpout_L13_4.mlp
+ ########DONE for yeast_GE_49.txt_mlpout_L13_4.mlp
+ 
+ 
+ ########running abc4pwm on = yeast_GE_49.txt_mlpout_L14_1.mlp
+Searching Task started. . . .  
+
+SGD-FKH1_2_psam.mlp
+SGD-FKH2_psam.mlp
+SGD-MCM1_1_psam.mlp
+SGD-MCM1_2_psam.mlp
+SGD-NDD1_psam.mlp
+yeast_GE_49.txt_mlpout_L14_1.mlp
+Searching Task finished. Please see results in  yeast_abc4pwm_out/strand0/cycle_alpha49/yeast_GE_49.txt_mlpout_L14_1.mlp
+ ########DONE for yeast_GE_49.txt_mlpout_L14_1.mlp
+ 
+ 
+ ########running abc4pwm on = yeast_GE_49.txt_mlpout_L14_2.mlp
+Searching Task started. . . .  
+
+SGD-FKH1_2_psam.mlp
+SGD-FKH2_psam.mlp
+SGD-MCM1_1_psam.mlp
+SGD-MCM1_2_psam.mlp
+SGD-NDD1_psam.mlp
+yeast_GE_49.txt_mlpout_L14_2.mlp
+Searching Task finished. Please see results in  yeast_abc4pwm_out/strand0/cycle_alpha49/yeast_GE_49.txt_mlpout_L14_2.mlp
+ ########DONE for yeast_GE_49.txt_mlpout_L14_2.mlp
+ 
+ 
+ ########running abc4pwm on = yeast_GE_49.txt_mlpout_L14_3.mlp
+Searching Task started. . . .  
+
+SGD-FKH1_2_psam.mlp
+SGD-FKH2_psam.mlp
+SGD-MCM1_1_psam.mlp
+SGD-MCM1_2_psam.mlp
+SGD-NDD1_psam.mlp
+yeast_GE_49.txt_mlpout_L14_3.mlp
+Searching Task finished. Please see results in  yeast_abc4pwm_out/strand0/cycle_alpha49/yeast_GE_49.txt_mlpout_L14_3.mlp
+ ########DONE for yeast_GE_49.txt_mlpout_L14_3.mlp
+ 
+ 
+ ########running abc4pwm on = yeast_GE_49.txt_mlpout_L14_4.mlp
+Searching Task started. . . .  
+
+SGD-FKH1_2_psam.mlp
+SGD-FKH2_psam.mlp
+SGD-MCM1_1_psam.mlp
+SGD-MCM1_2_psam.mlp
+SGD-NDD1_psam.mlp
+yeast_GE_49.txt_mlpout_L14_4.mlp
+Searching Task finished. Please see results in  yeast_abc4pwm_out/strand0/cycle_alpha49/yeast_GE_49.txt_mlpout_L14_4.mlp
+ ########DONE for yeast_GE_49.txt_mlpout_L14_4.mlp
+ 
+ 
+ ########running abc4pwm on = yeast_GE_49.txt_mlpout_L14_5.mlp
+Searching Task started. . . .  
+
+SGD-FKH1_2_psam.mlp
+SGD-FKH2_psam.mlp
+SGD-MCM1_1_psam.mlp
+SGD-MCM1_2_psam.mlp
+SGD-NDD1_psam.mlp
+yeast_GE_49.txt_mlpout_L14_5.mlp
+Searching Task finished. Please see results in  yeast_abc4pwm_out/strand0/cycle_alpha49/yeast_GE_49.txt_mlpout_L14_5.mlp
+ ########DONE for yeast_GE_49.txt_mlpout_L14_5.mlp
+ 
+ 
+ ########running abc4pwm on = yeast_GE_49.txt_mlpout_L14_6.mlp
+Searching Task started. . . .  
+
+SGD-FKH1_2_psam.mlp
+SGD-FKH2_psam.mlp
+SGD-MCM1_1_psam.mlp
+SGD-MCM1_2_psam.mlp
+SGD-NDD1_psam.mlp
+yeast_GE_49.txt_mlpout_L14_6.mlp
+Searching Task finished. Please see results in  yeast_abc4pwm_out/strand0/cycle_alpha49/yeast_GE_49.txt_mlpout_L14_6.mlp
+ ########DONE for yeast_GE_49.txt_mlpout_L14_6.mlp
+ 
+ 
+ ########running abc4pwm on = yeast_GE_49.txt_mlpout_L6_1.mlp
+Searching Task started. . . .  
+
+SGD-FKH1_2_psam.mlp
+SGD-FKH2_psam.mlp
+SGD-MCM1_1_psam.mlp
+SGD-MCM1_2_psam.mlp
+SGD-NDD1_psam.mlp
+yeast_GE_49.txt_mlpout_L6_1.mlp
+Searching Task finished. Please see results in  yeast_abc4pwm_out/strand0/cycle_alpha49/yeast_GE_49.txt_mlpout_L6_1.mlp
+ ########DONE for yeast_GE_49.txt_mlpout_L6_1.mlp
+ 
+ 
+ ########running abc4pwm on = yeast_GE_49.txt_mlpout_L6_2.mlp
+Searching Task started. . . .  
+
+SGD-FKH1_2_psam.mlp
+SGD-FKH2_psam.mlp
+SGD-MCM1_1_psam.mlp
+SGD-MCM1_2_psam.mlp
+SGD-NDD1_psam.mlp
+yeast_GE_49.txt_mlpout_L6_2.mlp
+Searching Task finished. Please see results in  yeast_abc4pwm_out/strand0/cycle_alpha49/yeast_GE_49.txt_mlpout_L6_2.mlp
+ ########DONE for yeast_GE_49.txt_mlpout_L6_2.mlp
+ 
+ 
+ ########running abc4pwm on = yeast_GE_49.txt_mlpout_L6_3.mlp
+Searching Task started. . . .  
+
+SGD-FKH2_psam.mlp
+SGD-MCM1_1_psam.mlp
+SGD-MCM1_2_psam.mlp
+SGD-NDD1_psam.mlp
+SGD-SWI4_2_psam.mlp
+yeast_GE_49.txt_mlpout_L6_3.mlp
+Searching Task finished. Please see results in  yeast_abc4pwm_out/strand0/cycle_alpha49/yeast_GE_49.txt_mlpout_L6_3.mlp
+ ########DONE for yeast_GE_49.txt_mlpout_L6_3.mlp
+ 
+ 
+ ########running abc4pwm on = yeast_GE_49.txt_mlpout_L6_4.mlp
+Searching Task started. . . .  
+
+SGD-FKH1_2_psam.mlp
+SGD-FKH2_psam.mlp
+SGD-MCM1_1_psam.mlp
+SGD-MCM1_2_psam.mlp
+SGD-NDD1_psam.mlp
+yeast_GE_49.txt_mlpout_L6_4.mlp
+Searching Task finished. Please see results in  yeast_abc4pwm_out/strand0/cycle_alpha49/yeast_GE_49.txt_mlpout_L6_4.mlp
+ ########DONE for yeast_GE_49.txt_mlpout_L6_4.mlp
+ 
+ 
+ ########running abc4pwm on = yeast_GE_49.txt_mlpout_L6_5.mlp
+Searching Task started. . . .  
+
+SGD-FKH1_2_psam.mlp
+SGD-FKH2_psam.mlp
+SGD-MCM1_1_psam.mlp
+SGD-MCM1_2_psam.mlp
+SGD-NDD1_psam.mlp
+yeast_GE_49.txt_mlpout_L6_5.mlp
+Searching Task finished. Please see results in  yeast_abc4pwm_out/strand0/cycle_alpha49/yeast_GE_49.txt_mlpout_L6_5.mlp
+ ########DONE for yeast_GE_49.txt_mlpout_L6_5.mlp
+ 
+ 
+ ########running abc4pwm on = yeast_GE_49.txt_mlpout_L6_6.mlp
+Searching Task started. . . .  
+
+SGD-FKH1_2_psam.mlp
+SGD-FKH2_psam.mlp
+SGD-MCM1_1_psam.mlp
+SGD-MCM1_2_psam.mlp
+SGD-NDD1_psam.mlp
+yeast_GE_49.txt_mlpout_L6_6.mlp
+Searching Task finished. Please see results in  yeast_abc4pwm_out/strand0/cycle_alpha49/yeast_GE_49.txt_mlpout_L6_6.mlp
+ ########DONE for yeast_GE_49.txt_mlpout_L6_6.mlp
+ 
+ 
+ ########running abc4pwm on = yeast_GE_49.txt_mlpout_L7_1.mlp
+Searching Task started. . . .  
+
+SGD-FKH1_2_psam.mlp
+SGD-FKH2_psam.mlp
+SGD-MCM1_1_psam.mlp
+SGD-MCM1_2_psam.mlp
+SGD-NDD1_psam.mlp
+yeast_GE_49.txt_mlpout_L7_1.mlp
+Searching Task finished. Please see results in  yeast_abc4pwm_out/strand0/cycle_alpha49/yeast_GE_49.txt_mlpout_L7_1.mlp
+ ########DONE for yeast_GE_49.txt_mlpout_L7_1.mlp
+ 
+ 
+ ########running abc4pwm on = yeast_GE_49.txt_mlpout_L7_2.mlp
+Searching Task started. . . .  
+
+SGD-FKH1_2_psam.mlp
+SGD-FKH2_psam.mlp
+SGD-MCM1_1_psam.mlp
+SGD-MCM1_2_psam.mlp
+SGD-NDD1_psam.mlp
+yeast_GE_49.txt_mlpout_L7_2.mlp
+Searching Task finished. Please see results in  yeast_abc4pwm_out/strand0/cycle_alpha49/yeast_GE_49.txt_mlpout_L7_2.mlp
+ ########DONE for yeast_GE_49.txt_mlpout_L7_2.mlp
+ 
+ 
+ ########running abc4pwm on = yeast_GE_49.txt_mlpout_L7_3.mlp
+Searching Task started. . . .  
+
+SGD-FKH1_2_psam.mlp
+SGD-FKH2_psam.mlp
+SGD-MCM1_1_psam.mlp
+SGD-MCM1_2_psam.mlp
+SGD-NDD1_psam.mlp
+yeast_GE_49.txt_mlpout_L7_3.mlp
+Searching Task finished. Please see results in  yeast_abc4pwm_out/strand0/cycle_alpha49/yeast_GE_49.txt_mlpout_L7_3.mlp
+ ########DONE for yeast_GE_49.txt_mlpout_L7_3.mlp
+ 
+ 
+ ########running abc4pwm on = yeast_GE_49.txt_mlpout_L7_4.mlp
+Searching Task started. . . .  
+
+SGD-FKH1_2_psam.mlp
+SGD-FKH2_psam.mlp
+SGD-MCM1_1_psam.mlp
+SGD-MCM1_2_psam.mlp
+SGD-NDD1_psam.mlp
+yeast_GE_49.txt_mlpout_L7_4.mlp
+Searching Task finished. Please see results in  yeast_abc4pwm_out/strand0/cycle_alpha49/yeast_GE_49.txt_mlpout_L7_4.mlp
+ ########DONE for yeast_GE_49.txt_mlpout_L7_4.mlp
+ 
+ 
+ ########running abc4pwm on = yeast_GE_49.txt_mlpout_L7_5.mlp
+Searching Task started. . . .  
+
+SGD-FKH1_2_psam.mlp
+SGD-FKH2_psam.mlp
+SGD-MCM1_1_psam.mlp
+SGD-MCM1_2_psam.mlp
+SGD-NDD1_psam.mlp
+yeast_GE_49.txt_mlpout_L7_5.mlp
+Searching Task finished. Please see results in  yeast_abc4pwm_out/strand0/cycle_alpha49/yeast_GE_49.txt_mlpout_L7_5.mlp
+ ########DONE for yeast_GE_49.txt_mlpout_L7_5.mlp
+ 
+ 
+ ########running abc4pwm on = yeast_GE_49.txt_mlpout_L7_6.mlp
+Searching Task started. . . .  
+
+SGD-ACE2_2_psam.mlp
+SGD-FKH2_psam.mlp
+SGD-MCM1_1_psam.mlp
+SGD-MCM1_2_psam.mlp
+SGD-NDD1_psam.mlp
+yeast_GE_49.txt_mlpout_L7_6.mlp
+Searching Task finished. Please see results in  yeast_abc4pwm_out/strand0/cycle_alpha49/yeast_GE_49.txt_mlpout_L7_6.mlp
+ ########DONE for yeast_GE_49.txt_mlpout_L7_6.mlp
+ 
+ 
+ ########running abc4pwm on = yeast_GE_49.txt_mlpout_L8_1.mlp
+Searching Task started. . . .  
+
+SGD-FKH1_1_psam.mlp
+SGD-FKH1_2_psam.mlp
+SGD-FKH2_psam.mlp
+SGD-NDD1_psam.mlp
+SGD-SWI5_psam.mlp
+yeast_GE_49.txt_mlpout_L8_1.mlp
+Searching Task finished. Please see results in  yeast_abc4pwm_out/strand0/cycle_alpha49/yeast_GE_49.txt_mlpout_L8_1.mlp
+ ########DONE for yeast_GE_49.txt_mlpout_L8_1.mlp
+ 
+ 
+ ########running abc4pwm on = yeast_GE_49.txt_mlpout_L8_2.mlp
+Searching Task started. . . .  
+
+SGD-FKH1_2_psam.mlp
+SGD-FKH2_psam.mlp
+SGD-MCM1_1_psam.mlp
+SGD-MCM1_2_psam.mlp
+SGD-NDD1_psam.mlp
+yeast_GE_49.txt_mlpout_L8_2.mlp
+Searching Task finished. Please see results in  yeast_abc4pwm_out/strand0/cycle_alpha49/yeast_GE_49.txt_mlpout_L8_2.mlp
+ ########DONE for yeast_GE_49.txt_mlpout_L8_2.mlp
+ 
+ 
+ ########running abc4pwm on = yeast_GE_49.txt_mlpout_L8_3.mlp
+Searching Task started. . . .  
+
+SGD-FKH1_2_psam.mlp
+SGD-FKH2_psam.mlp
+SGD-MCM1_1_psam.mlp
+SGD-MCM1_2_psam.mlp
+SGD-NDD1_psam.mlp
+yeast_GE_49.txt_mlpout_L8_3.mlp
+Searching Task finished. Please see results in  yeast_abc4pwm_out/strand0/cycle_alpha49/yeast_GE_49.txt_mlpout_L8_3.mlp
+ ########DONE for yeast_GE_49.txt_mlpout_L8_3.mlp
+ 
+ 
+ ########running abc4pwm on = yeast_GE_49.txt_mlpout_L8_4.mlp
+Searching Task started. . . .  
+
+SGD-FKH1_2_psam.mlp
+SGD-FKH2_psam.mlp
+SGD-MCM1_1_psam.mlp
+SGD-MCM1_2_psam.mlp
+SGD-NDD1_psam.mlp
+yeast_GE_49.txt_mlpout_L8_4.mlp
+Searching Task finished. Please see results in  yeast_abc4pwm_out/strand0/cycle_alpha49/yeast_GE_49.txt_mlpout_L8_4.mlp
+ ########DONE for yeast_GE_49.txt_mlpout_L8_4.mlp
+ 
+ 
+ ########running abc4pwm on = yeast_GE_49.txt_mlpout_L8_5.mlp
+Searching Task started. . . .  
+
+SGD-FKH1_2_psam.mlp
+SGD-FKH2_psam.mlp
+SGD-MCM1_1_psam.mlp
+SGD-MCM1_2_psam.mlp
+SGD-NDD1_psam.mlp
+yeast_GE_49.txt_mlpout_L8_5.mlp
+Searching Task finished. Please see results in  yeast_abc4pwm_out/strand0/cycle_alpha49/yeast_GE_49.txt_mlpout_L8_5.mlp
+ ########DONE for yeast_GE_49.txt_mlpout_L8_5.mlp
+ 
+ 
+ ########running abc4pwm on = yeast_GE_49.txt_mlpout_L8_6.mlp
+Searching Task started. . . .  
+
+SGD-FKH1_2_psam.mlp
+SGD-FKH2_psam.mlp
+SGD-MCM1_1_psam.mlp
+SGD-MCM1_2_psam.mlp
+SGD-NDD1_psam.mlp
+yeast_GE_49.txt_mlpout_L8_6.mlp
+Searching Task finished. Please see results in  yeast_abc4pwm_out/strand0/cycle_alpha49/yeast_GE_49.txt_mlpout_L8_6.mlp
+ ########DONE for yeast_GE_49.txt_mlpout_L8_6.mlp
+ 
+ 
+ ########running abc4pwm on = yeast_GE_49.txt_mlpout_L9_1.mlp
+Searching Task started. . . .  
+
+SGD-FKH1_2_psam.mlp
+SGD-FKH2_psam.mlp
+SGD-MCM1_1_psam.mlp
+SGD-MCM1_2_psam.mlp
+SGD-NDD1_psam.mlp
+yeast_GE_49.txt_mlpout_L9_1.mlp
+Searching Task finished. Please see results in  yeast_abc4pwm_out/strand0/cycle_alpha49/yeast_GE_49.txt_mlpout_L9_1.mlp
+ ########DONE for yeast_GE_49.txt_mlpout_L9_1.mlp
+ 
+ 
+ ########running abc4pwm on = yeast_GE_49.txt_mlpout_L9_2.mlp
+Searching Task started. . . .  
+
+SGD-FKH1_2_psam.mlp
+SGD-FKH2_psam.mlp
+SGD-MCM1_1_psam.mlp
+SGD-MCM1_2_psam.mlp
+SGD-NDD1_psam.mlp
+yeast_GE_49.txt_mlpout_L9_2.mlp
+Searching Task finished. Please see results in  yeast_abc4pwm_out/strand0/cycle_alpha49/yeast_GE_49.txt_mlpout_L9_2.mlp
+ ########DONE for yeast_GE_49.txt_mlpout_L9_2.mlp
+ 
+ 
+ ########running abc4pwm on = yeast_GE_49.txt_mlpout_L9_5.mlp
+Searching Task started. . . .  
+
+SGD-FKH1_2_psam.mlp
+SGD-FKH2_psam.mlp
+SGD-MCM1_1_psam.mlp
+SGD-MCM1_2_psam.mlp
+SGD-NDD1_psam.mlp
+yeast_GE_49.txt_mlpout_L9_5.mlp
+Searching Task finished. Please see results in  yeast_abc4pwm_out/strand0/cycle_alpha49/yeast_GE_49.txt_mlpout_L9_5.mlp
+ ########DONE for yeast_GE_49.txt_mlpout_L9_5.mlp
+ 
+Combining scores for predicted mols
+ ########running abc4pwm on = yeast_GE_49.txt_mlpout_L10_1.mlp
+ ########Written file: yeast_abc4pwm_out/strand0/cycle_alpha49/yeast_GE_49.txt_mlpout_L10_1.mlp/search_results.txt.fname
+ ########running abc4pwm on = yeast_GE_49.txt_mlpout_L10_2.mlp
+ ########Written file: yeast_abc4pwm_out/strand0/cycle_alpha49/yeast_GE_49.txt_mlpout_L10_2.mlp/search_results.txt.fname
+ ########running abc4pwm on = yeast_GE_49.txt_mlpout_L10_3.mlp
+ ########Written file: yeast_abc4pwm_out/strand0/cycle_alpha49/yeast_GE_49.txt_mlpout_L10_3.mlp/search_results.txt.fname
+ ########running abc4pwm on = yeast_GE_49.txt_mlpout_L10_6.mlp
+ ########Written file: yeast_abc4pwm_out/strand0/cycle_alpha49/yeast_GE_49.txt_mlpout_L10_6.mlp/search_results.txt.fname
+ ########running abc4pwm on = yeast_GE_49.txt_mlpout_L11_1.mlp
+ ########Written file: yeast_abc4pwm_out/strand0/cycle_alpha49/yeast_GE_49.txt_mlpout_L11_1.mlp/search_results.txt.fname
+ ########running abc4pwm on = yeast_GE_49.txt_mlpout_L11_2.mlp
+ ########Written file: yeast_abc4pwm_out/strand0/cycle_alpha49/yeast_GE_49.txt_mlpout_L11_2.mlp/search_results.txt.fname
+ ########running abc4pwm on = yeast_GE_49.txt_mlpout_L11_3.mlp
+ ########Written file: yeast_abc4pwm_out/strand0/cycle_alpha49/yeast_GE_49.txt_mlpout_L11_3.mlp/search_results.txt.fname
+ ########running abc4pwm on = yeast_GE_49.txt_mlpout_L11_4.mlp
+ ########Written file: yeast_abc4pwm_out/strand0/cycle_alpha49/yeast_GE_49.txt_mlpout_L11_4.mlp/search_results.txt.fname
+ ########running abc4pwm on = yeast_GE_49.txt_mlpout_L11_5.mlp
+ ########Written file: yeast_abc4pwm_out/strand0/cycle_alpha49/yeast_GE_49.txt_mlpout_L11_5.mlp/search_results.txt.fname
+ ########running abc4pwm on = yeast_GE_49.txt_mlpout_L11_6.mlp
+ ########Written file: yeast_abc4pwm_out/strand0/cycle_alpha49/yeast_GE_49.txt_mlpout_L11_6.mlp/search_results.txt.fname
+ ########running abc4pwm on = yeast_GE_49.txt_mlpout_L12_1.mlp
+ ########Written file: yeast_abc4pwm_out/strand0/cycle_alpha49/yeast_GE_49.txt_mlpout_L12_1.mlp/search_results.txt.fname
+ ########running abc4pwm on = yeast_GE_49.txt_mlpout_L12_2.mlp
+ ########Written file: yeast_abc4pwm_out/strand0/cycle_alpha49/yeast_GE_49.txt_mlpout_L12_2.mlp/search_results.txt.fname
+ ########running abc4pwm on = yeast_GE_49.txt_mlpout_L12_3.mlp
+ ########Written file: yeast_abc4pwm_out/strand0/cycle_alpha49/yeast_GE_49.txt_mlpout_L12_3.mlp/search_results.txt.fname
+ ########running abc4pwm on = yeast_GE_49.txt_mlpout_L12_4.mlp
+ ########Written file: yeast_abc4pwm_out/strand0/cycle_alpha49/yeast_GE_49.txt_mlpout_L12_4.mlp/search_results.txt.fname
+ ########running abc4pwm on = yeast_GE_49.txt_mlpout_L12_5.mlp
+ ########Written file: yeast_abc4pwm_out/strand0/cycle_alpha49/yeast_GE_49.txt_mlpout_L12_5.mlp/search_results.txt.fname
+ ########running abc4pwm on = yeast_GE_49.txt_mlpout_L12_6.mlp
+ ########Written file: yeast_abc4pwm_out/strand0/cycle_alpha49/yeast_GE_49.txt_mlpout_L12_6.mlp/search_results.txt.fname
+ ########running abc4pwm on = yeast_GE_49.txt_mlpout_L13_1.mlp
+ ########Written file: yeast_abc4pwm_out/strand0/cycle_alpha49/yeast_GE_49.txt_mlpout_L13_1.mlp/search_results.txt.fname
+ ########running abc4pwm on = yeast_GE_49.txt_mlpout_L13_2.mlp
+ ########Written file: yeast_abc4pwm_out/strand0/cycle_alpha49/yeast_GE_49.txt_mlpout_L13_2.mlp/search_results.txt.fname
+ ########running abc4pwm on = yeast_GE_49.txt_mlpout_L13_3.mlp
+ ########Written file: yeast_abc4pwm_out/strand0/cycle_alpha49/yeast_GE_49.txt_mlpout_L13_3.mlp/search_results.txt.fname
+ ########running abc4pwm on = yeast_GE_49.txt_mlpout_L13_4.mlp
+ ########Written file: yeast_abc4pwm_out/strand0/cycle_alpha49/yeast_GE_49.txt_mlpout_L13_4.mlp/search_results.txt.fname
+ ########running abc4pwm on = yeast_GE_49.txt_mlpout_L14_1.mlp
+ ########Written file: yeast_abc4pwm_out/strand0/cycle_alpha49/yeast_GE_49.txt_mlpout_L14_1.mlp/search_results.txt.fname
+ ########running abc4pwm on = yeast_GE_49.txt_mlpout_L14_2.mlp
+ ########Written file: yeast_abc4pwm_out/strand0/cycle_alpha49/yeast_GE_49.txt_mlpout_L14_2.mlp/search_results.txt.fname
+ ########running abc4pwm on = yeast_GE_49.txt_mlpout_L14_3.mlp
+ ########Written file: yeast_abc4pwm_out/strand0/cycle_alpha49/yeast_GE_49.txt_mlpout_L14_3.mlp/search_results.txt.fname
+ ########running abc4pwm on = yeast_GE_49.txt_mlpout_L14_4.mlp
+ ########Written file: yeast_abc4pwm_out/strand0/cycle_alpha49/yeast_GE_49.txt_mlpout_L14_4.mlp/search_results.txt.fname
+ ########running abc4pwm on = yeast_GE_49.txt_mlpout_L14_5.mlp
+ ########Written file: yeast_abc4pwm_out/strand0/cycle_alpha49/yeast_GE_49.txt_mlpout_L14_5.mlp/search_results.txt.fname
+ ########running abc4pwm on = yeast_GE_49.txt_mlpout_L14_6.mlp
+ ########Written file: yeast_abc4pwm_out/strand0/cycle_alpha49/yeast_GE_49.txt_mlpout_L14_6.mlp/search_results.txt.fname
+ ########running abc4pwm on = yeast_GE_49.txt_mlpout_L6_1.mlp
+ ########Written file: yeast_abc4pwm_out/strand0/cycle_alpha49/yeast_GE_49.txt_mlpout_L6_1.mlp/search_results.txt.fname
+ ########running abc4pwm on = yeast_GE_49.txt_mlpout_L6_2.mlp
+ ########Written file: yeast_abc4pwm_out/strand0/cycle_alpha49/yeast_GE_49.txt_mlpout_L6_2.mlp/search_results.txt.fname
+ ########running abc4pwm on = yeast_GE_49.txt_mlpout_L6_3.mlp
+ ########Written file: yeast_abc4pwm_out/strand0/cycle_alpha49/yeast_GE_49.txt_mlpout_L6_3.mlp/search_results.txt.fname
+ ########running abc4pwm on = yeast_GE_49.txt_mlpout_L6_4.mlp
+ ########Written file: yeast_abc4pwm_out/strand0/cycle_alpha49/yeast_GE_49.txt_mlpout_L6_4.mlp/search_results.txt.fname
+ ########running abc4pwm on = yeast_GE_49.txt_mlpout_L6_5.mlp
+ ########Written file: yeast_abc4pwm_out/strand0/cycle_alpha49/yeast_GE_49.txt_mlpout_L6_5.mlp/search_results.txt.fname
+ ########running abc4pwm on = yeast_GE_49.txt_mlpout_L6_6.mlp
+ ########Written file: yeast_abc4pwm_out/strand0/cycle_alpha49/yeast_GE_49.txt_mlpout_L6_6.mlp/search_results.txt.fname
+ ########running abc4pwm on = yeast_GE_49.txt_mlpout_L7_1.mlp
+ ########Written file: yeast_abc4pwm_out/strand0/cycle_alpha49/yeast_GE_49.txt_mlpout_L7_1.mlp/search_results.txt.fname
+ ########running abc4pwm on = yeast_GE_49.txt_mlpout_L7_2.mlp
+ ########Written file: yeast_abc4pwm_out/strand0/cycle_alpha49/yeast_GE_49.txt_mlpout_L7_2.mlp/search_results.txt.fname
+ ########running abc4pwm on = yeast_GE_49.txt_mlpout_L7_3.mlp
+ ########Written file: yeast_abc4pwm_out/strand0/cycle_alpha49/yeast_GE_49.txt_mlpout_L7_3.mlp/search_results.txt.fname
+ ########running abc4pwm on = yeast_GE_49.txt_mlpout_L7_4.mlp
+ ########Written file: yeast_abc4pwm_out/strand0/cycle_alpha49/yeast_GE_49.txt_mlpout_L7_4.mlp/search_results.txt.fname
+ ########running abc4pwm on = yeast_GE_49.txt_mlpout_L7_5.mlp
+ ########Written file: yeast_abc4pwm_out/strand0/cycle_alpha49/yeast_GE_49.txt_mlpout_L7_5.mlp/search_results.txt.fname
+ ########running abc4pwm on = yeast_GE_49.txt_mlpout_L7_6.mlp
+ ########Written file: yeast_abc4pwm_out/strand0/cycle_alpha49/yeast_GE_49.txt_mlpout_L7_6.mlp/search_results.txt.fname
+ ########running abc4pwm on = yeast_GE_49.txt_mlpout_L8_1.mlp
+ ########Written file: yeast_abc4pwm_out/strand0/cycle_alpha49/yeast_GE_49.txt_mlpout_L8_1.mlp/search_results.txt.fname
+ ########running abc4pwm on = yeast_GE_49.txt_mlpout_L8_2.mlp
+ ########Written file: yeast_abc4pwm_out/strand0/cycle_alpha49/yeast_GE_49.txt_mlpout_L8_2.mlp/search_results.txt.fname
+ ########running abc4pwm on = yeast_GE_49.txt_mlpout_L8_3.mlp
+ ########Written file: yeast_abc4pwm_out/strand0/cycle_alpha49/yeast_GE_49.txt_mlpout_L8_3.mlp/search_results.txt.fname
+ ########running abc4pwm on = yeast_GE_49.txt_mlpout_L8_4.mlp
+ ########Written file: yeast_abc4pwm_out/strand0/cycle_alpha49/yeast_GE_49.txt_mlpout_L8_4.mlp/search_results.txt.fname
+ ########running abc4pwm on = yeast_GE_49.txt_mlpout_L8_5.mlp
+ ########Written file: yeast_abc4pwm_out/strand0/cycle_alpha49/yeast_GE_49.txt_mlpout_L8_5.mlp/search_results.txt.fname
+ ########running abc4pwm on = yeast_GE_49.txt_mlpout_L8_6.mlp
+ ########Written file: yeast_abc4pwm_out/strand0/cycle_alpha49/yeast_GE_49.txt_mlpout_L8_6.mlp/search_results.txt.fname
+ ########running abc4pwm on = yeast_GE_49.txt_mlpout_L9_1.mlp
+ ########Written file: yeast_abc4pwm_out/strand0/cycle_alpha49/yeast_GE_49.txt_mlpout_L9_1.mlp/search_results.txt.fname
+ ########running abc4pwm on = yeast_GE_49.txt_mlpout_L9_2.mlp
+ ########Written file: yeast_abc4pwm_out/strand0/cycle_alpha49/yeast_GE_49.txt_mlpout_L9_2.mlp/search_results.txt.fname
+ ########running abc4pwm on = yeast_GE_49.txt_mlpout_L9_5.mlp
+ ########Written file: yeast_abc4pwm_out/strand0/cycle_alpha49/yeast_GE_49.txt_mlpout_L9_5.mlp/search_results.txt.fname

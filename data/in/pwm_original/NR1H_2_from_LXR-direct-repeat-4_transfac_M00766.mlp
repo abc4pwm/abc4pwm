@@ -1,0 +1,21 @@
+NR1H_2	#	NR1H_2	LXR-direct-repeat-4_transfac_M00766
+0.001     #       p-value
+8642     #       bonferroni
+0	1	1	1	1	0	1	1	1	1 # derived from leading strand
+#        a       c       g       t	 P=>P/0.25
+T	0	0.5	0	3.5
+G	0	0	4	0
+M	3	1	0	0
+C	0.5	3.5	0	0
+C	0	4	0	0
+K	0	0.5	2.5	1
+S	0.5	1.5	1.5	0.5
+H	1	1.5	0.5	1
+A	2.5	0.5	0.5	0.5
+G	0.5	0.5	2.5	0.5
+T	0	0	0	4
+R	2.5	0	1.5	0
+A	4	0	0	0
+C	0.5	3.5	0	0
+C	0	4	0	0
+C	0	4	0	0

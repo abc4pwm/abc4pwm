@@ -1,0 +1,15 @@
+NR3C1_known11	#	NR3C1_known11	NR3C1_5	PR,-GR_transfac_M00960
+0.001     #       p-value
+8642     #       bonferroni
+0	1	1	1	1	0	1	1	1	1 # derived from leading strand
+#        a       c       g       t	 P=>P/0.25
+D	0.8	0.4	2	0.8
+W	2.2	0.4	0.2	1.2
+D	1.4	0.4	1.2	1
+D	2.4	0	0.8	0.8
+G	0	0	4	0
+R	2.2	0	1.4	0.4
+A	4	0	0	0
+C	0	3.8	0.2	0
+A	3.8	0	0	0.2
+B	0.6	1	1.2	1.2

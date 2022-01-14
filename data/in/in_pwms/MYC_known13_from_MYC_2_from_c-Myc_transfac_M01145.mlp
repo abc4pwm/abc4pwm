@@ -1,0 +1,17 @@
+MYC_known13	#	MYC_known13	MYC_2	c-Myc_transfac_M01145
+0.001     #       p-value
+8642     #       bonferroni
+0	1	1	1	1	0	1	1	1	1 # derived from leading strand
+#        a       c       g       t	 P=>P/0.25
+R	1.5556	0.22222	1.5556	0.66667
+A	3.2	0	0.4	0.4
+S	0.19048	3.0476	0.7619	0
+C	0	4	0	0
+A	4	0	0	0
+C	0	4	0	0
+G	0	0	4	0
+T	0	0	0	4
+G	0	0	4	0
+S	0	2.6	1.2	0.2
+T	0.22222	0.44444	0	3.3333
+M	0.8	2.9333	0	0.26667

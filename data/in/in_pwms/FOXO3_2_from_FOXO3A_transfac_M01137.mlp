@@ -1,0 +1,17 @@
+FOXO3_2	#	FOXO3_2	FOXO3A_transfac_M01137
+0.001     #       p-value
+8642     #       bonferroni
+0	1	1	1	1	0	1	1	1	1 # derived from leading strand
+#        a       c       g       t	 P=>P/0.25
+W	0.8	0.4	0.4	2.4
+R	1.6	0.4	2	0
+W	1.2	0	0	2.8
+A	4	0	0	0
+A	4	0	0	0
+A	4	0	0	0
+Y	0	2.8	0	1.2
+A	4	0	0	0
+A	3.2	0	0.4	0.4
+V	1.6	0.8	1.2	0.4
+W	1.2	0.4	0.4	2
+D	1.2	0.4	0.8	1.6

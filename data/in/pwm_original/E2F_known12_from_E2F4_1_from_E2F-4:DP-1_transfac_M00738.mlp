@@ -1,0 +1,13 @@
+E2F_known12	#	E2F_known12	E2F4_1	E2F-4:DP-1_transfac_M00738
+0.001     #       p-value
+8642     #       bonferroni
+0	1	1	1	1	0	1	1	1	1 # derived from leading strand
+#        a       c       g       t	 P=>P/0.25
+T	0.4878	0	0	3.5122
+T	0.09756	0	0	3.9024
+T	0	0	0	4
+S	0	2.1463	1.8537	0
+G	0	0.4878	3.5122	0
+C	0	4	0	0
+G	0	0	4	0
+C	0	3.8049	0.19512	0

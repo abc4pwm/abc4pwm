@@ -1,0 +1,14 @@
+YY1_known3	#	YY1_known3	YY1_3	NF-muE1_transfac_M00651
+0.001     #       p-value
+8642     #       bonferroni
+0	1	1	1	1	0	1	1	1	1 # derived from leading strand
+#        a       c       g       t	 P=>P/0.25
+C	0	3.4286	0.57143	0
+S	0	1.1429	2.8571	0
+G	0	0	4	0
+C	0	4	0	0
+C	0	4	0	0
+A	4	0	0	0
+T	0	0	0	4
+C	0	3.4286	0	0.57143
+T	0	0	0.57143	3.4286

@@ -1,0 +1,22 @@
+RXRA_known6	#	RXRA_known6	RXRA_3	NR1H2::RXRA_jaspar_MA0115.1
+0.001     #       p-value
+8642     #       bonferroni
+0	1	1	1	1	0	1	1	1	1 # derived from leading strand
+#        a       c       g       t	 P=>P/0.25
+M	2.72	0.8	0	0.48
+R	2.72	0.16	0.8	0.32
+R	3.2	0	0.8	0
+G	0	0	4	0
+G	0	0	3.84	0.16
+T	0	0	0	4
+C	0	4	0	0
+A	4	0	0	0
+A	3.84	0	0	0.16
+A	4	0	0	0
+G	0	0	4	0
+G	0	0	4	0
+T	0	0	0	4
+C	0	4	0	0
+A	4	0	0	0
+A	3.2	0.16	0.32	0.32
+S	0	2.4	0.96	0.64

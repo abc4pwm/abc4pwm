@@ -1,0 +1,13 @@
+MYC_known7	#	MYC_known7	USF_4	USF_transfac_M00217
+0.001     #       p-value
+8642     #       bonferroni
+0	1	1	1	1	0	1	1	1	1 # derived from leading strand
+#        a       c       g       t	 P=>P/0.25
+H	0.71851	1.7568	0.41183	1.1128
+C	0	4	0	0
+A	3.3638	0.63618	0	0
+C	0	3.6421	0	0.35785
+R	0.70378	0.35785	2.9384	0
+T	0	0	0	4
+G	0	0	4	0
+H	0.99676	1.5577	0.40561	1.0399

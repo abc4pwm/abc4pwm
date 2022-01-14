@@ -1,0 +1,13 @@
+MYOG_1	#	MYOG_1	myogenin_transfac_M00712
+0.001     #       p-value
+8642     #       bonferroni
+0	1	1	1	1	0	1	1	1	1 # derived from leading strand
+#        a       c       g       t	 P=>P/0.25
+R	1.7778	0	2.2222	0
+V	0.88889	0.88889	2.2222	0
+C	0	4	0	0
+A	4	0	0	0
+G	0	0	3.5556	0.44444
+S	0	1.7778	1.7778	0.44444
+T	0	0	0	4
+G	0	0	4	0

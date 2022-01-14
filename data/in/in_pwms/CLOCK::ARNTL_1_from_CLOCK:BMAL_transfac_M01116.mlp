@@ -1,0 +1,13 @@
+CLOCK::ARNTL_1	#	CLOCK::ARNTL_1	CLOCK:BMAL_transfac_M01116
+0.001     #       p-value
+8642     #       bonferroni
+0	1	1	1	1	0	1	1	1	1 # derived from leading strand
+#        a       c       g       t	 P=>P/0.25
+M	2	1.3333	0	0.66667
+C	0	4	0	0
+A	4	0	0	0
+C	0	4	0	0
+G	0	0	4	0
+T	0	0	0	4
+G	0	0	4	0
+R	1.3333	0.66667	2	0

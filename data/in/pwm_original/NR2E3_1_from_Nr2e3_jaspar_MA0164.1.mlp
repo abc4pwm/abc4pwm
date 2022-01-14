@@ -1,0 +1,12 @@
+NR2E3_1	#	NR2E3_1	Nr2e3_jaspar_MA0164.1
+0.001     #       p-value
+8642     #       bonferroni
+0	1	1	1	1	0	1	1	1	1 # derived from leading strand
+#        a       c       g       t	 P=>P/0.25
+H	0.69565	2.087	0.34783	0.86956
+A	4	0	0	0
+A	4	0	0	0
+G	0	0.17391	3.8261	0
+C	0	4	0	0
+T	0	0	0	4
+T	0	0	0	4

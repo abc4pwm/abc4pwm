@@ -1,0 +1,16 @@
+NFY_known1	#	NFY_known1	NFY_1	NF-Y_transfac_M00185
+0.001     #       p-value
+8642     #       bonferroni
+0	1	1	1	1	0	1	1	1	1 # derived from leading strand
+#        a       c       g       t	 P=>P/0.25
+K	0.4	0.6	0.8	2.2
+R	2.2	0.6	1.2	0
+R	2.2	0.2	1.4	0.2
+C	0	4	0	0
+C	0	4	0	0
+A	4	0	0	0
+A	3.4	0.4	0.2	0
+T	0	0	0	4
+S	0.6	2	1.2	0.2
+R	2.2	0	1.2	0.6
+B	0.2	1.6	1.4	0.8

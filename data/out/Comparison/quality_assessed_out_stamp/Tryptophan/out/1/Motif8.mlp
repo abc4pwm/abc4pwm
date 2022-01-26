@@ -1,0 +1,16 @@
+	IRF_known16	#	IRF_known16	IRF5_3	IRF5_jolma_full_M150
+dummy 	 # p-value #File converted from TRANSFAC
+dummy 	 # benferroni
+dummy 0 1 0 0 0 1 1 1 1 	 #derived from leading strand
+#	A	C	G	T
+H	1.776	0.952	0.319	0.954
+A	3.215	0.309	0.276	0.201
+C	0.561	2.669	0.262	0.508
+C	0.122	3.806	0.002	0.070
+G	0.019	0.024	3.957	0.000
+A	3.991	0.000	0.009	0.000
+A	3.563	0.000	0.014	0.423
+A	3.940	0.060	0.000	0.000
+C	0.076	3.710	0.187	0.026
+Y	0.213	1.951	0.090	1.746
+M	2.130	0.863	0.577	0.429

@@ -1,0 +1,14 @@
+	ZIC1_1	#	ZIC1_1	Zic1_transfac_M00448
+dummy 	 # p-value #File converted from TRANSFAC
+dummy 	 # benferroni
+dummy 0 1 0 0 0 1 1 1 1 	 #derived from leading strand
+#	A	C	G	T
+B	0.133	0.800	1.333	1.733
+R	0.800	0.400	2.667	0.133
+G	0.267	0.267	3.200	0.267
+K	0.267	0.533	2.533	0.667
+K	0.267	0.267	0.800	2.667
+G	0.533	0.667	2.267	0.533
+G	0.400	0.400	3.200	0.000
+T	0.133	0.667	0.533	2.667
+C	0.667	2.667	0.400	0.267

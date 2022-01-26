@@ -1,0 +1,11 @@
+	MZF1_3	#	MZF1_3	MZF1:1-4_jaspar_MA0056.1
+dummy 	 # p-value #File converted from TRANSFAC
+dummy 	 # benferroni
+dummy 0 1 0 0 0 1 1 1 1 	 #derived from leading strand
+#	A	C	G	T
+B	0.600	1.000	0.800	1.600
+G	0.000	0.000	3.800	0.200
+G	0.400	0.000	3.600	0.000
+G	0.000	0.000	3.800	0.200
+G	0.000	0.000	4.000	0.000
+A	3.600	0.000	0.400	0.000

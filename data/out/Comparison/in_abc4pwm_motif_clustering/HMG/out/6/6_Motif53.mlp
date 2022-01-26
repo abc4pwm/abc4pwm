@@ -1,0 +1,12 @@
+	SRY_1	#	SRY_1	SRY_transfac_M00148
+dummy 	 # p-value #File converted from TRANSFAC
+dummy 	 # benferroni
+dummy 0 1 0 0 0 1 1 1 1 	 #derived from leading strand
+#	A	C	G	T
+W	3.304	0.000	0.000	0.696
+A	3.826	0.000	0.000	0.174
+W	2.783	0.000	0.174	1.044
+S	0.000	2.957	1.044	0.000
+W	2.435	0.000	0.174	1.391
+M	2.261	0.870	0.348	0.522
+M	2.087	1.391	0.348	0.174

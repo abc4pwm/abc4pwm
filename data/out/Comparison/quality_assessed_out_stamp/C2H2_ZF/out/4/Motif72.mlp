@@ -1,0 +1,14 @@
+	YY1_known3	#	YY1_known3	YY1_3	NF-muE1_transfac_M00651
+dummy 	 # p-value #File converted from TRANSFAC
+dummy 	 # benferroni
+dummy 0 1 0 0 0 1 1 1 1 	 #derived from leading strand
+#	A	C	G	T
+C	0.000	3.429	0.571	0.000
+S	0.000	1.143	2.857	0.000
+G	0.000	0.000	4.000	0.000
+C	0.000	4.000	0.000	0.000
+C	0.000	4.000	0.000	0.000
+A	4.000	0.000	0.000	0.000
+T	0.000	0.000	0.000	4.000
+C	0.000	3.429	0.000	0.571
+T	0.000	0.000	0.571	3.429

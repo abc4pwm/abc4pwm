@@ -1,0 +1,15 @@
+	ETS_known7	#	ETS_known7	ELK1_3	ELK1_jaspar_MA0028.1
+dummy 	 # p-value #File converted from TRANSFAC
+dummy 	 # benferroni
+dummy 0 1 0 0 0 1 1 1 1 	 #derived from leading strand
+#	A	C	G	T
+V	1.000	1.000	1.429	0.571
+N	1.429	0.857	0.857	0.857
+D	1.286	0.571	1.429	0.714
+M	0.714	2.714	0.143	0.429
+C	0.286	3.429	0.143	0.143
+G	0.000	0.000	3.429	0.571
+G	0.143	0.000	3.857	0.000
+A	3.857	0.000	0.143	0.000
+M	3.000	0.714	0.000	0.286
+R	1.857	0.000	2.000	0.143

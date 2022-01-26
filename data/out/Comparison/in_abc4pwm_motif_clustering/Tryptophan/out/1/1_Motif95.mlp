@@ -1,0 +1,12 @@
+	SPI1_known2	#	SPI1_known2	SPI1_2	SPI1_jaspar_MA0080.2
+dummy 	 # p-value #File converted from TRANSFAC
+dummy 	 # benferroni
+dummy 0 1 0 0 0 1 1 1 1 	 #derived from leading strand
+#	A	C	G	T
+A	3.143	0.286	0.571	0.000
+G	0.381	0.000	3.524	0.095
+G	0.381	0.000	3.619	0.000
+A	4.000	0.000	0.000	0.000
+A	3.905	0.000	0.095	0.000
+G	0.476	0.286	3.143	0.095
+T	0.286	0.476	0.190	3.048

@@ -1,0 +1,15 @@
+	SOX5_1	#	SOX5_1	SOX5_transfac_M00042
+dummy 	 # p-value #File converted from TRANSFAC
+dummy 	 # benferroni
+dummy 0 1 0 0 0 1 1 1 1 	 #derived from leading strand
+#	A	C	G	T
+H	0.727	1.091	0.545	1.636
+H	1.273	0.727	0.545	1.454
+A	3.652	0.000	0.174	0.174
+A	3.826	0.000	0.174	0.000
+C	0.000	3.826	0.000	0.174
+A	4.000	0.000	0.000	0.000
+A	3.826	0.174	0.000	0.000
+T	0.000	0.000	0.000	4.000
+D	1.739	0.522	1.044	0.696
+N	0.870	1.217	1.044	0.870

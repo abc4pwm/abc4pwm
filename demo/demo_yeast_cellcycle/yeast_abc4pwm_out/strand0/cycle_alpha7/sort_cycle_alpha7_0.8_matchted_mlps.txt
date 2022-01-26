@@ -1,0 +1,62 @@
+SGD-SWI4_2_psam.mlp	0.9060529338366318	yeast_GE_7.txt_mlpout_L12_6.mlp
+SGD-MCM1_2_psam.mlp	0.870009356735971	yeast_GE_7.txt_mlpout_L6_5.mlp
+SGD-MCM1_1_psam.mlp	0.8356681347367713	yeast_GE_7.txt_mlpout_L6_5.mlp
+SGD-MCM1_1_psam.mlp	0.8291754021357449	yeast_GE_7.txt_mlpout_L7_6.mlp
+SGD-NDD1_psam.mlp	0.8198502623966897	yeast_GE_7.txt_mlpout_L6_5.mlp
+SGD-ACE2_2_psam.mlp	0.8144889867221661	yeast_GE_7.txt_mlpout_L13_6.mlp
+SGD-ACE2_1_psam.mlp	0.8060394187105663	yeast_GE_7.txt_mlpout_L11_1.mlp
+SGD-SWI5_psam.mlp	0.8031983789542192	yeast_GE_7.txt_mlpout_L9_5.mlp
+Matched File name	Similairty Score	yeast_GE_7.txt_mlpout_L9_6.mlp
+Matched File name	Similairty Score	yeast_GE_7.txt_mlpout_L9_5.mlp
+Matched File name	Similairty Score	yeast_GE_7.txt_mlpout_L9_4.mlp
+Matched File name	Similairty Score	yeast_GE_7.txt_mlpout_L9_3.mlp
+Matched File name	Similairty Score	yeast_GE_7.txt_mlpout_L9_2.mlp
+Matched File name	Similairty Score	yeast_GE_7.txt_mlpout_L9_1.mlp
+Matched File name	Similairty Score	yeast_GE_7.txt_mlpout_L8_6.mlp
+Matched File name	Similairty Score	yeast_GE_7.txt_mlpout_L8_5.mlp
+Matched File name	Similairty Score	yeast_GE_7.txt_mlpout_L8_4.mlp
+Matched File name	Similairty Score	yeast_GE_7.txt_mlpout_L8_3.mlp
+Matched File name	Similairty Score	yeast_GE_7.txt_mlpout_L8_2.mlp
+Matched File name	Similairty Score	yeast_GE_7.txt_mlpout_L8_1.mlp
+Matched File name	Similairty Score	yeast_GE_7.txt_mlpout_L7_6.mlp
+Matched File name	Similairty Score	yeast_GE_7.txt_mlpout_L7_5.mlp
+Matched File name	Similairty Score	yeast_GE_7.txt_mlpout_L7_4.mlp
+Matched File name	Similairty Score	yeast_GE_7.txt_mlpout_L7_3.mlp
+Matched File name	Similairty Score	yeast_GE_7.txt_mlpout_L7_2.mlp
+Matched File name	Similairty Score	yeast_GE_7.txt_mlpout_L7_1.mlp
+Matched File name	Similairty Score	yeast_GE_7.txt_mlpout_L6_6.mlp
+Matched File name	Similairty Score	yeast_GE_7.txt_mlpout_L6_5.mlp
+Matched File name	Similairty Score	yeast_GE_7.txt_mlpout_L6_4.mlp
+Matched File name	Similairty Score	yeast_GE_7.txt_mlpout_L6_3.mlp
+Matched File name	Similairty Score	yeast_GE_7.txt_mlpout_L6_2.mlp
+Matched File name	Similairty Score	yeast_GE_7.txt_mlpout_L6_1.mlp
+Matched File name	Similairty Score	yeast_GE_7.txt_mlpout_L14_6.mlp
+Matched File name	Similairty Score	yeast_GE_7.txt_mlpout_L14_5.mlp
+Matched File name	Similairty Score	yeast_GE_7.txt_mlpout_L14_4.mlp
+Matched File name	Similairty Score	yeast_GE_7.txt_mlpout_L14_3.mlp
+Matched File name	Similairty Score	yeast_GE_7.txt_mlpout_L14_2.mlp
+Matched File name	Similairty Score	yeast_GE_7.txt_mlpout_L14_1.mlp
+Matched File name	Similairty Score	yeast_GE_7.txt_mlpout_L13_6.mlp
+Matched File name	Similairty Score	yeast_GE_7.txt_mlpout_L13_5.mlp
+Matched File name	Similairty Score	yeast_GE_7.txt_mlpout_L13_4.mlp
+Matched File name	Similairty Score	yeast_GE_7.txt_mlpout_L13_3.mlp
+Matched File name	Similairty Score	yeast_GE_7.txt_mlpout_L13_2.mlp
+Matched File name	Similairty Score	yeast_GE_7.txt_mlpout_L13_1.mlp
+Matched File name	Similairty Score	yeast_GE_7.txt_mlpout_L12_6.mlp
+Matched File name	Similairty Score	yeast_GE_7.txt_mlpout_L12_5.mlp
+Matched File name	Similairty Score	yeast_GE_7.txt_mlpout_L12_4.mlp
+Matched File name	Similairty Score	yeast_GE_7.txt_mlpout_L12_3.mlp
+Matched File name	Similairty Score	yeast_GE_7.txt_mlpout_L12_2.mlp
+Matched File name	Similairty Score	yeast_GE_7.txt_mlpout_L12_1.mlp
+Matched File name	Similairty Score	yeast_GE_7.txt_mlpout_L11_6.mlp
+Matched File name	Similairty Score	yeast_GE_7.txt_mlpout_L11_5.mlp
+Matched File name	Similairty Score	yeast_GE_7.txt_mlpout_L11_4.mlp
+Matched File name	Similairty Score	yeast_GE_7.txt_mlpout_L11_3.mlp
+Matched File name	Similairty Score	yeast_GE_7.txt_mlpout_L11_2.mlp
+Matched File name	Similairty Score	yeast_GE_7.txt_mlpout_L11_1.mlp
+Matched File name	Similairty Score	yeast_GE_7.txt_mlpout_L10_6.mlp
+Matched File name	Similairty Score	yeast_GE_7.txt_mlpout_L10_5.mlp
+Matched File name	Similairty Score	yeast_GE_7.txt_mlpout_L10_4.mlp
+Matched File name	Similairty Score	yeast_GE_7.txt_mlpout_L10_3.mlp
+Matched File name	Similairty Score	yeast_GE_7.txt_mlpout_L10_2.mlp
+Matched File name	Similairty Score	yeast_GE_7.txt_mlpout_L10_1.mlp

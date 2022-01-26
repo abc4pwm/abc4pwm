@@ -1,0 +1,21 @@
+ETS_known1	#	ETS_known1	ELK1_1	Elk-1_transfac_M00007
+0.001     #       p-value
+8642     #       bonferroni
+0	1	1	1	1	0	1	1	1	1 # derived from leading strand
+#        a       c       g       t	 P=>P/0.25
+N	1	1	1	1
+D	2	0	1	1
+V	2	1	1	0
+R	3	0	1	0
+S	0	3	1	0
+M	2	2	0	0
+G	0	0	4	0
+G	0	0	4	0
+A	4	0	0	0
+W	3	0	0	1
+G	0	0	4	0
+Y	0	1	0	3
+N	1	1	1	1
+M	1	3	0	0
+V	1	1	2	0
+H	1	1	0	2

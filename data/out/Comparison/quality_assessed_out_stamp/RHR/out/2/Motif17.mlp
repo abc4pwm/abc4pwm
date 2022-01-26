@@ -1,0 +1,15 @@
+	NFKB_known1	#	NFKB_known1	NFKB1_1	NF-kappaB-(p50)_transfac_M00051
+dummy 	 # p-value #File converted from TRANSFAC
+dummy 	 # benferroni
+dummy 0 1 0 0 0 1 1 1 1 	 #derived from leading strand
+#	A	C	G	T
+G	0.000	0.000	4.000	0.000
+G	0.000	0.000	4.000	0.000
+G	0.000	0.000	4.000	0.000
+G	0.444	0.000	3.556	0.000
+A	3.556	0.222	0.000	0.222
+K	0.000	0.000	0.667	3.333
+Y	0.000	1.556	0.222	2.222
+C	0.000	3.556	0.000	0.444
+C	0.000	4.000	0.000	0.000
+C	0.000	3.778	0.222	0.000

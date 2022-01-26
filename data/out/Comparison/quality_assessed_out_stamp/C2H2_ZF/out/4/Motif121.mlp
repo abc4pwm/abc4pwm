@@ -1,0 +1,16 @@
+	YY1_known7	#	YY1_known7	YY1_7	YY1_jolma_full_M33
+dummy 	 # p-value #File converted from TRANSFAC
+dummy 	 # benferroni
+dummy 0 1 0 0 0 1 1 1 1 	 #derived from leading strand
+#	A	C	G	T
+N	1.066	0.738	1.139	1.057
+V	0.889	1.913	0.704	0.494
+S	0.538	2.493	0.764	0.205
+R	0.835	0.104	2.611	0.450
+C	0.119	3.807	0.018	0.055
+C	0.014	3.957	0.000	0.029
+A	3.906	0.047	0.024	0.024
+T	0.047	0.065	0.019	3.869
+Y	0.502	0.667	0.619	2.212
+D	1.824	0.338	0.960	0.878
+H	0.936	1.168	0.372	1.525

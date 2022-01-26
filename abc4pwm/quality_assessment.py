@@ -1,5 +1,5 @@
 
-import os
+import os, sys
 from abc4pwm.energy_to_p import read_energy_matrix
 from abc4pwm.convert_count_to_pwm import motif_weight2p
 from abc4pwm.similarity_score import compute_similarity_score4alignment
@@ -70,10 +70,10 @@ class ClusterQuality():
 
         if load_new_assesment:
             print("Preparing summary of clusters...")
-            self.cluster_quality(self, input_path_to_folder_of_DBDs, output_folder_for_text_report, path_for_quality_assessment_file)
+            quality_df = self.cluster_quality(self, input_path_to_folder_of_DBDs, output_folder_for_text_report, path_for_quality_assessment_file)
         else:
             if os.path.exists(os.path.join(path_for_quality_assessment_file,'quality_df.json')):
-                pd.read_json(os.path.join(output_path_for_quality_assessment_file,'quality_df.json'))
+                quality_df = pd.read_json(os.path.join(output_path_for_quality_assessment_file,'quality_df.json'))
 
 
             else:
@@ -128,7 +128,7 @@ class ClusterQuality():
             total_number_of_clusters = 0
             total_bad_pwms = 0
             cluster_size_list = []
-
+            similarityMatrices = []
 
             dbds = sorted(os.listdir(input_folder))
             for ind, i in enumerate(dbds):
@@ -136,8 +136,11 @@ class ClusterQuality():
                     dbds.pop(ind)
 
             for dbd in dbds:
-
+                dst_for_bad_pwms_n = os.path.join(dst_for_bad_pwms,dbd,'')
+                if not os.path.exists(dst_for_bad_pwms_n):
+                    os.makedirs(dst_for_bad_pwms_n, exist_ok=True)
                 if not os.path.exists(os.path.join(input_folder , dbd,'out/')):
+                    # pwms_full = glob(os.path.join(input_folder,dbd,"/*.mlp"))
                     pwms_full = os.listdir(os.path.join(input_folder,dbd))
                     total_bad_pwms += len(pwms_full)
                     for x in pwms_full:
@@ -148,7 +151,7 @@ class ClusterQuality():
                     for i in os.listdir(os.path.join(input_folder , dbd,'out/')):
                         unknown_pwms = glob(str(os.path.join(input_folder , dbd,'out/'))+'*/*.mlp')
                         for pwm in unknown_pwms:
-                            shutil.move(pwm,dst_for_bad_pwms)
+                            shutil.move(pwm,dst_for_bad_pwms_n)
                     shutil.rmtree(os.path.join(input_folder , dbd))
                     continue
                 cluster_path = os.path.join(input_folder, dbd, 'out/')
@@ -192,7 +195,6 @@ class ClusterQuality():
                     uper_triangle_similarity_matrix = similarityMatrix[np.triu_indices(similarityMatrix.shape[0], k=1)]
                     uper_triangle_similarity_matrix_indeces = np.triu_indices(similarityMatrix.shape[0], k=1)
 
-
                     minimum_similarity_pwm_index = np.unravel_index(np.argmin(sum(similarityMatrix), axis=None), sum(similarityMatrix).shape)
 
 
@@ -227,7 +229,8 @@ class ClusterQuality():
                                     f.writelines("%\t" + str([i[0] for i in bad_pwms_indexes]) + "\n")
                                     total_bad_pwms += len(bad_pwms)
                                     for x in bad_pwms:
-                                        shutil.move(x, dst_for_bad_pwms)
+                                        # pwms.remove(x)
+                                        shutil.move(x, dst_for_bad_pwms_n)
                                 else:
                                     f.writelines("\n")
                         else:
@@ -277,21 +280,51 @@ class ClusterQuality():
                          "Clusters size summary : " + str(Counter(cluster_size_list)))
 
             quality_df = pd.DataFrame(data=quality_df_data, columns=cols)
+            leaf_folder = Path(out_dir)
+            data_path = leaf_folder.parent
+            if not os.path.exists(path_for_quality_assessment_file):
+                os.makedirs(path_for_quality_assessment_file, exist_ok=True)
             quality_df.to_json(os.path.join(path_for_quality_assessment_file,'quality_df.json'))
+            # print(quality_df['dbd'])
             return quality_df
 
 
 
 if __name__ == "__main__":
 
-    clusterQualityobj = ClusterQuality(input_path_to_folder_of_DBDs= '../data/out/clustering_out/',
-                                       out_path_for_qa_clusters='../data/out/quality_assessed_out',
-                                       output_folder_for_text_report='../data/out/reports_in_text/',
-                                       mean_threshold=0.80,
-                                       occurrence_threshold=0.05,
-                                       z_score_threshold=-1.2,
-                                       top_occurrence=0.05,
-                                       load_new_assesment=1)
+    # if len(sys.argv) < 2:
+    #     "Usage python quality_assessment.py <path_to_folder_of_DBDs>"
+    #     exit()
+    # clusterQualityobj = ClusterQuality(input_path_to_folder_of_DBDs='../data/out/clustering_out/',
+    #                                    out_path_for_qa_clusters='../data/out/quality_assessed_out',
+    #                                    output_folder_for_text_report='../data/out/reports_in_text/',
+    #                                    mean_threshold=0.80,
+    #                                    occurrence_threshold=0.05,
+    #                                    z_score_threshold=-1.2,
+    #                                    top_occurrence=0.05,
+    #                                    load_new_assesment=1)
 
+    # abc4pwm_new qualty assement for comparison
+    clusterQualityobj = ClusterQuality(
+        input_path_to_folder_of_DBDs='/Users/omerali/Desktop/PhD/Publication/Next/Clustering/Comparison/in_abc4pwm_motif_clustering/',
+        out_path_for_qa_clusters='/Users/omerali/Desktop/PhD/Publication/Next/Clustering/Comparison/quality_assessed_out_abc4pwm_new',
+        output_folder_for_text_report='/Users/omerali/Desktop/PhD/Publication/Next/Clustering/Comparison/reports_in_text/',
+        mean_threshold=0.80,
+        occurrence_threshold=0.05,
+        z_score_threshold=-1.2,
+        top_occurrence=0.05,
+        load_new_assesment=1)
+
+    # stamp qualty assement for comparison
+
+    # clusterQualityobj = ClusterQuality(
+    #     input_path_to_folder_of_DBDs='/Users/omerali/Desktop/PhD/Publication/Next/Clustering/Comparison/stamp_in_abc4pwm_motif/',
+    #     out_path_for_qa_clusters='/Users/omerali/Desktop/PhD/Publication/Next/Clustering/Comparison/quality_assessed_out_stamp',
+    #     output_folder_for_text_report='/Users/omerali/Desktop/PhD/Publication/Next/Clustering/Comparison/reports_in_text/',
+    #     mean_threshold=0.65,
+    #     occurrence_threshold=0.05,
+    #     z_score_threshold=-1.2,
+    #     top_occurrence=0.05,
+    #     load_new_assesment=1)
 
 

@@ -1,0 +1,12 @@
+	NFATC2_1	#	NFATC2_1	NFATC2_jaspar_MA0152.1
+dummy 	 # p-value #File converted from TRANSFAC
+dummy 	 # benferroni
+dummy 0 1 0 0 0 1 1 1 1 	 #derived from leading strand
+#	A	C	G	T
+T	0.462	0.154	0.308	3.077
+T	0.154	0.308	0.308	3.231
+T	0.154	0.154	0.000	3.692
+T	0.000	0.000	0.000	4.000
+C	0.154	3.846	0.000	0.000
+C	0.000	4.000	0.000	0.000
+A	2.769	0.462	0.154	0.615

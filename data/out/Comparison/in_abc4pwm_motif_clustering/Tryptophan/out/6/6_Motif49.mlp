@@ -1,0 +1,15 @@
+	ERG_1	#	ERG_1	ERG_jolma_DBD_M94
+dummy 	 # p-value #File converted from TRANSFAC
+dummy 	 # benferroni
+dummy 0 1 0 0 0 1 1 1 1 	 #derived from leading strand
+#	A	C	G	T
+A	2.763	0.162	0.513	0.562
+C	0.453	3.200	0.279	0.068
+C	0.486	3.493	0.017	0.005
+G	0.001	0.000	3.999	0.000
+G	0.000	0.001	3.974	0.025
+A	3.977	0.017	0.000	0.006
+W	3.076	0.080	0.005	0.839
+R	1.696	0.085	2.195	0.024
+Y	0.082	0.955	0.214	2.749
+N	0.881	0.964	1.461	0.694

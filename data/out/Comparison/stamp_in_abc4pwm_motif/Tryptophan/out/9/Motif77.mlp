@@ -1,0 +1,16 @@
+	SPDEF_2	#	SPDEF_2	SPDEF_jolma_DBD_M117
+dummy 	 # p-value #File converted from TRANSFAC
+dummy 	 # benferroni
+dummy 0 1 0 0 0 1 1 1 1 	 #derived from leading strand
+#	A	C	G	T
+A	3.266	0.066	0.066	0.603
+M	1.562	2.073	0.270	0.095
+C	0.015	3.816	0.169	0.000
+C	0.162	3.838	0.000	0.000
+G	0.000	0.040	3.960	0.000
+G	0.079	0.000	3.921	0.000
+A	3.984	0.000	0.008	0.008
+T	0.511	0.139	0.046	3.304
+R	0.860	0.218	2.710	0.212
+T	0.000	0.560	0.000	3.440
+D	1.896	0.201	0.715	1.189

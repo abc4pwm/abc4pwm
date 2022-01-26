@@ -1,0 +1,11 @@
+	SOX17_1	#	SOX17_1	SOX17_transfac_M01016
+dummy 	 # p-value #File converted from TRANSFAC
+dummy 	 # benferroni
+dummy 0 1 0 0 0 1 1 1 1 	 #derived from leading strand
+#	A	C	G	T
+M	2.452	1.032	0.387	0.129
+A	4.000	0.000	0.000	0.000
+C	0.000	4.000	0.000	0.000
+A	4.000	0.000	0.000	0.000
+A	4.000	0.000	0.000	0.000
+T	0.000	0.000	0.000	4.000

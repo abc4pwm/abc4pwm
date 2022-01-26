@@ -1,0 +1,16 @@
+	TFAP2_known12	#	TFAP2_known12	TFAP2A_7	TFAP2A_jolma_DBD_M292
+dummy 	 # p-value #File converted from TRANSFAC
+dummy 	 # benferroni
+dummy 0 1 0 0 0 1 1 1 1 	 #derived from leading strand
+#	A	C	G	T
+H	1.286	1.461	0.209	1.044
+S	0.100	0.705	3.161	0.034
+C	0.000	3.898	0.102	0.000
+C	0.000	3.792	0.008	0.201
+Y	0.025	1.240	0.496	2.239
+S	0.433	2.021	1.216	0.330
+M	2.743	0.750	0.466	0.042
+G	0.618	0.137	3.245	0.000
+G	0.000	0.023	3.977	0.000
+C	0.023	3.527	0.434	0.016
+D	1.405	0.601	0.976	1.017

@@ -1,0 +1,15 @@
+ZBTB33_known1	#	ZBTB33_known1	ZBTB33_1	KAISO_transfac_M01119
+0.001     #       p-value
+8642     #       bonferroni
+0	1	1	1	1	0	1	1	1	1 # derived from leading strand
+#        a       c       g       t	 P=>P/0.25
+H	1.125	1.125	0.25	1.5
+T	0	0.125	0.375	3.5
+C	0	4	0	0
+C	0	4	0	0
+T	0	0	0	4
+G	0	0	4	0
+C	0	4	0	0
+B	0.25	0.75	1.25	1.75
+A	3.75	0	0.125	0.125
+D	1.375	0.25	1.25	1.125

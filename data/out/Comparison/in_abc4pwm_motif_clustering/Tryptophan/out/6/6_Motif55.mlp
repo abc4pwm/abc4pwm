@@ -1,0 +1,15 @@
+	FEV_2	#	FEV_2	FEV_jolma_DBD_M111
+dummy 	 # p-value #File converted from TRANSFAC
+dummy 	 # benferroni
+dummy 0 1 0 0 0 1 1 1 1 	 #derived from leading strand
+#	A	C	G	T
+A	2.634	0.209	0.565	0.592
+C	0.497	3.093	0.306	0.104
+C	0.310	3.663	0.026	0.002
+G	0.007	0.000	3.992	0.001
+G	0.001	0.001	3.993	0.005
+A	3.982	0.006	0.002	0.010
+W	3.019	0.064	0.003	0.915
+R	1.204	0.133	2.630	0.033
+Y	0.175	0.718	0.246	2.860
+N	1.178	0.749	1.246	0.827

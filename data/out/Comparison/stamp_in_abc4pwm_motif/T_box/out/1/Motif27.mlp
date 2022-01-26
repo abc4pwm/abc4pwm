@@ -1,0 +1,15 @@
+	TBR1_1	#	TBR1_1	TBR1_jolma_DBD_M260
+dummy 	 # p-value #File converted from TRANSFAC
+dummy 	 # benferroni
+dummy 0 1 0 0 0 1 1 1 1 	 #derived from leading strand
+#	A	C	G	T
+A	3.483	0.036	0.336	0.145
+G	0.560	0.265	2.810	0.365
+G	0.008	0.029	3.939	0.024
+T	0.004	0.193	0.010	3.793
+G	0.000	0.001	3.999	0.000
+T	0.228	0.454	0.015	3.303
+G	0.104	0.226	3.051	0.619
+A	3.901	0.010	0.066	0.023
+A	2.999	0.298	0.172	0.530
+W	2.145	0.651	0.526	0.678

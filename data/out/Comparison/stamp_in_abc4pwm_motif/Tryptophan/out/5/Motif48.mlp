@@ -1,0 +1,15 @@
+	ETV4_2	#	ETV4_2	ETV4_jolma_DBD_M105
+dummy 	 # p-value #File converted from TRANSFAC
+dummy 	 # benferroni
+dummy 0 1 0 0 0 1 1 1 1 	 #derived from leading strand
+#	A	C	G	T
+R	2.272	0.296	0.773	0.660
+C	0.520	2.840	0.523	0.118
+C	0.367	3.600	0.026	0.008
+G	0.000	0.020	3.981	0.000
+G	0.000	0.000	3.963	0.037
+A	3.974	0.000	0.015	0.011
+W	2.686	0.088	0.020	1.206
+R	1.090	0.304	2.522	0.084
+Y	0.265	0.883	0.380	2.471
+D	1.623	0.577	1.052	0.747

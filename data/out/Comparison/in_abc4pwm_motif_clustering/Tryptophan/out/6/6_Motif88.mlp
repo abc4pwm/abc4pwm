@@ -1,0 +1,15 @@
+	ELK3_1	#	ELK3_1	ELK3_jolma_DBD_M91
+dummy 	 # p-value #File converted from TRANSFAC
+dummy 	 # benferroni
+dummy 0 1 0 0 0 1 1 1 1 	 #derived from leading strand
+#	A	C	G	T
+R	2.418	0.318	0.771	0.493
+C	0.383	3.189	0.318	0.110
+C	0.202	3.761	0.024	0.013
+G	0.002	0.000	3.998	0.000
+G	0.003	0.007	3.855	0.134
+A	3.980	0.012	0.005	0.002
+A	3.398	0.065	0.000	0.536
+G	0.656	0.323	2.945	0.076
+T	0.198	0.640	0.221	2.941
+D	1.391	0.569	1.161	0.880

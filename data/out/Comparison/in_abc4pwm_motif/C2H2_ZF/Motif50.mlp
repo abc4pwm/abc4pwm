@@ -1,0 +1,15 @@
+	HINFP_1	#	HINFP_1	MIZF_jaspar_MA0131.1
+dummy 	 # p-value #File converted from TRANSFAC
+dummy 	 # benferroni
+dummy 0 1 0 0 0 1 1 1 1 	 #derived from leading strand
+#	A	C	G	T
+B	0.400	1.200	1.000	1.400
+W	2.600	0.200	0.000	1.200
+A	4.000	0.000	0.000	0.000
+C	0.400	3.400	0.200	0.000
+G	0.000	0.000	3.800	0.200
+T	0.000	0.200	0.000	3.800
+C	0.000	3.800	0.000	0.200
+C	0.000	3.600	0.400	0.000
+G	0.000	0.000	3.800	0.200
+Y	0.400	2.600	0.200	0.800

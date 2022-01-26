@@ -1,0 +1,14 @@
+	TFAP2_known2	#	TFAP2_known2	TFAP2A_1	AP-2alpha_transfac_M00469
+dummy 	 # p-value #File converted from TRANSFAC
+dummy 	 # benferroni
+dummy 0 1 0 0 0 1 1 1 1 	 #derived from leading strand
+#	A	C	G	T
+G	0.000	0.000	4.000	0.000
+C	0.000	4.000	0.000	0.000
+C	0.000	4.000	0.000	0.000
+B	0.476	1.535	0.995	0.995
+B	0.411	1.232	1.319	1.038
+V	1.189	0.951	1.449	0.411
+R	1.146	0.649	1.968	0.238
+G	0.411	0.346	2.962	0.281
+S	0.195	1.687	1.708	0.411

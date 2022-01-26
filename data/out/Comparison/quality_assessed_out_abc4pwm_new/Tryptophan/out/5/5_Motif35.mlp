@@ -1,0 +1,12 @@
+	ETV4_1	#	ETV4_1	PEA3_transfac_M00655
+dummy 	 # p-value #File converted from TRANSFAC
+dummy 	 # benferroni
+dummy 0 1 0 0 0 1 1 1 1 	 #derived from leading strand
+#	A	C	G	T
+A	3.111	0.000	0.444	0.444
+C	0.000	3.600	0.000	0.400
+W	2.000	0.000	0.000	2.000
+T	0.000	0.000	0.000	4.000
+C	0.000	4.000	0.000	0.000
+C	0.000	4.000	0.000	0.000
+K	0.000	0.000	1.600	2.400

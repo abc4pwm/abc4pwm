@@ -1,0 +1,12 @@
+	OVOL2_1	#	OVOL2_1	MOVO-B_transfac_M01104
+dummy 	 # p-value #File converted from TRANSFAC
+dummy 	 # benferroni
+dummy 0 1 0 0 0 1 1 1 1 	 #derived from leading strand
+#	A	C	G	T
+G	0.429	0.429	2.571	0.571
+B	0.643	1.357	0.714	1.286
+G	0.143	0.071	3.786	0.000
+K	0.000	0.000	2.714	1.286
+G	0.000	0.071	3.857	0.071
+R	1.000	0.000	3.000	0.000
+G	0.000	0.143	3.714	0.143

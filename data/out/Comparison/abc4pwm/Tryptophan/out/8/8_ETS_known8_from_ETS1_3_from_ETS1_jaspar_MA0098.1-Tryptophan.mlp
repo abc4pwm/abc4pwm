@@ -1,0 +1,11 @@
+ETS_known8	#	ETS_known8	ETS1_3	ETS1_jaspar_MA0098.1
+0.001     #       p-value
+8642     #       bonferroni
+0	1	1	1	1	0	1	1	1	1 # derived from leading strand
+#        a       c       g       t	 P=>P/0.25
+Y	0.4	1.6	0.4	1.6
+W	1.7	0	0	2.3
+T	0	0.1	0	3.9
+C	0	3.9	0.1	0
+C	0	3.9	0	0.1
+K	0.5	0.3	1.7	1.5

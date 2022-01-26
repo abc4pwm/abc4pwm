@@ -1,0 +1,15 @@
+	ETS_known3	#	ETS_known3	ETS1_1	c-Ets-1(p54)_transfac_M00032
+dummy 	 # p-value #File converted from TRANSFAC
+dummy 	 # benferroni
+dummy 0 1 0 0 0 1 1 1 1 	 #derived from leading strand
+#	A	C	G	T
+D	1.867	0.533	0.800	0.800
+C	0.267	3.733	0.000	0.000
+M	1.333	2.400	0.000	0.267
+G	0.000	0.000	4.000	0.000
+G	0.000	0.000	4.000	0.000
+A	4.000	0.000	0.000	0.000
+W	2.133	0.533	0.000	1.333
+R	1.067	0.267	2.667	0.000
+Y	0.267	1.600	0.000	2.133
+V	1.333	1.067	1.067	0.533

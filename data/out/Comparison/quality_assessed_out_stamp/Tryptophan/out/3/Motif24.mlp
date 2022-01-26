@@ -1,0 +1,14 @@
+	ELK4_1	#	ELK4_1	ELK4_jaspar_MA0076.1
+dummy 	 # p-value #File converted from TRANSFAC
+dummy 	 # benferroni
+dummy 0 1 0 0 0 1 1 1 1 	 #derived from leading strand
+#	A	C	G	T
+A	3.200	0.200	0.400	0.200
+C	0.000	4.000	0.000	0.000
+C	0.000	4.000	0.000	0.000
+G	0.000	0.000	4.000	0.000
+G	0.000	0.000	4.000	0.000
+A	4.000	0.000	0.000	0.000
+W	3.200	0.000	0.000	0.800
+R	0.800	0.200	3.000	0.000
+Y	0.200	1.200	0.000	2.600

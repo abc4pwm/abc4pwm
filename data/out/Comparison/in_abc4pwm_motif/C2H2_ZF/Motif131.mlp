@@ -1,0 +1,11 @@
+	YY1_known6	#	YY1_known6	YY1_6	YY1_jaspar_MA0095.1
+dummy 	 # p-value #File converted from TRANSFAC
+dummy 	 # benferroni
+dummy 0 1 0 0 0 1 1 1 1 	 #derived from leading strand
+#	A	C	G	T
+D	1.412	0.235	1.647	0.706
+C	0.000	3.765	0.000	0.235
+C	0.000	4.000	0.000	0.000
+A	4.000	0.000	0.000	0.000
+T	0.000	0.000	0.000	4.000
+N	0.706	1.882	0.706	0.706

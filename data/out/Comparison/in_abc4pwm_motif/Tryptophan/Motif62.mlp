@@ -1,0 +1,16 @@
+	ETS_known9	#	ETS_known9	GABPA_1	GABPA_jaspar_MA0062.2
+dummy 	 # p-value #File converted from TRANSFAC
+dummy 	 # benferroni
+dummy 0 1 0 0 0 1 1 1 1 	 #derived from leading strand
+#	A	C	G	T
+S	0.129	3.106	0.760	0.004
+C	0.283	3.697	0.016	0.004
+G	0.000	0.000	3.996	0.004
+G	0.000	0.000	4.000	0.000
+A	3.992	0.004	0.004	0.000
+A	3.984	0.008	0.000	0.008
+G	0.379	0.129	3.492	0.000
+Y	0.226	1.054	0.149	2.571
+G	0.622	0.554	2.436	0.388
+V	1.067	1.059	1.677	0.198
+N	0.941	1.442	0.905	0.711

@@ -1,0 +1,16 @@
+	EGR1_known10	#	EGR1_known10	EGR2_2	EGR2_jolma_DBD_M5
+dummy 	 # p-value #File converted from TRANSFAC
+dummy 	 # benferroni
+dummy 0 1 0 0 0 1 1 1 1 	 #derived from leading strand
+#	A	C	G	T
+M	2.234	1.311	0.181	0.274
+C	0.000	3.755	0.068	0.177
+G	0.278	0.000	3.513	0.209
+C	0.015	3.852	0.062	0.072
+C	0.060	3.870	0.037	0.032
+C	0.000	3.293	0.085	0.621
+A	3.758	0.193	0.046	0.004
+C	0.000	3.937	0.005	0.058
+G	0.098	0.000	3.743	0.159
+C	0.009	3.678	0.046	0.267
+R	2.421	0.220	0.758	0.601

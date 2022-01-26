@@ -172,5 +172,33 @@ class Conversion():
 
 if __name__ == '__main__':
 
-    input_path = "../data/out/convert/to_transfac/"
-    Conversion(input_path, 'transfac2abc4pwm' ,"../data/out/convert/to_abc")
+    # input_path = "../data/in/in_pwms/"
+    # Conversion(input_path, 'abc4pwm2transfac' ,"../data/out/convert/to_transfac")
+
+    # input_path = "../data/out/convert/to_transfac/"
+    # Conversion(input_path, 'transfac2abc4pwm' ,"../data/out/convert/to_abc")
+
+    # input_path = "../data/in/in_pwms/"
+    # Conversion(input_path, 'abc4pwm2jaspar' ,"../data/out/convert/to_jaspar")
+
+    # input_path = "../data/out/convert/to_jaspar/"
+    # Conversion(input_path, 'jaspar2abc4pwm' ,"../data/out/convert/to_abc")
+
+
+    #work or automation of comparsion between stamp and abc4pwm
+    dbds = [ 'C2H2_ZF', 'RHR', 'HMG', 'T_box', 'Tryptophan', 'bHSH']
+
+    for dbd in dbds:
+        input_path = '/Users/omerali/Desktop/PhD/Publication/Next/Clustering/Comparison/New/STAMP/'+str(dbd)+'/out/'
+        out_path = "/Users/omerali/Desktop/PhD/Publication/Next/Clustering/Comparison/stamp_in_abc4pwm_motif/"+str(dbd)+"/out/"
+
+        clusters = os.listdir(input_path)
+        print(clusters)
+        for i,c in  enumerate(clusters):
+            if '.DS_Store' in c:
+                del clusters[i]
+        for c in clusters:
+            ip = os.path.join(input_path,c,'')
+            # print(ip)
+        # print(clusters)
+            Conversion(ip, 'transfac2abc4pwm', os.path.join(out_path,c))

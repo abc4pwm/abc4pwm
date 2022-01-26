@@ -1,0 +1,15 @@
+	TBX5_2	#	TBX5_2	TBX5_transfac_M01020
+dummy 	 # p-value #File converted from TRANSFAC
+dummy 	 # benferroni
+dummy 0 1 0 0 0 1 1 1 1 	 #derived from leading strand
+#	A	C	G	T
+Y	0.267	1.067	0.533	2.133
+V	1.067	1.067	1.333	0.533
+R	2.133	0.267	1.067	0.533
+G	0.000	0.000	3.750	0.250
+G	0.000	0.000	3.529	0.471
+T	0.000	0.000	0.000	4.000
+G	0.000	0.000	4.000	0.000
+T	0.000	0.571	0.000	3.429
+K	0.000	0.615	1.231	2.154
+V	1.818	1.091	1.091	0.000

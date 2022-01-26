@@ -1,0 +1,15 @@
+	ETV7_1	#	ETV7_1	Tel-2_transfac_M00678
+dummy 	 # p-value #File converted from TRANSFAC
+dummy 	 # benferroni
+dummy 0 1 0 0 0 1 1 1 1 	 #derived from leading strand
+#	A	C	G	T
+H	0.800	1.600	0.000	1.600
+Y	0.000	0.800	0.000	3.200
+A	4.000	0.000	0.000	0.000
+C	0.000	4.000	0.000	0.000
+T	0.000	0.000	0.000	4.000
+T	0.000	0.000	0.000	4.000
+C	0.000	4.000	0.000	0.000
+C	0.000	4.000	0.000	0.000
+K	0.000	0.000	0.800	3.200
+G	0.000	0.000	4.000	0.000

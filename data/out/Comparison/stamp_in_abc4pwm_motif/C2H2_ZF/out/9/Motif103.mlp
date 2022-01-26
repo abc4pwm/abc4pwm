@@ -1,0 +1,14 @@
+	HIC2_1	#	HIC2_1	HIC2_jolma_DBD_M15
+dummy 	 # p-value #File converted from TRANSFAC
+dummy 	 # benferroni
+dummy 0 1 0 0 0 1 1 1 1 	 #derived from leading strand
+#	A	C	G	T
+R	1.844	0.279	1.617	0.260
+T	0.000	0.093	0.000	3.906
+G	0.335	0.240	3.322	0.103
+C	0.019	3.970	0.011	0.000
+C	0.323	3.633	0.000	0.044
+M	1.199	2.801	0.000	0.000
+R	2.038	0.581	1.055	0.326
+S	0.630	1.799	1.012	0.559
+B	0.622	1.417	0.819	1.143

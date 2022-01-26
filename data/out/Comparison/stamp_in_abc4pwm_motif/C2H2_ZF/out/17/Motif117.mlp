@@ -1,0 +1,17 @@
+	ZBTB7A_known4	#	ZBTB7A_known4	ZBTB7B_2	ZBTB7B_jolma_full_M38
+dummy 	 # p-value #File converted from TRANSFAC
+dummy 	 # benferroni
+dummy 0 1 0 0 0 1 1 1 1 	 #derived from leading strand
+#	A	C	G	T
+D	1.151	0.343	1.717	0.788
+C	0.253	3.258	0.394	0.095
+R	0.673	0.032	3.162	0.133
+A	3.539	0.455	0.000	0.006
+C	0.011	3.987	0.002	0.000
+C	0.000	3.996	0.004	0.000
+M	2.767	1.225	0.003	0.004
+C	0.011	3.987	0.000	0.002
+C	0.000	3.985	0.000	0.015
+R	0.935	0.552	2.157	0.355
+A	2.711	0.432	0.323	0.534
+M	2.151	0.667	0.529	0.652

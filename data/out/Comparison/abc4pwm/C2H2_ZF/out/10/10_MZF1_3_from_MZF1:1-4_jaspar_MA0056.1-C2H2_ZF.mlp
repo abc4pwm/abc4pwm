@@ -1,0 +1,11 @@
+MZF1_3	#	MZF1_3	MZF1:1-4_jaspar_MA0056.1
+0.001     #       p-value
+8642     #       bonferroni
+0	1	1	1	1	0	1	1	1	1 # derived from leading strand
+#        a       c       g       t	 P=>P/0.25
+B	0.6	1	0.8	1.6
+G	0	0	3.8	0.2
+G	0.4	0	3.6	0
+G	0	0	3.8	0.2
+G	0	0	4	0
+A	3.6	0	0.4	0

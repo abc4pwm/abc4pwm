@@ -1,0 +1,12 @@
+Clustering Time: Tue, 25 Jan 2022 02:35:56 +0000
+Clustering Technique: Affinity Propagation Clustering 
+Minimum PWMs in a DBD considered for Clustering: 5
+
+Total DBDs : 6
+Total Clusters made : 64
+UnClustered DBDs due to less than threshold : 0
+UnClustered pwms in DBDs less than threshold: 0
+Damping: 0.5
+Preference: None
+Max Iterations: 400
+Convergence Iterations: 30

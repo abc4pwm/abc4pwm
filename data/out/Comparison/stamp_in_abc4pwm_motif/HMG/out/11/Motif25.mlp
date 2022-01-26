@@ -1,0 +1,15 @@
+	TCF7L2_known4	#	TCF7L2_known4	LEF1_3	LEF1_transfac_M01022
+dummy 	 # p-value #File converted from TRANSFAC
+dummy 	 # benferroni
+dummy 0 1 0 0 0 1 1 1 1 	 #derived from leading strand
+#	A	C	G	T
+B	0.364	1.454	1.454	0.727
+W	2.087	0.522	0.174	1.217
+W	1.217	0.174	0.174	2.435
+C	0.174	3.826	0.000	0.000
+A	4.000	0.000	0.000	0.000
+A	3.826	0.174	0.000	0.000
+A	3.652	0.000	0.174	0.174
+G	0.000	0.348	3.652	0.000
+D	0.696	0.522	1.565	1.217
+V	0.870	1.044	1.739	0.348

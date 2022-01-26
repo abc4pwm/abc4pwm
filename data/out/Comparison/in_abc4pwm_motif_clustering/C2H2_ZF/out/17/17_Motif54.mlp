@@ -1,0 +1,13 @@
+	MZF1_1	#	MZF1_1	MZF1_transfac_M00083
+dummy 	 # p-value #File converted from TRANSFAC
+dummy 	 # benferroni
+dummy 0 1 0 0 0 1 1 1 1 	 #derived from leading strand
+#	A	C	G	T
+R	1.600	0.600	1.200	0.600
+R	0.800	0.400	2.200	0.600
+K	0.600	0.600	1.000	1.800
+G	0.000	0.000	4.000	0.000
+G	0.200	0.000	3.600	0.200
+G	0.000	0.000	3.800	0.200
+G	0.000	0.000	4.000	0.000
+A	3.600	0.200	0.200	0.000

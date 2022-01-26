@@ -36,6 +36,7 @@ class Visualize():
     @staticmethod
     def print_boxplot_dbd(quality_df, plot_dbd, output_path):
         if len(os.listdir(plot_dbd)) == 0:
+            # print("No pwms in ", plot_dbd)
             return 1
         dbd_to_plot = str(plot_dbd).split('/')[-2]
 
@@ -55,11 +56,13 @@ class Visualize():
         fig, ax1 = plt.subplots(nrows=1, ncols=1, figsize=(24, 12))
 
         # rectangular box plot
-        ax1.boxplot(similarityMatrices,
+        bplot1 = ax1.boxplot(similarityMatrices,
                              vert=True,  # vertical box alignment
                              patch_artist=True,  # fill with color
                              labels=labels)  # will be used to label x-ticks
         ax1.set_title('Rectangular box plot for ' + str(dbd_to_plot))
+
+        # fill with colors
 
         # adding horizontal grid lines
         for ax in [ax1]:
@@ -67,6 +70,7 @@ class Visualize():
             ax.set_xlabel('Clusters')
             ax.set_ylabel('Observed Similarities')
 
+        # plt.show()
         plt.xticks(rotation=45)
         path_to_boxplots = output_path
         if not os.path.exists(path_to_boxplots):
@@ -75,4 +79,14 @@ class Visualize():
         plt.close()
 
 if __name__ == "__main__":
-    Visualize('../data/in/','../data/out/clustering_out/','../data/out/plots/boxplots/', 'all')
+    # Visualize('../data/in/','../data/out/clustering_out/','../data/out/plots/boxplots/', 'all')
+
+    # # stamp comparison
+    # Visualize('../../../../../Desktop/PhD/Publication/Next/Clustering/in/',
+    #           '../../../../../Desktop/PhD/Publication/Next/Clustering/Comparison/New/STAMP/',
+    #           '../../../../../Desktop/PhD/Publication/Next/Clustering/Comparison/plots/boxplots/', 'all')
+
+    #abc4pwm comparison
+    Visualize('../../../../../Desktop/PhD/Publication/Next/Clustering/in/',
+              '../../../../../Desktop/PhD/Publication/Next/Clustering/Comparison/quality_assessed_out_abc4pwm_old/',
+              '../../../../../Desktop/PhD/Publication/Next/Clustering/Comparison/plots/abc4pwm/boxplots/', 'all')

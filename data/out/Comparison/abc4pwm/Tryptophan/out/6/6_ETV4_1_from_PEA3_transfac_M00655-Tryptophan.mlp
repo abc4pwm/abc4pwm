@@ -1,0 +1,12 @@
+ETV4_1	#	ETV4_1	PEA3_transfac_M00655
+0.001     #       p-value
+8642     #       bonferroni
+0	1	1	1	1	0	1	1	1	1 # derived from leading strand
+#        a       c       g       t	 P=>P/0.25
+A	3.1111	0	0.44444	0.44444
+C	0	3.6	0	0.4
+W	2	0	0	2
+T	0	0	0	4
+C	0	4	0	0
+C	0	4	0	0
+K	0	0	1.6	2.4

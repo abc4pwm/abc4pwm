@@ -1,0 +1,15 @@
+TBX5_3	#	TBX5_3	TBX5_transfac_M01044
+0.001     #       p-value
+8642     #       bonferroni
+0	1	1	1	1	0	1	1	1	1 # derived from leading strand
+#        a       c       g       t	 P=>P/0.25
+Y	0.5	2.5	0	1
+T	0	0	0	4
+C	0	4	0	0
+A	4	0	0	0
+C	0	4	0	0
+A	4	0	0	0
+C	0	4	0	0
+C	0	4	0	0
+T	0	0	0	4
+K	0.5	0	1	2.5

@@ -1,0 +1,13 @@
+	MAZ_1	#	MAZ_1	MAZ_transfac_M00649
+dummy 	 # p-value #File converted from TRANSFAC
+dummy 	 # benferroni
+dummy 0 1 0 0 0 1 1 1 1 	 #derived from leading strand
+#	A	C	G	T
+R	1.000	0.000	2.667	0.333
+G	0.000	0.000	4.000	0.000
+G	0.000	0.000	3.667	0.333
+G	0.000	0.333	3.667	0.000
+A	3.333	0.667	0.000	0.000
+G	0.000	0.000	4.000	0.000
+G	0.667	0.333	3.000	0.000
+G	0.000	0.000	4.000	0.000

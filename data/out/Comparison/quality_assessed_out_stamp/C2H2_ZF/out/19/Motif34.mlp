@@ -1,0 +1,13 @@
+	ZBTB14_2	#	ZBTB14_2	ZF5_transfac_M00716
+dummy 	 # p-value #File converted from TRANSFAC
+dummy 	 # benferroni
+dummy 0 1 0 0 0 1 1 1 1 	 #derived from leading strand
+#	A	C	G	T
+G	0.421	0.000	3.368	0.211
+S	0.421	1.684	1.684	0.211
+G	0.632	0.211	3.158	0.000
+C	0.421	2.947	0.421	0.211
+G	0.632	0.211	2.947	0.211
+C	0.211	3.158	0.211	0.421
+G	0.421	0.421	2.737	0.421
+R	1.895	0.000	2.105	0.000

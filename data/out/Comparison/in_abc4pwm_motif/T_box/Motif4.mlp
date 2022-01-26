@@ -1,0 +1,13 @@
+	TBX5_4	#	TBX5_4	TBX5_jolma_DBD_M283
+dummy 	 # p-value #File converted from TRANSFAC
+dummy 	 # benferroni
+dummy 0 1 0 0 0 1 1 1 1 	 #derived from leading strand
+#	A	C	G	T
+A	2.876	0.142	0.652	0.330
+G	0.398	0.322	3.055	0.225
+G	0.000	0.000	3.939	0.061
+T	0.084	0.244	0.309	3.362
+G	0.059	0.000	3.941	0.000
+T	0.271	0.376	0.336	3.017
+B	0.146	0.712	2.085	1.058
+A	2.880	0.121	0.547	0.452

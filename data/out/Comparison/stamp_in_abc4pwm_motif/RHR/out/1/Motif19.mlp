@@ -1,0 +1,15 @@
+	NFAT_2	#	NFAT_2	NF-AT_transfac_M00935
+dummy 	 # p-value #File converted from TRANSFAC
+dummy 	 # benferroni
+dummy 0 1 0 0 0 1 1 1 1 	 #derived from leading strand
+#	A	C	G	T
+N	0.774	0.903	1.548	0.774
+W	1.161	0.645	0.129	2.064
+G	0.000	0.000	4.000	0.000
+G	0.129	0.000	3.871	0.000
+A	4.000	0.000	0.000	0.000
+A	3.742	0.000	0.258	0.000
+A	3.484	0.258	0.000	0.258
+H	1.548	1.032	0.516	0.903
+W	1.161	0.516	0.258	2.064
+Y	0.387	1.419	0.645	1.548

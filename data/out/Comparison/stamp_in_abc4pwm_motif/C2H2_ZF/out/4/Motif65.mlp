@@ -1,0 +1,14 @@
+	YY1_known4	#	YY1_known4	YY1_4	YY1_transfac_M00793
+dummy 	 # p-value #File converted from TRANSFAC
+dummy 	 # benferroni
+dummy 0 1 0 0 0 1 1 1 1 	 #derived from leading strand
+#	A	C	G	T
+K	0.348	0.000	2.957	0.696
+C	0.174	3.652	0.174	0.000
+C	0.000	3.652	0.000	0.348
+A	3.652	0.174	0.174	0.000
+T	0.000	0.174	0.174	3.652
+B	0.348	1.565	1.044	1.044
+T	0.348	0.174	0.348	3.130
+T	0.174	0.522	0.522	2.783
+B	0.348	0.696	1.739	1.217

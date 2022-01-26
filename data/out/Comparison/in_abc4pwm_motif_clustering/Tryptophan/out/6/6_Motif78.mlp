@@ -1,0 +1,15 @@
+	ETS_known14	#	ETS_known14	ETS1_4	ETS1_jolma_DBD_M98
+dummy 	 # p-value #File converted from TRANSFAC
+dummy 	 # benferroni
+dummy 0 1 0 0 0 1 1 1 1 	 #derived from leading strand
+#	A	C	G	T
+R	2.844	0.223	0.678	0.255
+C	0.226	3.373	0.373	0.028
+C	0.546	3.445	0.009	0.000
+G	0.000	0.031	3.969	0.000
+G	0.000	0.000	3.982	0.018
+A	4.000	0.000	0.000	0.000
+W	2.955	0.010	0.034	1.001
+R	1.624	0.031	2.328	0.018
+Y	0.123	0.984	0.171	2.722
+R	1.197	0.598	1.615	0.590

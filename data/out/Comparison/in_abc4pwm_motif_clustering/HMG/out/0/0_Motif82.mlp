@@ -1,0 +1,13 @@
+	TCF7L2_known1	#	TCF7L2_known1	TCF7L2_1	TCF-4_transfac_M00671
+dummy 	 # p-value #File converted from TRANSFAC
+dummy 	 # benferroni
+dummy 0 1 0 0 0 1 1 1 1 	 #derived from leading strand
+#	A	C	G	T
+S	0.667	2.000	1.333	0.000
+C	0.000	4.000	0.000	0.000
+T	0.000	0.667	0.000	3.333
+T	0.000	0.000	0.000	4.000
+T	0.000	0.000	0.000	4.000
+G	0.000	0.000	3.333	0.667
+A	4.000	0.000	0.000	0.000
+W	2.000	0.000	0.667	1.333

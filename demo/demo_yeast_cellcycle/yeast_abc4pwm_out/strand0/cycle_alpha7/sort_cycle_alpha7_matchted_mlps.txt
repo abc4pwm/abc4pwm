@@ -1,0 +1,324 @@
+SGD-SWI4_2_psam.mlp	0.9060529338366318	yeast_GE_7.txt_mlpout_L12_6.mlp
+SGD-MCM1_2_psam.mlp	0.870009356735971	yeast_GE_7.txt_mlpout_L6_5.mlp
+SGD-MCM1_1_psam.mlp	0.8356681347367713	yeast_GE_7.txt_mlpout_L6_5.mlp
+SGD-MCM1_1_psam.mlp	0.8291754021357449	yeast_GE_7.txt_mlpout_L7_6.mlp
+SGD-NDD1_psam.mlp	0.8198502623966897	yeast_GE_7.txt_mlpout_L6_5.mlp
+SGD-ACE2_2_psam.mlp	0.8144889867221661	yeast_GE_7.txt_mlpout_L13_6.mlp
+SGD-ACE2_1_psam.mlp	0.8060394187105663	yeast_GE_7.txt_mlpout_L11_1.mlp
+SGD-SWI5_psam.mlp	0.8031983789542192	yeast_GE_7.txt_mlpout_L9_5.mlp
+SGD-NDD1_psam.mlp	0.7946975424995348	yeast_GE_7.txt_mlpout_L9_6.mlp
+SGD-MCM1_1_psam.mlp	0.7904321863925468	yeast_GE_7.txt_mlpout_L7_4.mlp
+SGD-FKH1_1_psam.mlp	0.7898520821489933	yeast_GE_7.txt_mlpout_L14_5.mlp
+SGD-FKH2_psam.mlp	0.7883954668327535	yeast_GE_7.txt_mlpout_L14_5.mlp
+SGD-FKH1_2_psam.mlp	0.7883954668327535	yeast_GE_7.txt_mlpout_L14_5.mlp
+SGD-FKH2_psam.mlp	0.7846593387409141	yeast_GE_7.txt_mlpout_L9_1.mlp
+SGD-FKH1_2_psam.mlp	0.7846593387409141	yeast_GE_7.txt_mlpout_L9_1.mlp
+SGD-NDD1_psam.mlp	0.7814218790518401	yeast_GE_7.txt_mlpout_L6_6.mlp
+SGD-SWI4_2_psam.mlp	0.7798348621289931	yeast_GE_7.txt_mlpout_L12_1.mlp
+SGD-MCM1_2_psam.mlp	0.7766233445563275	yeast_GE_7.txt_mlpout_L9_6.mlp
+SGD-FKH2_psam.mlp	0.7760166305907779	yeast_GE_7.txt_mlpout_L7_1.mlp
+SGD-FKH1_2_psam.mlp	0.7760166305907779	yeast_GE_7.txt_mlpout_L7_1.mlp
+SGD-ACE2_1_psam.mlp	0.774470698356757	yeast_GE_7.txt_mlpout_L13_4.mlp
+SGD-FKH1_1_psam.mlp	0.7723594362268239	yeast_GE_7.txt_mlpout_L12_6.mlp
+SGD-SWI4_2_psam.mlp	0.7719242463340658	yeast_GE_7.txt_mlpout_L14_1.mlp
+SGD-SWI4_1_psam.mlp	0.7710017997270256	yeast_GE_7.txt_mlpout_L6_4.mlp
+SGD-MCM1_1_psam.mlp	0.7702193004561656	yeast_GE_7.txt_mlpout_L8_3.mlp
+SGD-MCM1_2_psam.mlp	0.7693468167462115	yeast_GE_7.txt_mlpout_L12_5.mlp
+SGD-NDD1_psam.mlp	0.7689092091238594	yeast_GE_7.txt_mlpout_L11_6.mlp
+SGD-ACE2_1_psam.mlp	0.7666839613126615	yeast_GE_7.txt_mlpout_L12_6.mlp
+SGD-ACE2_1_psam.mlp	0.7640576258174305	yeast_GE_7.txt_mlpout_L13_6.mlp
+SGD-FKH2_psam.mlp	0.7625209536927392	yeast_GE_7.txt_mlpout_L10_5.mlp
+SGD-FKH1_2_psam.mlp	0.7625209536927392	yeast_GE_7.txt_mlpout_L10_5.mlp
+SGD-FKH2_psam.mlp	0.762370964000971	yeast_GE_7.txt_mlpout_L12_1.mlp
+SGD-FKH1_2_psam.mlp	0.762370964000971	yeast_GE_7.txt_mlpout_L12_1.mlp
+SGD-MCM1_2_psam.mlp	0.7615513219707342	yeast_GE_7.txt_mlpout_L6_6.mlp
+SGD-ACE2_2_psam.mlp	0.7613991235344835	yeast_GE_7.txt_mlpout_L7_1.mlp
+SGD-NDD1_psam.mlp	0.761378572246897	yeast_GE_7.txt_mlpout_L11_3.mlp
+SGD-ACE2_2_psam.mlp	0.7601774547993645	yeast_GE_7.txt_mlpout_L14_1.mlp
+SGD-NDD1_psam.mlp	0.7599109532933942	yeast_GE_7.txt_mlpout_L13_2.mlp
+SGD-NDD1_psam.mlp	0.7597537259774246	yeast_GE_7.txt_mlpout_L8_5.mlp
+SGD-ACE2_2_psam.mlp	0.7596052201300164	yeast_GE_7.txt_mlpout_L14_6.mlp
+SGD-MCM1_1_psam.mlp	0.7594323604701103	yeast_GE_7.txt_mlpout_L11_1.mlp
+SGD-MCM1_1_psam.mlp	0.7581701908530032	yeast_GE_7.txt_mlpout_L9_6.mlp
+SGD-NDD1_psam.mlp	0.7581209978251933	yeast_GE_7.txt_mlpout_L7_2.mlp
+SGD-NDD1_psam.mlp	0.7572050407872061	yeast_GE_7.txt_mlpout_L11_4.mlp
+SGD-FKH2_psam.mlp	0.7562099231560597	yeast_GE_7.txt_mlpout_L8_1.mlp
+SGD-FKH1_2_psam.mlp	0.7562099231560597	yeast_GE_7.txt_mlpout_L8_1.mlp
+SGD-MBP1_psam.mlp	0.7560973705605523	yeast_GE_7.txt_mlpout_L14_5.mlp
+SGD-ACE2_2_psam.mlp	0.7551310838468128	yeast_GE_7.txt_mlpout_L11_1.mlp
+SGD-NDD1_psam.mlp	0.7525274065075275	yeast_GE_7.txt_mlpout_L7_3.mlp
+SGD-NDD1_psam.mlp	0.7521708766659416	yeast_GE_7.txt_mlpout_L9_2.mlp
+SGD-FKH1_1_psam.mlp	0.7519433610226522	yeast_GE_7.txt_mlpout_L7_1.mlp
+SGD-SWI4_1_psam.mlp	0.7515979558343879	yeast_GE_7.txt_mlpout_L6_5.mlp
+SGD-MCM1_1_psam.mlp	0.7508115543942664	yeast_GE_7.txt_mlpout_L6_2.mlp
+SGD-MCM1_2_psam.mlp	0.7496316327016048	yeast_GE_7.txt_mlpout_L14_3.mlp
+SGD-SWI4_2_psam.mlp	0.7493109158419484	yeast_GE_7.txt_mlpout_L10_6.mlp
+SGD-FKH2_psam.mlp	0.7491653670015082	yeast_GE_7.txt_mlpout_L9_4.mlp
+SGD-FKH1_2_psam.mlp	0.7491653670015082	yeast_GE_7.txt_mlpout_L9_4.mlp
+SGD-FKH2_psam.mlp	0.7485252894277363	yeast_GE_7.txt_mlpout_L11_2.mlp
+SGD-FKH1_2_psam.mlp	0.7485252894277363	yeast_GE_7.txt_mlpout_L11_2.mlp
+SGD-NDD1_psam.mlp	0.7478802890033789	yeast_GE_7.txt_mlpout_L7_5.mlp
+SGD-MCM1_1_psam.mlp	0.7478233806644732	yeast_GE_7.txt_mlpout_L11_4.mlp
+SGD-MCM1_2_psam.mlp	0.7478018751103773	yeast_GE_7.txt_mlpout_L11_3.mlp
+SGD-NDD1_psam.mlp	0.7469160568448053	yeast_GE_7.txt_mlpout_L11_5.mlp
+SGD-MCM1_2_psam.mlp	0.7463008220738172	yeast_GE_7.txt_mlpout_L11_6.mlp
+SGD-SWI5_psam.mlp	0.7462824353039381	yeast_GE_7.txt_mlpout_L14_6.mlp
+SGD-MCM1_2_psam.mlp	0.7460565748202177	yeast_GE_7.txt_mlpout_L7_3.mlp
+SGD-FKH1_1_psam.mlp	0.7456081924588377	yeast_GE_7.txt_mlpout_L13_5.mlp
+SGD-FKH1_2_psam.mlp	0.7454514535122119	yeast_GE_7.txt_mlpout_L6_5.mlp
+SGD-MCM1_1_psam.mlp	0.7452855012579102	yeast_GE_7.txt_mlpout_L6_6.mlp
+SGD-SWI4_2_psam.mlp	0.744940754277806	yeast_GE_7.txt_mlpout_L13_1.mlp
+SGD-ACE2_2_psam.mlp	0.7448852212830412	yeast_GE_7.txt_mlpout_L9_1.mlp
+SGD-NDD1_psam.mlp	0.7442198694821527	yeast_GE_7.txt_mlpout_L12_5.mlp
+SGD-MCM1_2_psam.mlp	0.7434061201829547	yeast_GE_7.txt_mlpout_L11_4.mlp
+SGD-FKH2_psam.mlp	0.7421833915486318	yeast_GE_7.txt_mlpout_L14_4.mlp
+SGD-FKH1_2_psam.mlp	0.7421833915486318	yeast_GE_7.txt_mlpout_L14_4.mlp
+SGD-ACE2_1_psam.mlp	0.7420360841360617	yeast_GE_7.txt_mlpout_L9_1.mlp
+SGD-NDD1_psam.mlp	0.7415991789820393	yeast_GE_7.txt_mlpout_L14_3.mlp
+SGD-NDD1_psam.mlp	0.7400192327113122	yeast_GE_7.txt_mlpout_L12_3.mlp
+SGD-FKH2_psam.mlp	0.7398147465820014	yeast_GE_7.txt_mlpout_L14_3.mlp
+SGD-FKH1_2_psam.mlp	0.7398147465820014	yeast_GE_7.txt_mlpout_L14_3.mlp
+SGD-SWI5_psam.mlp	0.7396804325943092	yeast_GE_7.txt_mlpout_L11_1.mlp
+SGD-SWI5_psam.mlp	0.7395818190321113	yeast_GE_7.txt_mlpout_L10_3.mlp
+SGD-MCM1_2_psam.mlp	0.739102340779978	yeast_GE_7.txt_mlpout_L13_2.mlp
+SGD-FKH2_psam.mlp	0.7383671531558438	yeast_GE_7.txt_mlpout_L6_3.mlp
+SGD-FKH1_2_psam.mlp	0.7383671531558438	yeast_GE_7.txt_mlpout_L6_3.mlp
+SGD-NDD1_psam.mlp	0.737715070844734	yeast_GE_7.txt_mlpout_L8_2.mlp
+SGD-ACE2_2_psam.mlp	0.7376719182616247	yeast_GE_7.txt_mlpout_L14_3.mlp
+SGD-SWI4_1_psam.mlp	0.7376307590398821	yeast_GE_7.txt_mlpout_L10_6.mlp
+SGD-ACE2_2_psam.mlp	0.7375338988330393	yeast_GE_7.txt_mlpout_L8_1.mlp
+SGD-SWI4_1_psam.mlp	0.737322207889336	yeast_GE_7.txt_mlpout_L12_6.mlp
+SGD-SWI4_2_psam.mlp	0.7371494136263628	yeast_GE_7.txt_mlpout_L9_3.mlp
+SGD-MCM1_2_psam.mlp	0.7358210026998361	yeast_GE_7.txt_mlpout_L6_3.mlp
+SGD-MCM1_1_psam.mlp	0.7355155561203863	yeast_GE_7.txt_mlpout_L8_2.mlp
+SGD-MBP1_psam.mlp	0.734096635570386	yeast_GE_7.txt_mlpout_L12_5.mlp
+SGD-FKH2_psam.mlp	0.7339020207751399	yeast_GE_7.txt_mlpout_L10_2.mlp
+SGD-FKH1_2_psam.mlp	0.7339020207751399	yeast_GE_7.txt_mlpout_L10_2.mlp
+SGD-NDD1_psam.mlp	0.7332489506373001	yeast_GE_7.txt_mlpout_L9_5.mlp
+SGD-FKH2_psam.mlp	0.7324100132533926	yeast_GE_7.txt_mlpout_L9_3.mlp
+SGD-FKH1_2_psam.mlp	0.7324100132533926	yeast_GE_7.txt_mlpout_L9_3.mlp
+SGD-NDD1_psam.mlp	0.7318213191959703	yeast_GE_7.txt_mlpout_L12_4.mlp
+SGD-MCM1_2_psam.mlp	0.7318065789914167	yeast_GE_7.txt_mlpout_L7_2.mlp
+SGD-FKH2_psam.mlp	0.7313495959229553	yeast_GE_7.txt_mlpout_L11_4.mlp
+SGD-FKH1_2_psam.mlp	0.7313495959229553	yeast_GE_7.txt_mlpout_L11_4.mlp
+SGD-SWI4_2_psam.mlp	0.7307901567982522	yeast_GE_7.txt_mlpout_L6_1.mlp
+SGD-MCM1_2_psam.mlp	0.7301722250207414	yeast_GE_7.txt_mlpout_L12_3.mlp
+SGD-MBP1_psam.mlp	0.7301235431347021	yeast_GE_7.txt_mlpout_L10_6.mlp
+SGD-NDD1_psam.mlp	0.7301165206299356	yeast_GE_7.txt_mlpout_L8_6.mlp
+SGD-ACE2_1_psam.mlp	0.7298633910896127	yeast_GE_7.txt_mlpout_L14_4.mlp
+SGD-SWI4_1_psam.mlp	0.7296147228122158	yeast_GE_7.txt_mlpout_L9_3.mlp
+SGD-SWI5_psam.mlp	0.7291913215233887	yeast_GE_7.txt_mlpout_L14_1.mlp
+SGD-NDD1_psam.mlp	0.729180545269069	yeast_GE_7.txt_mlpout_L10_2.mlp
+SGD-MCM1_1_psam.mlp	0.7280768421968256	yeast_GE_7.txt_mlpout_L7_3.mlp
+SGD-ACE2_1_psam.mlp	0.7280527849498026	yeast_GE_7.txt_mlpout_L14_1.mlp
+SGD-MCM1_2_psam.mlp	0.7278515156794245	yeast_GE_7.txt_mlpout_L12_4.mlp
+SGD-MCM1_2_psam.mlp	0.7275204463725491	yeast_GE_7.txt_mlpout_L9_1.mlp
+SGD-MCM1_2_psam.mlp	0.7269627458926546	yeast_GE_7.txt_mlpout_L9_5.mlp
+SGD-NDD1_psam.mlp	0.7269526105832699	yeast_GE_7.txt_mlpout_L10_4.mlp
+SGD-MCM1_2_psam.mlp	0.725463103943037	yeast_GE_7.txt_mlpout_L8_5.mlp
+SGD-MCM1_1_psam.mlp	0.7250849148938338	yeast_GE_7.txt_mlpout_L10_3.mlp
+SGD-ACE2_2_psam.mlp	0.7248686234911241	yeast_GE_7.txt_mlpout_L9_5.mlp
+SGD-MCM1_2_psam.mlp	0.7247278232856735	yeast_GE_7.txt_mlpout_L9_2.mlp
+SGD-SWI5_psam.mlp	0.7238934746277766	yeast_GE_7.txt_mlpout_L14_2.mlp
+SGD-NDD1_psam.mlp	0.7230096651955875	yeast_GE_7.txt_mlpout_L14_2.mlp
+SGD-SWI4_2_psam.mlp	0.7227887973286395	yeast_GE_7.txt_mlpout_L13_3.mlp
+SGD-MCM1_1_psam.mlp	0.7226533908651617	yeast_GE_7.txt_mlpout_L11_2.mlp
+SGD-NDD1_psam.mlp	0.7224137837822967	yeast_GE_7.txt_mlpout_L6_2.mlp
+SGD-MCM1_2_psam.mlp	0.7218726453291631	yeast_GE_7.txt_mlpout_L11_5.mlp
+SGD-SWI4_2_psam.mlp	0.7210145950869682	yeast_GE_7.txt_mlpout_L13_6.mlp
+SGD-MCM1_1_psam.mlp	0.7209704466658058	yeast_GE_7.txt_mlpout_L10_5.mlp
+SGD-NDD1_psam.mlp	0.720399002404369	yeast_GE_7.txt_mlpout_L6_3.mlp
+SGD-NDD1_psam.mlp	0.7203877814341089	yeast_GE_7.txt_mlpout_L10_5.mlp
+SGD-ACE2_2_psam.mlp	0.7189540476444192	yeast_GE_7.txt_mlpout_L13_4.mlp
+SGD-NDD1_psam.mlp	0.7185648633202066	yeast_GE_7.txt_mlpout_L9_3.mlp
+SGD-MCM1_2_psam.mlp	0.7180464536366673	yeast_GE_7.txt_mlpout_L14_6.mlp
+SGD-NDD1_psam.mlp	0.7179043111899239	yeast_GE_7.txt_mlpout_L8_4.mlp
+SGD-NDD1_psam.mlp	0.7177531411848763	yeast_GE_7.txt_mlpout_L9_4.mlp
+SGD-MCM1_1_psam.mlp	0.7176543534098503	yeast_GE_7.txt_mlpout_L7_2.mlp
+SGD-FKH1_2_psam.mlp	0.7174609184856799	yeast_GE_7.txt_mlpout_L14_1.mlp
+SGD-MCM1_2_psam.mlp	0.7161149982487763	yeast_GE_7.txt_mlpout_L8_2.mlp
+SGD-MCM1_2_psam.mlp	0.7145516679303603	yeast_GE_7.txt_mlpout_L7_5.mlp
+SGD-FKH2_psam.mlp	0.7137357717365447	yeast_GE_7.txt_mlpout_L12_2.mlp
+SGD-FKH1_2_psam.mlp	0.7137357717365447	yeast_GE_7.txt_mlpout_L12_2.mlp
+SGD-MCM1_1_psam.mlp	0.7134967504953049	yeast_GE_7.txt_mlpout_L11_6.mlp
+SGD-MCM1_2_psam.mlp	0.7134377755183363	yeast_GE_7.txt_mlpout_L10_2.mlp
+SGD-SWI5_psam.mlp	0.7132408267691273	yeast_GE_7.txt_mlpout_L14_4.mlp
+SGD-FKH2_psam.mlp	0.7128427720204555	yeast_GE_7.txt_mlpout_L14_2.mlp
+SGD-FKH1_2_psam.mlp	0.7128427720204555	yeast_GE_7.txt_mlpout_L14_2.mlp
+SGD-NDD1_psam.mlp	0.7128075795628707	yeast_GE_7.txt_mlpout_L14_5.mlp
+SGD-MCM1_1_psam.mlp	0.7126229122745136	yeast_GE_7.txt_mlpout_L8_5.mlp
+SGD-FKH2_psam.mlp	0.7124136806790582	yeast_GE_7.txt_mlpout_L13_5.mlp
+SGD-FKH1_2_psam.mlp	0.7124136806790582	yeast_GE_7.txt_mlpout_L13_5.mlp
+SGD-MCM1_2_psam.mlp	0.7122901761396749	yeast_GE_7.txt_mlpout_L10_4.mlp
+SGD-FKH2_psam.mlp	0.7116494404611993	yeast_GE_7.txt_mlpout_L12_3.mlp
+SGD-FKH1_2_psam.mlp	0.7116494404611993	yeast_GE_7.txt_mlpout_L12_3.mlp
+SGD-NDD1_psam.mlp	0.7114471959084718	yeast_GE_7.txt_mlpout_L11_2.mlp
+SGD-FKH1_1_psam.mlp	0.7114290134675336	yeast_GE_7.txt_mlpout_L10_3.mlp
+SGD-MCM1_1_psam.mlp	0.711370952511136	yeast_GE_7.txt_mlpout_L9_2.mlp
+SGD-ACE2_2_psam.mlp	0.7112014233347468	yeast_GE_7.txt_mlpout_L12_6.mlp
+SGD-FKH1_1_psam.mlp	0.7109402176032192	yeast_GE_7.txt_mlpout_L12_5.mlp
+SGD-SWI5_psam.mlp	0.7104917703521578	yeast_GE_7.txt_mlpout_L7_3.mlp
+SGD-MCM1_2_psam.mlp	0.7102519932227004	yeast_GE_7.txt_mlpout_L8_6.mlp
+SGD-NDD1_psam.mlp	0.7102028247926705	yeast_GE_7.txt_mlpout_L12_2.mlp
+SGD-MCM1_2_psam.mlp	0.709772630914528	yeast_GE_7.txt_mlpout_L13_1.mlp
+SGD-ACE2_2_psam.mlp	0.709534954852037	yeast_GE_7.txt_mlpout_L10_6.mlp
+SGD-SWI4_1_psam.mlp	0.7089434894758988	yeast_GE_7.txt_mlpout_L12_1.mlp
+SGD-ACE2_1_psam.mlp	0.7088307808757779	yeast_GE_7.txt_mlpout_L14_6.mlp
+SGD-FKH2_psam.mlp	0.7088298638465516	yeast_GE_7.txt_mlpout_L11_3.mlp
+SGD-FKH1_2_psam.mlp	0.7088298638465516	yeast_GE_7.txt_mlpout_L11_3.mlp
+SGD-MCM1_1_psam.mlp	0.7087841444209343	yeast_GE_7.txt_mlpout_L12_3.mlp
+SGD-SWI4_1_psam.mlp	0.7083412015304221	yeast_GE_7.txt_mlpout_L12_5.mlp
+SGD-NDD1_psam.mlp	0.7082469211793057	yeast_GE_7.txt_mlpout_L8_3.mlp
+SGD-MCM1_2_psam.mlp	0.7081543333132938	yeast_GE_7.txt_mlpout_L10_5.mlp
+SGD-MCM1_2_psam.mlp	0.7077583839110906	yeast_GE_7.txt_mlpout_L6_2.mlp
+SGD-FKH2_psam.mlp	0.7076953680129388	yeast_GE_7.txt_mlpout_L8_4.mlp
+SGD-FKH1_2_psam.mlp	0.7076953680129388	yeast_GE_7.txt_mlpout_L8_4.mlp
+SGD-MCM1_1_psam.mlp	0.7073548895829392	yeast_GE_7.txt_mlpout_L6_1.mlp
+SGD-ACE2_2_psam.mlp	0.707061730574809	yeast_GE_7.txt_mlpout_L6_3.mlp
+SGD-NDD1_psam.mlp	0.706734084657467	yeast_GE_7.txt_mlpout_L6_1.mlp
+SGD-MCM1_2_psam.mlp	0.7057186902719885	yeast_GE_7.txt_mlpout_L9_4.mlp
+SGD-MCM1_2_psam.mlp	0.7055820478112729	yeast_GE_7.txt_mlpout_L6_1.mlp
+SGD-SWI5_psam.mlp	0.7048171212665778	yeast_GE_7.txt_mlpout_L13_6.mlp
+SGD-SWI5_psam.mlp	0.7045713791734167	yeast_GE_7.txt_mlpout_L8_1.mlp
+SGD-FKH2_psam.mlp	0.7044998097412581	yeast_GE_7.txt_mlpout_L9_2.mlp
+SGD-FKH1_2_psam.mlp	0.7044998097412581	yeast_GE_7.txt_mlpout_L9_2.mlp
+SGD-NDD1_psam.mlp	0.7038445264548026	yeast_GE_7.txt_mlpout_L14_6.mlp
+SGD-MCM1_1_psam.mlp	0.7038123954292033	yeast_GE_7.txt_mlpout_L6_4.mlp
+SGD-FKH2_psam.mlp	0.7035556629662211	yeast_GE_7.txt_mlpout_L10_1.mlp
+SGD-FKH1_2_psam.mlp	0.7035556629662211	yeast_GE_7.txt_mlpout_L10_1.mlp
+SGD-NDD1_psam.mlp	0.7031527366688894	yeast_GE_7.txt_mlpout_L11_1.mlp
+SGD-FKH1_1_psam.mlp	0.7029385815236424	yeast_GE_7.txt_mlpout_L9_4.mlp
+SGD-NDD1_psam.mlp	0.7028456207320801	yeast_GE_7.txt_mlpout_L7_4.mlp
+SGD-ACE2_1_psam.mlp	0.7028299229551437	yeast_GE_7.txt_mlpout_L12_1.mlp
+SGD-FKH2_psam.mlp	0.7027523841915586	yeast_GE_7.txt_mlpout_L13_2.mlp
+SGD-FKH1_2_psam.mlp	0.7027523841915586	yeast_GE_7.txt_mlpout_L13_2.mlp
+SGD-MCM1_2_psam.mlp	0.7025310459648938	yeast_GE_7.txt_mlpout_L11_2.mlp
+SGD-NDD1_psam.mlp	0.7022267663399796	yeast_GE_7.txt_mlpout_L13_3.mlp
+SGD-MCM1_1_psam.mlp	0.7010579226268374	yeast_GE_7.txt_mlpout_L11_3.mlp
+SGD-FKH2_psam.mlp	0.7009311177140316	yeast_GE_7.txt_mlpout_L10_3.mlp
+SGD-FKH1_2_psam.mlp	0.7009311177140316	yeast_GE_7.txt_mlpout_L10_3.mlp
+SGD-SWI4_2_psam.mlp	0.70010297150115	yeast_GE_7.txt_mlpout_L9_5.mlp
+SGD-FKH2_psam.mlp	0.7000258697256948	yeast_GE_7.txt_mlpout_L11_6.mlp
+SGD-FKH1_2_psam.mlp	0.7000258697256948	yeast_GE_7.txt_mlpout_L11_6.mlp
+SGD-SWI5_psam.mlp	0.6999999240018049	yeast_GE_7.txt_mlpout_L13_1.mlp
+SGD-MCM1_1_psam.mlp	0.6999198594196618	yeast_GE_7.txt_mlpout_L7_5.mlp
+SGD-MCM1_1_psam.mlp	0.6997657310811376	yeast_GE_7.txt_mlpout_L11_5.mlp
+SGD-ACE2_1_psam.mlp	0.6993190921988202	yeast_GE_7.txt_mlpout_L7_1.mlp
+SGD-SWI5_psam.mlp	0.6990326839829339	yeast_GE_7.txt_mlpout_L7_4.mlp
+SGD-FKH2_psam.mlp	0.6989914866309173	yeast_GE_7.txt_mlpout_L8_5.mlp
+SGD-FKH1_2_psam.mlp	0.6989914866309173	yeast_GE_7.txt_mlpout_L8_5.mlp
+SGD-FKH2_psam.mlp	0.6989056235163432	yeast_GE_7.txt_mlpout_L6_6.mlp
+SGD-FKH1_2_psam.mlp	0.6989056235163432	yeast_GE_7.txt_mlpout_L6_6.mlp
+SGD-MBP1_psam.mlp	0.6987568185510293	yeast_GE_7.txt_mlpout_L12_2.mlp
+SGD-FKH2_psam.mlp	0.6986651462140345	yeast_GE_7.txt_mlpout_L7_4.mlp
+SGD-FKH1_2_psam.mlp	0.6986651462140345	yeast_GE_7.txt_mlpout_L7_4.mlp
+SGD-FKH2_psam.mlp	0.6973520227411982	yeast_GE_7.txt_mlpout_L11_5.mlp
+SGD-FKH1_2_psam.mlp	0.6973520227411982	yeast_GE_7.txt_mlpout_L11_5.mlp
+SGD-FKH1_1_psam.mlp	0.6970096231262588	yeast_GE_7.txt_mlpout_L7_6.mlp
+SGD-FKH2_psam.mlp	0.6966574549318658	yeast_GE_7.txt_mlpout_L9_6.mlp
+SGD-FKH1_2_psam.mlp	0.6966574549318658	yeast_GE_7.txt_mlpout_L9_6.mlp
+SGD-MCM1_2_psam.mlp	0.6958637956268449	yeast_GE_7.txt_mlpout_L14_2.mlp
+SGD-MCM1_1_psam.mlp	0.6952529157169596	yeast_GE_7.txt_mlpout_L13_2.mlp
+SGD-MCM1_2_psam.mlp	0.6948217729449788	yeast_GE_7.txt_mlpout_L8_3.mlp
+SGD-FKH2_psam.mlp	0.6943440418859741	yeast_GE_7.txt_mlpout_L6_2.mlp
+SGD-FKH1_2_psam.mlp	0.6943440418859741	yeast_GE_7.txt_mlpout_L6_2.mlp
+SGD-SWI4_2_psam.mlp	0.6937775280019018	yeast_GE_7.txt_mlpout_L7_6.mlp
+SGD-NDD1_psam.mlp	0.6934024734184865	yeast_GE_7.txt_mlpout_L13_1.mlp
+SGD-ACE2_1_psam.mlp	0.6932152643670596	yeast_GE_7.txt_mlpout_L12_2.mlp
+SGD-SWI4_2_psam.mlp	0.6930462884227471	yeast_GE_7.txt_mlpout_L10_1.mlp
+SGD-SWI5_psam.mlp	0.6906892962722462	yeast_GE_7.txt_mlpout_L8_4.mlp
+SGD-SWI4_2_psam.mlp	0.690192316964408	yeast_GE_7.txt_mlpout_L8_1.mlp
+SGD-ACE2_2_psam.mlp	0.6900364037751715	yeast_GE_7.txt_mlpout_L13_1.mlp
+SGD-MCM1_1_psam.mlp	0.6900187562606747	yeast_GE_7.txt_mlpout_L8_4.mlp
+SGD-FKH1_2_psam.mlp	0.6895843086525001	yeast_GE_7.txt_mlpout_L6_1.mlp
+SGD-MCM1_1_psam.mlp	0.6888606169515445	yeast_GE_7.txt_mlpout_L8_6.mlp
+SGD-MCM1_2_psam.mlp	0.6885266261411408	yeast_GE_7.txt_mlpout_L13_3.mlp
+SGD-MCM1_1_psam.mlp	0.688352121724854	yeast_GE_7.txt_mlpout_L10_4.mlp
+SGD-FKH2_psam.mlp	0.6880704536293574	yeast_GE_7.txt_mlpout_L7_2.mlp
+SGD-FKH1_2_psam.mlp	0.6880704536293574	yeast_GE_7.txt_mlpout_L7_2.mlp
+SGD-SWI5_psam.mlp	0.6879675403810894	yeast_GE_7.txt_mlpout_L10_1.mlp
+SGD-FKH2_psam.mlp	0.6879239693769796	yeast_GE_7.txt_mlpout_L8_2.mlp
+SGD-FKH1_2_psam.mlp	0.6879239693769796	yeast_GE_7.txt_mlpout_L8_2.mlp
+SGD-ACE2_2_psam.mlp	0.6865189188545533	yeast_GE_7.txt_mlpout_L13_3.mlp
+SGD-FKH2_psam.mlp	0.6860592285249202	yeast_GE_7.txt_mlpout_L10_4.mlp
+SGD-FKH1_2_psam.mlp	0.6860592285249202	yeast_GE_7.txt_mlpout_L10_4.mlp
+SGD-SWI4_2_psam.mlp	0.6854332278224068	yeast_GE_7.txt_mlpout_L10_2.mlp
+SGD-SWI4_1_psam.mlp	0.6849148902651683	yeast_GE_7.txt_mlpout_L14_4.mlp
+SGD-FKH1_2_psam.mlp	0.6839493136687345	yeast_GE_7.txt_mlpout_L7_3.mlp
+SGD-FKH2_psam.mlp	0.6823991034665282	yeast_GE_7.txt_mlpout_L12_4.mlp
+SGD-FKH1_2_psam.mlp	0.6823991034665282	yeast_GE_7.txt_mlpout_L12_4.mlp
+SGD-MCM1_1_psam.mlp	0.6819531991009786	yeast_GE_7.txt_mlpout_L12_4.mlp
+SGD-FKH2_psam.mlp	0.6804666000149775	yeast_GE_7.txt_mlpout_L8_6.mlp
+SGD-FKH1_2_psam.mlp	0.6804666000149775	yeast_GE_7.txt_mlpout_L8_6.mlp
+SGD-ACE2_2_psam.mlp	0.6788928372957252	yeast_GE_7.txt_mlpout_L10_1.mlp
+SGD-NDD1_psam.mlp	0.6774313706250279	yeast_GE_7.txt_mlpout_L10_6.mlp
+SGD-ACE2_2_psam.mlp	0.6766932791391905	yeast_GE_7.txt_mlpout_L7_5.mlp
+SGD-SWI4_1_psam.mlp	0.676556606162585	yeast_GE_7.txt_mlpout_L13_5.mlp
+SGD-ACE2_2_psam.mlp	0.6762471147237976	yeast_GE_7.txt_mlpout_L8_3.mlp
+SGD-SWI4_1_psam.mlp	0.673140649229452	yeast_GE_7.txt_mlpout_L13_4.mlp
+SGD-NDD1_psam.mlp	0.6712387685163403	yeast_GE_7.txt_mlpout_L6_4.mlp
+SGD-MBP1_psam.mlp	0.6700314418923552	yeast_GE_7.txt_mlpout_L13_6.mlp
+SGD-SWI5_psam.mlp	0.669669956177914	yeast_GE_7.txt_mlpout_L7_6.mlp
+SGD-FKH1_2_psam.mlp	0.6692957141940262	yeast_GE_7.txt_mlpout_L7_5.mlp
+SGD-SWI5_psam.mlp	0.6669334930506958	yeast_GE_7.txt_mlpout_L13_5.mlp
+SGD-SWI4_1_psam.mlp	0.6666587786248912	yeast_GE_7.txt_mlpout_L13_3.mlp
+SGD-FKH1_2_psam.mlp	0.6664196268298741	yeast_GE_7.txt_mlpout_L7_6.mlp
+SGD-SWI4_2_psam.mlp	0.6624827935719759	yeast_GE_7.txt_mlpout_L6_4.mlp
+SGD-SWI5_psam.mlp	0.6612874010055199	yeast_GE_7.txt_mlpout_L13_4.mlp
+SGD-NDD1_psam.mlp	0.6571097844505966	yeast_GE_7.txt_mlpout_L13_4.mlp
+SGD-SWI4_2_psam.mlp	0.6537222425608556	yeast_GE_7.txt_mlpout_L8_3.mlp
+SGD-MCM1_2_psam.mlp	0.6537078685426079	yeast_GE_7.txt_mlpout_L6_4.mlp
+Matched File name	Similairty Score	yeast_GE_7.txt_mlpout_L9_6.mlp
+Matched File name	Similairty Score	yeast_GE_7.txt_mlpout_L9_5.mlp
+Matched File name	Similairty Score	yeast_GE_7.txt_mlpout_L9_4.mlp
+Matched File name	Similairty Score	yeast_GE_7.txt_mlpout_L9_3.mlp
+Matched File name	Similairty Score	yeast_GE_7.txt_mlpout_L9_2.mlp
+Matched File name	Similairty Score	yeast_GE_7.txt_mlpout_L9_1.mlp
+Matched File name	Similairty Score	yeast_GE_7.txt_mlpout_L8_6.mlp
+Matched File name	Similairty Score	yeast_GE_7.txt_mlpout_L8_5.mlp
+Matched File name	Similairty Score	yeast_GE_7.txt_mlpout_L8_4.mlp
+Matched File name	Similairty Score	yeast_GE_7.txt_mlpout_L8_3.mlp
+Matched File name	Similairty Score	yeast_GE_7.txt_mlpout_L8_2.mlp
+Matched File name	Similairty Score	yeast_GE_7.txt_mlpout_L8_1.mlp
+Matched File name	Similairty Score	yeast_GE_7.txt_mlpout_L7_6.mlp
+Matched File name	Similairty Score	yeast_GE_7.txt_mlpout_L7_5.mlp
+Matched File name	Similairty Score	yeast_GE_7.txt_mlpout_L7_4.mlp
+Matched File name	Similairty Score	yeast_GE_7.txt_mlpout_L7_3.mlp
+Matched File name	Similairty Score	yeast_GE_7.txt_mlpout_L7_2.mlp
+Matched File name	Similairty Score	yeast_GE_7.txt_mlpout_L7_1.mlp
+Matched File name	Similairty Score	yeast_GE_7.txt_mlpout_L6_6.mlp
+Matched File name	Similairty Score	yeast_GE_7.txt_mlpout_L6_5.mlp
+Matched File name	Similairty Score	yeast_GE_7.txt_mlpout_L6_4.mlp
+Matched File name	Similairty Score	yeast_GE_7.txt_mlpout_L6_3.mlp
+Matched File name	Similairty Score	yeast_GE_7.txt_mlpout_L6_2.mlp
+Matched File name	Similairty Score	yeast_GE_7.txt_mlpout_L6_1.mlp
+Matched File name	Similairty Score	yeast_GE_7.txt_mlpout_L14_6.mlp
+Matched File name	Similairty Score	yeast_GE_7.txt_mlpout_L14_5.mlp
+Matched File name	Similairty Score	yeast_GE_7.txt_mlpout_L14_4.mlp
+Matched File name	Similairty Score	yeast_GE_7.txt_mlpout_L14_3.mlp
+Matched File name	Similairty Score	yeast_GE_7.txt_mlpout_L14_2.mlp
+Matched File name	Similairty Score	yeast_GE_7.txt_mlpout_L14_1.mlp
+Matched File name	Similairty Score	yeast_GE_7.txt_mlpout_L13_6.mlp
+Matched File name	Similairty Score	yeast_GE_7.txt_mlpout_L13_5.mlp
+Matched File name	Similairty Score	yeast_GE_7.txt_mlpout_L13_4.mlp
+Matched File name	Similairty Score	yeast_GE_7.txt_mlpout_L13_3.mlp
+Matched File name	Similairty Score	yeast_GE_7.txt_mlpout_L13_2.mlp
+Matched File name	Similairty Score	yeast_GE_7.txt_mlpout_L13_1.mlp
+Matched File name	Similairty Score	yeast_GE_7.txt_mlpout_L12_6.mlp
+Matched File name	Similairty Score	yeast_GE_7.txt_mlpout_L12_5.mlp
+Matched File name	Similairty Score	yeast_GE_7.txt_mlpout_L12_4.mlp
+Matched File name	Similairty Score	yeast_GE_7.txt_mlpout_L12_3.mlp
+Matched File name	Similairty Score	yeast_GE_7.txt_mlpout_L12_2.mlp
+Matched File name	Similairty Score	yeast_GE_7.txt_mlpout_L12_1.mlp
+Matched File name	Similairty Score	yeast_GE_7.txt_mlpout_L11_6.mlp
+Matched File name	Similairty Score	yeast_GE_7.txt_mlpout_L11_5.mlp
+Matched File name	Similairty Score	yeast_GE_7.txt_mlpout_L11_4.mlp
+Matched File name	Similairty Score	yeast_GE_7.txt_mlpout_L11_3.mlp
+Matched File name	Similairty Score	yeast_GE_7.txt_mlpout_L11_2.mlp
+Matched File name	Similairty Score	yeast_GE_7.txt_mlpout_L11_1.mlp
+Matched File name	Similairty Score	yeast_GE_7.txt_mlpout_L10_6.mlp
+Matched File name	Similairty Score	yeast_GE_7.txt_mlpout_L10_5.mlp
+Matched File name	Similairty Score	yeast_GE_7.txt_mlpout_L10_4.mlp
+Matched File name	Similairty Score	yeast_GE_7.txt_mlpout_L10_3.mlp
+Matched File name	Similairty Score	yeast_GE_7.txt_mlpout_L10_2.mlp
+Matched File name	Similairty Score	yeast_GE_7.txt_mlpout_L10_1.mlp

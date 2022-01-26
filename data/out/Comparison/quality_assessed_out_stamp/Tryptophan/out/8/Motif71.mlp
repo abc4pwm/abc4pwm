@@ -1,0 +1,12 @@
+	SPIB_1	#	SPIB_1	SPIB_jaspar_MA0081.1
+dummy 	 # p-value #File converted from TRANSFAC
+dummy 	 # benferroni
+dummy 0 1 0 0 0 1 1 1 1 	 #derived from leading strand
+#	A	C	G	T
+W	2.531	0.000	0.000	1.469
+S	0.327	1.143	2.367	0.163
+M	1.959	1.306	0.571	0.163
+G	0.163	0.000	3.837	0.000
+G	0.082	0.000	3.837	0.082
+A	3.918	0.000	0.000	0.082
+A	3.837	0.000	0.000	0.163

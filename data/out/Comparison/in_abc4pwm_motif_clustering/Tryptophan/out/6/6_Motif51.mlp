@@ -1,0 +1,15 @@
+	FLI1_1	#	FLI1_1	FLI1_jolma_DBD_M112
+dummy 	 # p-value #File converted from TRANSFAC
+dummy 	 # benferroni
+dummy 0 1 0 0 0 1 1 1 1 	 #derived from leading strand
+#	A	C	G	T
+R	2.605	0.255	0.724	0.416
+C	0.348	3.240	0.346	0.066
+C	0.409	3.569	0.021	0.000
+G	0.000	0.000	4.000	0.000
+G	0.000	0.004	3.991	0.005
+A	3.994	0.003	0.000	0.002
+W	2.940	0.116	0.004	0.940
+R	1.823	0.108	2.031	0.038
+Y	0.128	1.145	0.248	2.480
+V	0.846	1.130	1.437	0.587

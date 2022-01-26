@@ -1,0 +1,14 @@
+	SNAI2_1	#	SNAI2_1	SNAI2_jolma_DBD_M28
+dummy 	 # p-value #File converted from TRANSFAC
+dummy 	 # benferroni
+dummy 0 1 0 0 0 1 1 1 1 	 #derived from leading strand
+#	A	C	G	T
+D	1.372	0.569	1.274	0.785
+R	1.726	0.144	1.627	0.503
+C	0.168	3.613	0.087	0.131
+A	3.790	0.065	0.027	0.118
+G	0.489	0.044	3.350	0.117
+G	0.013	0.000	3.975	0.012
+T	0.002	0.019	0.000	3.979
+G	0.417	0.146	2.882	0.555
+B	0.356	1.357	0.915	1.371

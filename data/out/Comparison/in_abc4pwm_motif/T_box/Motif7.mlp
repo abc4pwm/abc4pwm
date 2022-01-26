@@ -1,0 +1,15 @@
+	TBX21_5	#	TBX21_5	TBX21_jolma_full_M277
+dummy 	 # p-value #File converted from TRANSFAC
+dummy 	 # benferroni
+dummy 0 1 0 0 0 1 1 1 1 	 #derived from leading strand
+#	A	C	G	T
+D	2.114	0.239	0.853	0.794
+A	3.566	0.024	0.291	0.118
+G	0.434	0.169	3.115	0.282
+G	0.002	0.015	3.953	0.030
+T	0.005	0.157	0.014	3.824
+G	0.001	0.000	3.997	0.002
+T	0.150	0.268	0.028	3.555
+G	0.064	0.102	3.541	0.293
+A	3.966	0.000	0.034	0.000
+W	2.730	0.274	0.197	0.799

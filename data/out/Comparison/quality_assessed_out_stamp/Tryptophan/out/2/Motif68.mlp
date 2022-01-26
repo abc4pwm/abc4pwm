@@ -1,0 +1,12 @@
+	IRF_known6	#	IRF_known6	IRF1_2	IRF-1_transfac_M00747
+dummy 	 # p-value #File converted from TRANSFAC
+dummy 	 # benferroni
+dummy 0 1 0 0 0 1 1 1 1 	 #derived from leading strand
+#	A	C	G	T
+T	0.267	0.000	0.000	3.733
+T	0.000	0.267	0.000	3.733
+C	0.000	4.000	0.000	0.000
+W	2.933	0.000	0.000	1.067
+B	0.000	2.133	1.067	0.800
+T	0.000	0.000	0.000	4.000
+T	0.000	0.000	0.000	4.000

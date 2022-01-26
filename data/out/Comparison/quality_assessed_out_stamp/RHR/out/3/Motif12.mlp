@@ -1,0 +1,15 @@
+	NFKB_known9	#	NFKB_known9	RELA_2	RELA_jaspar_MA0107.1
+dummy 	 # p-value #File converted from TRANSFAC
+dummy 	 # benferroni
+dummy 0 1 0 0 0 1 1 1 1 	 #derived from leading strand
+#	A	C	G	T
+S	0.000	0.889	2.444	0.667
+G	0.000	0.000	3.778	0.222
+G	0.000	0.000	4.000	0.000
+R	2.444	0.000	1.556	0.000
+R	2.222	0.667	0.889	0.222
+T	0.444	0.000	0.000	3.556
+T	0.000	0.000	0.000	4.000
+T	0.000	0.444	0.000	3.556
+C	0.000	4.000	0.000	0.000
+C	0.000	4.000	0.000	0.000

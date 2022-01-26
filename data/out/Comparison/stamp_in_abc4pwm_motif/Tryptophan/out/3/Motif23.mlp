@@ -1,0 +1,15 @@
+	ETS_known18	#	ETS_known18	GABPA_3	GABPA_jolma_full_M116
+dummy 	 # p-value #File converted from TRANSFAC
+dummy 	 # benferroni
+dummy 0 1 0 0 0 1 1 1 1 	 #derived from leading strand
+#	A	C	G	T
+R	2.375	0.591	0.849	0.185
+C	0.124	3.685	0.162	0.029
+C	0.149	3.841	0.000	0.010
+G	0.000	0.000	4.000	0.000
+G	0.000	0.020	3.939	0.041
+A	3.979	0.021	0.000	0.000
+W	3.132	0.008	0.114	0.746
+G	0.622	0.134	3.244	0.000
+T	0.050	0.546	0.160	3.244
+D	1.621	0.281	1.371	0.727

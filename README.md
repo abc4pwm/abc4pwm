@@ -1,6 +1,9 @@
 # abc4pwm 
 
 ============================Affinity Based Clustering for Position Weight Matrices============================
+published paper: 
+
+https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-022-04615-z#article-info
 
 
 A new tool for the clustering of Transcription Factors is designed that work on RNAseq, ChIPseq, Human Transfaction factors,

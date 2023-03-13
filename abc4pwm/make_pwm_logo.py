@@ -25,7 +25,7 @@ def write_logo_file(pwm, file_name, comment):
     p = subprocess.Popen(["weblogo", "-o", file_name, "-F", "png", "-D", "transfac", #"-U", "kT",
                           "--scale-width", "no", "-c", "classic", "-P", "", #"entropy: " + str(round(entropy, 1)),
                           "-t", comment, "--composition", "equiprobable", "--errorbars", "no", "--show-yaxis", "no",
-                          "--resolution", "1000"],
+                          "--resolution", "100"],
                          stdin=subprocess.PIPE, stderr=FNULL)
 
     transfac_matrix = 'PO\tA\tC\tG\tT\n'

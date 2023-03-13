@@ -28,7 +28,17 @@ from sklearn.cluster import AffinityPropagation
 
 class ClusteringPwm():
 
-    def __init__(self, input_folder_path, output_folder_path, in_dbd = True, minimum_pwms_in_dbd = 5, max_no_processors = 5, seed = 0, damp=0.5, max_iter=400, convergence_iter=30, preference=None):
+    def __init__(self, input_folder_path,
+                 output_folder_path,
+                 path_to_text_report='default',
+                 in_dbd = True,
+                 minimum_pwms_in_dbd=5,
+                 max_no_processors =5,
+                 seed = 0,
+                 damp=0.5,
+                 max_iter=400,
+                 convergence_iter=30,
+                 preference=None):
         """
 
         :param input_folder_path: this should point to folder which contain DBD folders
@@ -43,6 +53,7 @@ class ClusteringPwm():
         :param preference: default=None Preferences for each point - points with larger values of preferences are more likely to be chosen as exemplars.
         The number of exemplars, ie of clusters, is influenced by the input preferences value. If the preferences are not passed as arguments, they will be set to the median of the input similarities.
         """
+
         if in_dbd:
             print("\nTask: Clustering of TFs based on their DNA Binding Domain")
         else:
@@ -56,8 +67,12 @@ class ClusteringPwm():
         if not os.path.exists(output_folder_path):
             os.makedirs(output_folder_path, exist_ok=True)
 
+        if 'default' in path_to_text_report:
+            path_to_text_reports = os.path.join(out_dir, "reports_in_text")
+        else:
+            path_to_text_reports = path_to_text_report
         if not in_dbd:
-            clusteringClassobj = non_dbd_ClusteringPwm(input_folder_path, output_folder_path, seed, damp, max_iter, convergence_iter, preference)
+            clusteringClassobj = non_dbd_ClusteringPwm(input_folder_path, output_folder_path, path_to_text_reports, seed, damp, max_iter, convergence_iter, preference)
             exit()
         self.empty_dir(output_folder_path)
         self.minimum_pwms_in_dbd = minimum_pwms_in_dbd
@@ -78,7 +93,6 @@ class ClusteringPwm():
             self.drive_clustering(self, path_to_dbd, seed, damp, max_iter, convergence_iter, preference)
 
 
-        path_to_text_reports = os.path.join(out_dir, 'reports_in_text/')
 
         if os.path.exists(os.path.join(path_to_text_reports,"clusterSummary.txt")):
             os.remove(os.path.join(path_to_text_reports,"clusterSummary.txt"))
@@ -101,7 +115,7 @@ class ClusteringPwm():
 
         print("Task completed. \n "
               "Please see clusters in : ", input_folder_path, "<dbd_folder>/out \n"
-              "Clustering summary in data/out/reports_in_text")
+              "Clustering summary in , ", path_to_text_reports)
 
 
     @staticmethod
@@ -114,6 +128,8 @@ class ClusteringPwm():
 
         pwms = [i.split('/')[-1] for i in glob(os.path.join(inputdir, "*.mlp"))]
         pwms = sorted(pwms)
+        print(self.minimum_pwms_in_dbd)
+        print(type(self.minimum_pwms_in_dbd))
         if len(pwms) < int(self.minimum_pwms_in_dbd):
 
             self.unclustered_dbds+=1
@@ -258,3 +274,7 @@ class ClusteringPwm():
 
 if __name__ == "__main__":
     clusteringClassobj = ClusteringPwm('../data/out/classification_out', '../data/out/clustering_out/')
+    # clusteringClassobj = ClusteringPwm('../../../abc4pwm_working/AffinityPropogation_Clustering/to_omer/true_peaks/motif_out/neil2-ko/',
+    #                                    '../../../abc4pwm_working/AffinityPropogation_Clustering/to_omer/out_cluster/neil2-ko/test1',
+    #                                    path_to_text_report='../../../abc4pwm_working/AffinityPropogation_Clustering/to_omer/out_cluster/neil2-ko/test1',
+    #                                    in_dbd=0)

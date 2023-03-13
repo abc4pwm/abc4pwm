@@ -25,7 +25,7 @@ from sklearn.cluster import AffinityPropagation
 
 class non_dbd_ClusteringPwm():
 
-    def __init__(self, input_folder_path, output_folder_path, seed,  damp, max_iter, convergence_iter, preference, max_no_processors = 5):
+    def __init__(self, input_folder_path, output_folder_path, path_to_text_report, seed,  damp, max_iter, convergence_iter, preference, max_no_processors = 5):
         """
 
         :param input_folder_path: this should point to folder which contain DBD folders
@@ -65,7 +65,7 @@ class non_dbd_ClusteringPwm():
         self.non_dbd_drive_clustering(self, input_folder_path, seed,  damp, max_iter, convergence_iter, preference)
 
 
-        path_to_text_reports = os.path.join(out_dir, 'reports_in_text/')
+        path_to_text_reports = path_to_text_report
 
         if not os.path.exists(path_to_text_reports):
             os.makedirs(path_to_text_reports)
@@ -85,7 +85,7 @@ class non_dbd_ClusteringPwm():
 
         print("Task completed. \n "
               "Please see clusters in : ", input_folder_path, "\n"
-              "Clustering summary in data/out/reports_in_text")
+              "Clustering summary in ", path_to_text_report)
 
 
     @staticmethod

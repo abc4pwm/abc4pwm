@@ -89,6 +89,10 @@ def setup_commandline_arguments():
                                             help="This path will have the output files.",
                                             type=str, metavar="FOLDER")
 
+        parser_clustering_pwms.add_argument("--path_to_txt",
+                                            help="This path will have the summary out file.",
+                                            type=str, metavar="FOLDER")
+
         parser_clustering_pwms.add_argument("--in_dbd",
                                                help="(Optional) This should be 0 if you want to cluster all pwms together with no DBD information. "
                                                     "1 by default ",
@@ -525,6 +529,7 @@ if __name__ == "__main__":
     elif args.command == 'clustering':
         clustering.ClusteringPwm(args.dbd_folders_directory,
                                  args.output_directory,
+                                 args.path_to_txt,
                                  args.in_dbd,
                                  args.minimum_pwms_in_dbd,
                                  args.max_processors,

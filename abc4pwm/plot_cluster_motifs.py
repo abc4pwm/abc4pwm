@@ -93,7 +93,6 @@ class plottingCluster():
     def plotdirectory(self, directoryname):                   #plotting motif images
 
         clustercheckspwms = [i for i in sorted(os.listdir(directoryname)) if i.endswith('.mlp') ]
-
         for i in clustercheckspwms:
             print(i)
             if not i.endswith('.png'):

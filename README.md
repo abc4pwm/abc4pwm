@@ -365,3 +365,15 @@ optional arguments:
 
 ----------------------------Example-------------------
 Examples of all modules are given in demo folder
+
+<head>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-5P2Y2X9SQS"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-5P2Y2X9SQS');
+</script>
+</head>

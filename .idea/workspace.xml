@@ -1,0 +1,794 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/abc4pwm/format_conversion.py" line="74" mnemonic="7" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7e837ce5-550d-419e-abb2-07b9f9fa1144" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="AffinityPropogation_Clustering" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/abc4pwm/pwm_representative_test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3030">
+              <caret line="212" column="68" selection-start-line="212" selection-start-column="68" selection-end-line="212" selection-end-column="68" />
+              <folding>
+                <element signature="e#0#14#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/abc4pwm/plot_cluster_motifs.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="440">
+              <caret line="168" column="32" selection-start-line="168" selection-start-column="32" selection-end-line="168" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/abc4pwm/quality_assessment.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="19">
+              <caret line="110" column="41" selection-start-line="110" selection-start-column="41" selection-end-line="110" selection-end-column="41" />
+              <folding>
+                <element signature="e#1#15#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/abc4pwm/visualize.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="313">
+              <caret line="51" lean-forward="true" selection-start-line="51" selection-end-line="51" />
+              <folding>
+                <element signature="e#0#31#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/abc4pwm/ensemble_learning.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2610">
+              <caret line="174" selection-start-line="174" selection-end-line="174" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/abc4pwm/abc4pwm">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="41">
+              <caret line="462" column="46" selection-start-line="462" selection-start-column="46" selection-end-line="462" selection-end-column="46" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/abc4pwm/searching.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1355">
+              <caret line="220" column="41" lean-forward="true" selection-start-line="220" selection-start-column="41" selection-end-line="220" selection-end-column="41" />
+              <folding>
+                <element signature="e#0#11#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/abc4pwm/make_pwm_logo.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="27" column="44" selection-start-line="27" selection-start-column="44" selection-end-line="27" selection-end-column="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>res</find>
+      <find>utf</find>
+      <find>+</find>
+      <find>JP</find>
+      <find>ends</find>
+      <find>;</find>
+      <find>@</find>
+      <find>len</find>
+      <find>eq</find>
+      <find>elsif</find>
+      <find>strict</find>
+      <find>c_out_plots/</find>
+      <find>print</find>
+      <find>nonO</find>
+      <find>DOMAIN FACT</find>
+      <find>scripts_high</find>
+      <find>hmst_seq_analyzer</find>
+      <find>folderize_DBDs</find>
+      <find>classmethod</find>
+      <find>bad_pwm</find>
+      <find>allign_length</find>
+      <find>0.8</find>
+      <find>dbd_for</find>
+      <find>no pw</find>
+      <find>in_dbd</find>
+      <find>list</find>
+      <find>copy_dir</find>
+      <find>glo</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+      <replace>length</replace>
+      <replace>==</replace>
+      <replace>elif</replace>
+      <replace>c_out_plots/</replace>
+      <replace>c_out/</replace>
+      <replace>scripts</replace>
+      <replace>ap_clustering</replace>
+      <replace>staticmethod</replace>
+      <replace>minimum_allign_length</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/data/run2.sh" />
+        <option value="$PROJECT_DIR$/abc4pwm/demo_ensemble_omer.sh" />
+        <option value="$PROJECT_DIR$/abc4pwm/run22.sh" />
+        <option value="$PROJECT_DIR$/abc4pwm/searching.py" />
+        <option value="$PROJECT_DIR$/readme.txt" />
+        <option value="$PROJECT_DIR$/abc4pwm/run_bayesPI_parallel_by_motifLength.pl" />
+        <option value="$PROJECT_DIR$/abc4pwm/mp_utils.py" />
+        <option value="$PROJECT_DIR$/demo/demo_clean_database.sh" />
+        <option value="$PROJECT_DIR$/demo/demo_classification.sh" />
+        <option value="$PROJECT_DIR$/demo/demo_clustering.sh" />
+        <option value="$PROJECT_DIR$/demo/demo_representative.sh" />
+        <option value="$PROJECT_DIR$/demo/demo_plot_cluster.sh" />
+        <option value="$PROJECT_DIR$/demo/demo_ensemble.sh" />
+        <option value="$PROJECT_DIR$/demo/demo_investigate.sh" />
+        <option value="$PROJECT_DIR$/demo/demo_searching.sh" />
+        <option value="$PROJECT_DIR$/demo/demo_conversion.sh" />
+        <option value="$PROJECT_DIR$/demo/demo_text_tfdb.sh" />
+        <option value="$PROJECT_DIR$/abc4pwm/cleandatabase_for_classification.py" />
+        <option value="$PROJECT_DIR$/demo/demo_quality_assesment.sh" />
+        <option value="$PROJECT_DIR$/demo/run.sh" />
+        <option value="$PROJECT_DIR$/setup.py" />
+        <option value="$PROJECT_DIR$/MANIFEST.in" />
+        <option value="$PROJECT_DIR$/demo/10demo_ensemble.sh" />
+        <option value="$PROJECT_DIR$/demo/demo_all_modules/11demo_investigate.sh" />
+        <option value="$PROJECT_DIR$/demo/demo_all_modules/10demo_ensemble.sh" />
+        <option value="$PROJECT_DIR$/demo/demo_all_modules/9demo_text_tfdb.sh" />
+        <option value="$PROJECT_DIR$/abc4pwm/text_tfdb.py" />
+        <option value="$PROJECT_DIR$/demo/demo_all_modules/8demo_searching.sh" />
+        <option value="$PROJECT_DIR$/demo/demo_all_modules/7demo_conversion.sh" />
+        <option value="$PROJECT_DIR$/demo/demo_all_modules/5demo_representative.sh" />
+        <option value="$PROJECT_DIR$/demo/demo_all_modules/3demo_clustering.sh" />
+        <option value="$PROJECT_DIR$/demo/demo_all_modules/2demo_classification.sh" />
+        <option value="$PROJECT_DIR$/demo/demo_motif_search_for_yeast/demo_motif_search_yeast.sh" />
+        <option value="$PROJECT_DIR$/demo/demo_motif_search_for_yeast/demo_motif_search_yeast_investigate.sh" />
+        <option value="$PROJECT_DIR$/abc4pwm/ensembling_compare.py" />
+        <option value="$PROJECT_DIR$/demo/demo_motif_search_for_ere2/demo_motif_search_ere2_ensemble.sh" />
+        <option value="$PROJECT_DIR$/demo/demo_motif_search_for_ere2/demo_motif_search_ere2_investigate.sh" />
+        <option value="$PROJECT_DIR$/demo/demo_all_modules/1demo_clean_database.sh" />
+        <option value="$PROJECT_DIR$/demo/demo_all_modules/6demo_plot_cluster.sh" />
+        <option value="$PROJECT_DIR$/demo_chromHMM.sh" />
+        <option value="$PROJECT_DIR$/abc4pwm/pwm_representative_test.py" />
+        <option value="$PROJECT_DIR$/abc4pwm/plot_cluster_motifs.py" />
+        <option value="$PROJECT_DIR$/abc4pwm/test.py" />
+        <option value="$PROJECT_DIR$/demo/demo_yeast_cellcycle/demo_bsh_bayespi.sh" />
+        <option value="$PROJECT_DIR$/abc4pwm/ensemble_learning.py" />
+        <option value="$PROJECT_DIR$/abc4pwm/abc4pwm" />
+        <option value="$PROJECT_DIR$/abc4pwm/quality_assessment.py" />
+        <option value="$PROJECT_DIR$/demo/demo_all_modules/4demo_quality_assesment.sh" />
+        <option value="$PROJECT_DIR$/data/in/quality_df.json" />
+        <option value="$PROJECT_DIR$/abc4pwm/visualize.py" />
+        <option value="$PROJECT_DIR$/abc4pwm/make_pwm_logo.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="AffinityPropogation_Clustering" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AffinityPropogation_Clustering" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AffinityPropogation_Clustering" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AffinityPropogation_Clustering" type="462c0819:PsiDirectoryNode" />
+              <item name="abc4pwm" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AffinityPropogation_Clustering" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AffinityPropogation_Clustering" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AffinityPropogation_Clustering" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AffinityPropogation_Clustering" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+              <item name="in" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/data/out/convert/to_transfac" />
+      <recent name="$PROJECT_DIR$/data/out/convert/to_abc" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/abc4pwm" />
+      <recent name="$PROJECT_DIR$/data/out/convert/to_abc" />
+      <recent name="$PROJECT_DIR$/data" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/testdata/in" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Bash.demo_bsh_bayespi.sh">
+    <configuration name="demo_bsh_bayespi.sh" type="BashConfigurationType" factoryName="Bash" temporary="true">
+      <module name="AffinityPropogation_Clustering" />
+      <option name="INTERPRETER_OPTIONS" value="bash" />
+      <option name="INTERPRETER_PATH" value="/usr/bin/env" />
+      <option name="PROJECT_INTERPRETER" value="false" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/demo/demo_yeast_cellcycle" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/demo/demo_yeast_cellcycle/demo_bsh_bayespi.sh" />
+      <option name="PARAMETERS" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="abc4pwm" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="AffinityPropogation_Clustering" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/abc4pwm" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/abc4pwm/abc4pwm" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="energy_to_p" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="AffinityPropogation_Clustering" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/abc4pwm" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/abc4pwm/energy_to_p.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="format_conversion" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="AffinityPropogation_Clustering" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/abc4pwm" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/abc4pwm/format_conversion.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="searching" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="AffinityPropogation_Clustering" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/abc4pwm" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/abc4pwm/searching.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Bash.demo_bsh_bayespi.sh" />
+      <item itemvalue="Python.format_conversion" />
+      <item itemvalue="Python.energy_to_p" />
+      <item itemvalue="Python.searching" />
+      <item itemvalue="Python.abc4pwm" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Bash.demo_bsh_bayespi.sh" />
+        <item itemvalue="Python.abc4pwm" />
+        <item itemvalue="Python.searching" />
+        <item itemvalue="Python.format_conversion" />
+        <item itemvalue="Python.energy_to_p" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7e837ce5-550d-419e-abb2-07b9f9fa1144" name="Default Changelist" comment="" />
+      <created>1575302260742</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575302260742</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.79334915" visible="true" weight="0.11802575" />
+      <window_info id="Structure" order="1" sideWeight="0.5173675" side_tool="true" weight="0.21316166" />
+      <window_info id="Favorites" order="2" sideWeight="0.20665084" side_tool="true" weight="0.11128861" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3283186" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4985694" weight="0.32650602" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39823008" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32891566" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" sideWeight="0.49785408" visible="true" weight="0.24096386" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50214595" side_tool="true" weight="0.30963856" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.32469305" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="R Graphics" order="3" />
+      <window_info anchor="right" id="R Packages" order="4" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.488117" visible="true" weight="0.2074392" />
+      <window_info id="Structure" order="1" sideWeight="0.5208333" side_tool="true" weight="0.1882674" />
+      <window_info id="Favorites" order="2" sideWeight="0.511883" side_tool="true" weight="0.1881259" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32891566" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49928468" weight="0.32771084" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3987952" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32891566" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" sideWeight="0.4985694" visible="true" weight="0.34096387" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50143063" side_tool="true" weight="0.34096387" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.32771084" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="R Graphics" order="3" />
+      <window_info anchor="right" id="R Packages" order="4" />
+    </layout-to-restore>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>sorted(os.listdir(indir))</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>sorted(os.listdir(indir)</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>i.decode('utf-8')</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>i</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>str(i)</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>inputdir+i</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/demo/1demo_clean_database.sh" />
+    <entry file="file://$PROJECT_DIR$/demo/5demo_representative.sh" />
+    <entry file="file://$PROJECT_DIR$/demo/8demo_searching.sh" />
+    <entry file="file://$PROJECT_DIR$/demo/9demo_text_tfdb.sh" />
+    <entry file="file://$PROJECT_DIR$/demo/run.sh" />
+    <entry file="file://$PROJECT_DIR$/setup.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="20" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/10demo_ensemble.sh" />
+    <entry file="file://$PROJECT_DIR$/MANIFEST.in">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/run2.sh" />
+    <entry file="file://$PROJECT_DIR$/demo/demo_all_modules/9demo_text_tfdb.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="85" selection-start-line="2" selection-start-column="85" selection-end-line="2" selection-end-column="85" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/abc4pwm/text_tfdb.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="20" column="50" selection-start-line="20" selection-start-column="50" selection-end-line="20" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/demo_all_modules/8demo_searching.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="161" selection-start-line="2" selection-start-column="161" selection-end-line="2" selection-end-column="161" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/demo_all_modules/7demo_conversion.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="107" selection-start-line="11" selection-start-column="107" selection-end-line="11" selection-end-column="107" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/demo_all_modules/5demo_representative.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="94" selection-start-line="3" selection-start-column="94" selection-end-line="3" selection-end-column="94" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/abc4pwm/requirements" />
+    <entry file="file://$PROJECT_DIR$/demo/demo_motif_search_for_yeast/demo_motif_search_yeast.sh" />
+    <entry file="file://$PROJECT_DIR$/demo/demo_all_modules/11demo_investigate.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="33" selection-start-line="2" selection-end-line="2" selection-end-column="316" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/demo_all_modules/10demo_ensemble.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="51" lean-forward="true" selection-start-line="2" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/demo_motif_search_for_yeast/demo_motif_search_yeast_investigate.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="155" lean-forward="true" selection-start-line="2" selection-end-line="2" selection-end-column="316" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/demo_motif_search_for_ere2/demo_motif_search_ere2_investigate.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="105" lean-forward="true" selection-start-line="2" selection-start-column="105" selection-end-line="2" selection-end-column="105" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/demo_motif_search_for_yeast/demo_motif_search_yeast_ensemble.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/demo_all_modules/3demo_clustering.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="100" selection-start-line="2" selection-start-column="100" selection-end-line="2" selection-end-column="100" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/demo_all_modules/2demo_classification.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="157" selection-start-line="2" selection-start-column="157" selection-end-line="2" selection-end-column="157" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/demo_all_modules/1demo_clean_database.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="98" selection-start-line="4" selection-start-column="98" selection-end-line="4" selection-end-column="98" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.virtualenvs/test/lib/python3.7/site-packages/abc4pwm-0.1-py3.7.egg/abc4pwm/plot_cluster_motifs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="187" column="24" lean-forward="true" selection-start-line="187" selection-start-column="24" selection-end-line="187" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/in/seq/demo_swi4_0.5Kseq_cacgaaaa_500.fa">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/in/expression/demo_swi4_0.5Kseq_cacgaaaa_500.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo_chromHMM.sh" />
+    <entry file="file://$PROJECT_DIR$/abc4pwm/clustering.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="23" column="16" selection-start-line="23" selection-end-line="24" />
+          <folding>
+            <element signature="e#110#128#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/demo_motif_search_for_ere2/demo_motif_search_ere2_ensemble.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="223" selection-start-line="2" selection-start-column="223" selection-end-line="2" selection-end-column="223" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/abc4pwm/test.py" />
+    <entry file="file://$PROJECT_DIR$/demo/demo_all_modules/6demo_plot_cluster.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="155" selection-start-line="4" selection-start-column="155" selection-end-line="4" selection-end-column="155" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/abc4pwm/ensemble_learning 2.py" />
+    <entry file="file://$PROJECT_DIR$/abc4pwm/cleandatabase_for_classification.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="627">
+          <caret line="127" column="49" selection-start-line="127" selection-start-column="49" selection-end-line="127" selection-end-column="49" />
+          <folding>
+            <element signature="e#109#133#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/run" />
+    <entry file="file://$PROJECT_DIR$/abc4pwm/pwm_representative_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3030">
+          <caret line="212" column="68" selection-start-line="212" selection-start-column="68" selection-end-line="212" selection-end-column="68" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/demo_yeast_cellcycle/demo_bsh_abc4pwm_s0.sh">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/demo_yeast_cellcycle/demo_bsh_abc4pwm_s1.sh">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/demo_yeast_cellcycle/readme">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/demo_yeast_cellcycle/demo_bsh_bayespi.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/abc4pwm/quality_assessment.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="110" column="41" selection-start-line="110" selection-start-column="41" selection-end-line="110" selection-end-column="41" />
+          <folding>
+            <element signature="e#1#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/demo_all_modules/4demo_quality_assesment.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="314" selection-start-line="2" selection-start-column="314" selection-end-line="2" selection-end-column="314" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/in/quality_df.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret column="5566" selection-end-column="142933" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/abc4pwm/visualize.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="313">
+          <caret line="51" lean-forward="true" selection-start-line="51" selection-end-line="51" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/abc4pwm/plot_cluster_motifs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="168" column="32" selection-start-line="168" selection-start-column="32" selection-end-line="168" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/abc4pwm/ensembling_compare.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="103" column="64" selection-start-line="103" selection-start-column="64" selection-end-line="103" selection-end-column="64" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/abc4pwm/ensemble_learning.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2610">
+          <caret line="174" selection-start-line="174" selection-end-line="174" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/readme.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="575">
+          <caret line="374" selection-start-line="374" selection-end-line="374" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/abc4pwm/abc4pwm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="41">
+          <caret line="462" column="46" selection-start-line="462" selection-start-column="46" selection-end-line="462" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/abc4pwm/searching.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1355">
+          <caret line="220" column="41" lean-forward="true" selection-start-line="220" selection-start-column="41" selection-end-line="220" selection-end-column="41" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/abc4pwm/make_pwm_logo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="27" column="44" selection-start-line="27" selection-start-column="44" selection-end-line="27" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

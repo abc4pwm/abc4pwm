@@ -1,7 +1,8 @@
 from setuptools import setup
 
 
-
+#jbw 2024, here added four required pacakges!!
+#scikit-learn, requests','fpdf','pillow'
 setup(name='abc4pwm',
       version='0.1',
       description='Affinity Based Clustering for Position Weight Matrices',
@@ -15,8 +16,8 @@ setup(name='abc4pwm',
           'numpy',
           'scipy',
           'weblogo',
-          'sklearn',
-          'lxml',
+          'scikit-learn',
+          'lxml','requests','fpdf','pillow',
           'bs4'
       ],
     scripts=['abc4pwm/abc4pwm']

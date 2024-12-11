@@ -105,7 +105,8 @@ class PredictedCompare():
         self.prepare_for_clustering(path_to_predicted_files, dst_folder)
         print("step 1: Prepare for clustering Done")
         cluster_out_folder = os.path.join(temp2_folder,'clustering_out/')
-        self.do_clustering(dst_folder, cluster_out_folder, seed,  damp, max_iter, convergence_iter, preference)
+        #jbw 2024
+        self.do_clustering(dst_folder, cluster_out_folder,path_to_text_report,  seed,  damp, max_iter, convergence_iter, preference)
         print("step 2: Clustering Done")
 
         if qa:
@@ -119,9 +120,20 @@ class PredictedCompare():
                                     top_occurrence=top_occurrence,
                                     occurrence_threshold=occurrences_threshold)
 
-        self.make_rep(os.path.join(out_path_for_qa_clusters, 'out/'), dbd='selected', clusters='all', ic=ic_for_rep,
+        #jbw 2024
+        tmp_path_for_clusters=os.path.join(out_path_for_qa_clusters, 'out/')
+        if not os.path.exists(tmp_path_for_clusters):
+              os.makedirs(tmp_path_for_clusters)
+
+        #self.make_rep(os.path.join(out_path_for_qa_clusters, 'out/'), dbd='selected', clusters='all', ic=ic_for_rep,
+        #         best_match_initial_motif=1, mean_threshold=mean_threshold, z_score_threshold=z_score_threshold,
+        #         top_occurrence=top_occurrence, occurrences_threshold=occurrences_threshold)
+
+        self.make_rep(tmp_path_for_clusters, dbd='selected', clusters='all', ic=ic_for_rep,
                  best_match_initial_motif=1, mean_threshold=mean_threshold, z_score_threshold=z_score_threshold,
                  top_occurrence=top_occurrence, occurrences_threshold=occurrences_threshold)
+        #end jbw
+
         predicted_folder = os.path.join(temp2_folder,'predicted')
         self.ensembling_compare_investigate(os.path.join(out_path_for_qa_clusters, 'out/'),
                                        predicted=predicted_folder, min_threshold_for_number_of_pwms=min_pwms_in_cluster)
@@ -157,8 +169,9 @@ class PredictedCompare():
         pwms = sorted(pwms)
         for pwm in pwms:
             shutil.copy(pwm,dst)
-    def do_clustering(self, in_folder, out_folder, seed, damp, max_iter, convergence_iter, preference):
-        non_dbd_ClusteringPwm(in_folder,out_folder, seed, damp, max_iter, convergence_iter, preference)
+    #jbw 2024
+    def do_clustering(self, in_folder, out_folder, path_to_text_report, seed, damp, max_iter, convergence_iter, preference):
+        non_dbd_ClusteringPwm(in_folder,out_folder, path_to_text_report, seed, damp, max_iter, convergence_iter, preference)
 
     def make_rep(self, path_to_clusters,  dbd = 'selected', clusters = 'all' , ic = 0.4 , best_match_initial_motif = 1, mean_threshold= 0.75, z_score_threshold = -0.9,
                      top_occurrence = 0.35, occurrences_threshold=0.25):

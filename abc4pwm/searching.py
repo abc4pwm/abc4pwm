@@ -241,7 +241,8 @@ def plot_search_result(pwm, resulted_matches_path, out, n_items, db_file_type, i
     path_to_pdfs = out
     if not os.path.exists(path_to_pdfs):
         os.makedirs(path_to_pdfs, exist_ok=True)
-    pdfname = os.path.join(out + 'search_result.pdf')
+    #jbw 2024
+    pdfname = os.path.join(out , 'search_result.pdf')
     pdf.output(pdfname, "F")
 
 def croping(img, type = 'common'):           #cropping image
@@ -271,12 +272,16 @@ def croping(img, type = 'common'):           #cropping image
         basewidth = 200
         wpercent = (basewidth/float(im1.size[0]))
         hsize = int((float(im1.size[1])*float(wpercent)))
-        im1 = im1.resize((basewidth,hsize), Image.ANTIALIAS)
+        #jbw 2024
+        #im1 = im1.resize((basewidth,hsize), Image.ANTIALIAS)
+        im1 = im1.resize((basewidth,hsize), Image.Resampling.LANCZOS)
     elif 'rep' in type:
         basewidth = 400
         wpercent = (basewidth / float(im1.size[0]))
         hsize = int((float(im1.size[1]) * float(wpercent)))
-        im1 = im1.resize((basewidth, hsize), Image.ANTIALIAS)
+        #jbw 2024
+        #im1 = im1.resize((basewidth, hsize), Image.ANTIALIAS)
+        im1 = im1.resize((basewidth, hsize),  Image.Resampling.LANCZOS)
     else:
         pass
     im1.save(temp)

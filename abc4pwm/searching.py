@@ -176,7 +176,9 @@ def searching(pwm, db_path, out, tf_name = '', db_type = 'path'  , db_format = '
     return matched_items, score_list_top
 
 def plot_search_result(pwm, resulted_matches_path, out, n_items, db_file_type, input_file_type):
-    pdf = FPDF()
+    #jbw 2024
+    #pdf = FPDF()
+    pdf=FPDF(orientation = 'P', unit = 'mm', format='A4')
     pdf.add_page()
     plotdirectory(resulted_matches_path, db_file_type)
 
@@ -212,8 +214,10 @@ def plot_search_result(pwm, resulted_matches_path, out, n_items, db_file_type, i
     rep_motif = path_to_rep_of_cluster
     image_path_rep = os.path.join(path_to_rep_of_cluster, str(pwm).split('/')[-1] +'.png')
     pdf.set_font('Arial', '', 8)
+    #jbw 2024
     croping(image_path_rep, 'rep')
-
+    
+    #jbw 2024
     pdf.image(image_path_rep)
 
     pdf.cell(100)
@@ -227,7 +231,9 @@ def plot_search_result(pwm, resulted_matches_path, out, n_items, db_file_type, i
 
     for index, motif in enumerate(motif_images_clusterf):
         image_path = os.path.join(path_to_pngs_of_cluster, motif)
+        #jbw 2024
         croping(image_path)
+        #jbw 2024
         pdf.image(image_path)
         pdf.set_font('Arial', '', 8)
         pdf.cell(100)
@@ -274,16 +280,17 @@ def croping(img, type = 'common'):           #cropping image
         hsize = int((float(im1.size[1])*float(wpercent)))
         #jbw 2024
         #im1 = im1.resize((basewidth,hsize), Image.ANTIALIAS)
-        im1 = im1.resize((basewidth,hsize), Image.Resampling.LANCZOS)
+        im1 = im1.resize((basewidth,hsize) , Image.Resampling.LANCZOS)
     elif 'rep' in type:
         basewidth = 400
         wpercent = (basewidth / float(im1.size[0]))
         hsize = int((float(im1.size[1]) * float(wpercent)))
         #jbw 2024
         #im1 = im1.resize((basewidth, hsize), Image.ANTIALIAS)
-        im1 = im1.resize((basewidth, hsize),  Image.Resampling.LANCZOS)
+        im1 = im1.resize((basewidth, hsize) ,  Image.Resampling.LANCZOS)
     else:
         pass
+    #jbw 2024
     im1.save(temp)
 
 

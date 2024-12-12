@@ -15,19 +15,19 @@ def make_logo(pwm_file):
         comment = "TF " + tf + "/" + num
     else:
         comment = ""
-
+    #jbw 2024
     write_logo_file(pwm, pwm_file + ".png", comment)
 
 
 def write_logo_file(pwm, file_name, comment):
 
     FNULL = open(os.devnull, 'w')
+    #jbw 2024  the resolution may be adjusted for different plots?? 
     p = subprocess.Popen(["weblogo", "-o", file_name, "-F", "png", "-D", "transfac", #"-U", "kT",
                           "--scale-width", "no", "-c", "classic", "-P", "", #"entropy: " + str(round(entropy, 1)),
                           "-t", comment, "--composition", "equiprobable", "--errorbars", "no", "--show-yaxis", "no",
-                          "--resolution", "100"],
+                          "--resolution", "200"],
                          stdin=subprocess.PIPE, stderr=FNULL)
-
     transfac_matrix = 'PO\tA\tC\tG\tT\n'
 
     for i in range(len(pwm)):

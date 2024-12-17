@@ -61,12 +61,16 @@ def searching(pwm, db_path, out, tf_name = '', db_type = 'path'  , db_format = '
         dbds = [i for i in os.listdir(db_path) if not i.endswith('.DS_Store')]
 
         for dbd in dbds:
+            #jbw 2024
+            #print(dbd)
             if os.path.exists(os.path.join(db_path, dbd, 'out/')):
                 clusters = [i for i in sorted(os.listdir(os.path.join(db_path, dbd, 'out/'))) if
                             not i.endswith('.DS_Store')]
-
+                #jbw 2024
+                #print(clusters)
                 for cluster in clusters:
-                    rep = os.path.join(db_path, dbd, 'out/', cluster, 'repres/_'+ str(cluster) +'_rep.mlp')
+                    #jbw_2024 add dbd or cluster name in the file name
+                    rep = os.path.join(db_path, dbd, 'out/', cluster, 'repres/'+ str(cluster) +'-'+dbd+'_rep.mlp')
                     if os.path.exists(rep):
                         matrix2, matrix_string2, maximum_feq2, total_maximum2, info2 = read_energy_matrix(rep)
                         if not db_count:
@@ -81,11 +85,15 @@ def searching(pwm, db_path, out, tf_name = '', db_type = 'path'  , db_format = '
                             matrix2 = normalized_matrix
                         score = compute_similarity_score4alignment(matrix1, matrix2)
                         score_list[rep] = score
+    #jbw 2024
+    elif 'folder' in db_type :
 
-    elif db_type in 'folder':
-
-        pwms = glob.glob(db_path+ "*"+tf_name+"*"+db_file_type)
-
+        #jbw 2024
+        print('Search in path: ')
+        tmp_search_path=os.path.join(db_path, "*"+tf_name+"*"+db_file_type)
+        pwms = glob.glob(tmp_search_path)
+        print(tmp_search_path)
+        #end 
 
         if 'abc4pwm' in db_format:
             for motif in pwms:
@@ -238,7 +246,14 @@ def plot_search_result(pwm, resulted_matches_path, out, n_items, db_file_type, i
         pdf.set_font('Arial', '', 8)
         pdf.cell(100)
         v = motif
-        tmp1 = v.split('-')[-1]
+        #jbw 2024 ???
+        if '-' in v:
+            #there is a DBD domain name in the file
+            tmp1 = v.split('-')[-1].replace('.mlp','').replace('.png','')
+        else:
+            #no DBD or cluster name in the file
+            tmp1= v.replace('.mlp','').replace('.png','')
+        
 
         stri = ''
         stri = "{:0.3f}".format(scores_for_printing[index])

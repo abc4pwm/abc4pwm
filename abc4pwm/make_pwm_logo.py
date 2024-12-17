@@ -22,7 +22,7 @@ def make_logo(pwm_file):
 def write_logo_file(pwm, file_name, comment):
 
     FNULL = open(os.devnull, 'w')
-    #jbw 2024  the resolution may be adjusted for different plots?? 
+    #jbw 2024 the resolution may be adjusted for different plots?? 
     p = subprocess.Popen(["weblogo", "-o", file_name, "-F", "png", "-D", "transfac", #"-U", "kT",
                           "--scale-width", "no", "-c", "classic", "-P", "", #"entropy: " + str(round(entropy, 1)),
                           "-t", comment, "--composition", "equiprobable", "--errorbars", "no", "--show-yaxis", "no",

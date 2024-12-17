@@ -61,8 +61,10 @@ def read_matrix_file(path):
         lst.append([float(x) for x in splited])
     return np.asarray(lst)
 
+#jbw 2024
+#add db_type
 def make_representative_pwm(path_to_clusters,  dbd = 'selected', clusters = 'all' , ic = 0.4 , best_match_initial_motif = 1, mean_threshold= 0.75, z_score_threshold = -0.9,
-                 top_occurrence = 0.35, occurrence_threshold=0.25):
+                 top_occurrence = 0.35, occurrence_threshold=0.25, db_type='folder'):
     """
 
     :param path_to_clusters: this path should be path to clusters for which you want to make a representative motif
@@ -75,7 +77,8 @@ def make_representative_pwm(path_to_clusters,  dbd = 'selected', clusters = 'all
     :param z_score_threshold: minimum negative z score for similarity of a pwm from mean
     :param top_occurrence: top occurences of pwms which qualify z score criteria
     :param occurrence_threshold: pick occurences threshold to declare unknown/wrongly clustered pwms
-
+    :param db_type: folder for common cluster, path for abc4pwm DBD clusters
+    %
     :return:
     """
     print('\nPreparing representative motifs...')
@@ -86,8 +89,9 @@ def make_representative_pwm(path_to_clusters,  dbd = 'selected', clusters = 'all
             if os.path.exists(os.path.join(path_to_clusters, dbd, 'out/')):
                 clusters = [i for i in sorted(os.listdir(os.path.join(path_to_clusters, dbd, 'out/'))) if
                         not i.endswith('.DS_Store')]
+                #jbw 2024
                 representaive_for_clusters(os.path.join(path_to_clusters, dbd, 'out/'),clusters, ic, best_match_initial_motif, mean_threshold, z_score_threshold,
-                 top_occurrence, occurrence_threshold)
+                 top_occurrence, occurrence_threshold,db_type)
         exit()
 
     else:
@@ -101,19 +105,28 @@ def make_representative_pwm(path_to_clusters,  dbd = 'selected', clusters = 'all
         for ind, i in enumerate(clusters):
             if not os.path.isdir(os.path.join(path_to_clusters, i)) or i.endswith('.txt'):
                 clusters.pop(ind)
+        #jbw 2024
         representaive_for_clusters(path_to_clusters, clusters, ic, best_match_initial_motif, mean_threshold,
                                    z_score_threshold,
-                                   top_occurrence, occurrence_threshold)
+                                   top_occurrence, occurrence_threshold,db_type)
 
     print('Task Completed')
+
 def representaive_for_clusters(in_folder, clusters, ic, best_match_initial_motif, mean_threshold, z_score_threshold,
-                 top_occurrence, occurrence_threshold):
+                 top_occurrence, occurrence_threshold, db_type):
 
     for cluster in clusters:
 
         addition = ''
         output_folder = os.path.join(in_folder, cluster, 'repres/')
-        file_name = cluster + '_rep.mlp'
+        #jbw 2024
+        if 'path' in db_type:
+          #add cluster or dbd name in the file name
+          tmp_cluster_name=os.path.normpath(output_folder).split(os.sep)[-4]
+          file_name = cluster + '-'+tmp_cluster_name+'_rep.mlp'
+        else:
+          file_name = cluster + '_rep.mlp'
+        #end
         if not os.path.exists(output_folder):
             os.makedirs(output_folder)
 

@@ -105,6 +105,7 @@ class PredictedCompare():
         self.prepare_for_clustering(path_to_predicted_files, dst_folder)
         print("step 1: Prepare for clustering Done")
         cluster_out_folder = os.path.join(temp2_folder,'clustering_out/')
+
         #jbw 2024
         self.do_clustering(dst_folder, cluster_out_folder,path_to_text_report,  seed,  damp, max_iter, convergence_iter, preference)
         print("step 2: Clustering Done")
@@ -128,13 +129,14 @@ class PredictedCompare():
         #self.make_rep(os.path.join(out_path_for_qa_clusters, 'out/'), dbd='selected', clusters='all', ic=ic_for_rep,
         #         best_match_initial_motif=1, mean_threshold=mean_threshold, z_score_threshold=z_score_threshold,
         #         top_occurrence=top_occurrence, occurrences_threshold=occurrences_threshold)
-
+        #jbw 2024 here use default db_type because it is commonly clustered pwms
         self.make_rep(tmp_path_for_clusters, dbd='selected', clusters='all', ic=ic_for_rep,
                  best_match_initial_motif=1, mean_threshold=mean_threshold, z_score_threshold=z_score_threshold,
-                 top_occurrence=top_occurrence, occurrences_threshold=occurrences_threshold)
+                 top_occurrence=top_occurrence, occurrences_threshold=occurrences_threshold )
         #end jbw
 
         predicted_folder = os.path.join(temp2_folder,'predicted')
+        #jbw 2024 here use default db_type because it is commonly clustered pwms
         self.ensembling_compare_investigate(os.path.join(out_path_for_qa_clusters, 'out/'),
                                        predicted=predicted_folder, min_threshold_for_number_of_pwms=min_pwms_in_cluster)
         print("step 3: Representative Motifs Done")
@@ -173,10 +175,11 @@ class PredictedCompare():
     def do_clustering(self, in_folder, out_folder, path_to_text_report, seed, damp, max_iter, convergence_iter, preference):
         non_dbd_ClusteringPwm(in_folder,out_folder, path_to_text_report, seed, damp, max_iter, convergence_iter, preference)
 
+    #jbw 2024
     def make_rep(self, path_to_clusters,  dbd = 'selected', clusters = 'all' , ic = 0.4 , best_match_initial_motif = 1, mean_threshold= 0.75, z_score_threshold = -0.9,
-                     top_occurrence = 0.35, occurrences_threshold=0.25):
+                     top_occurrence = 0.35, occurrences_threshold=0.25, db_type='folder'):
         make_representative_pwm(path_to_clusters,  dbd, clusters, ic , best_match_initial_motif, mean_threshold, z_score_threshold ,
-                     top_occurrence, occurrences_threshold)
+                     top_occurrence, occurrences_threshold,db_type)
 
     def empty_dir(self, folder):
         # function for deleting files from a folder
@@ -190,9 +193,8 @@ class PredictedCompare():
                     shutil.rmtree(file_path)
             except Exception as e:
                 print(('Failed to delete %s. Reason: %s' % (file_path, e)))
-    def ensembling_compare_investigate(self, path_of_clusters= 'out/clustering_out/out/',predicted = '', min_threshold_for_number_of_pwms= 3):
 
-
+    def ensembling_compare_investigate(self, path_of_clusters= 'out/clustering_out/out/',predicted = '', min_threshold_for_number_of_pwms= 3, db_type='folder'):
         clusters_list = [i for i in sorted(os.listdir(path_of_clusters)) if os.path.isdir(os.path.join(path_of_clusters, i))]
         clusters_list = [int(x) for x in clusters_list]
         clusters_list.sort()
@@ -207,8 +209,16 @@ class PredictedCompare():
                     os.makedirs(predicted)
 
             else:
-                src = os.path.join(path_of_clusters,str(cluster),"repres",str(cluster)+'_rep.mlp')
-                dst = os.path.join(predicted,pwms[0].split('/')[-1]+'_'+str(cluster)+'_rep.mlp')
+                #jbw 2024
+                if 'path' in db_type:
+                  #add cluster or dbd name to the file name
+                  tmp_cluster_name=os.path.normpath(path_of_clusters).split(os.sep)[2]
+                  src = os.path.join(path_of_clusters,str(cluster),"repres",str(cluster)+'-'+tmp_cluster_name+'_rep.mlp')
+                  dst = os.path.join(predicted,pwms[0].split('/')[-1]+'_'+str(cluster)+'-'+tmp_cluster_name+ '_rep.mlp')
+                else:
+                  src = os.path.join(path_of_clusters,str(cluster),"repres",str(cluster)+'_rep.mlp')
+                  dst = os.path.join(predicted,pwms[0].split('/')[-1]+'_'+str(cluster)+ '_rep.mlp')
+                #end
                 shutil.copy(src,dst)
 
 

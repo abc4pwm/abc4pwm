@@ -178,6 +178,13 @@ def setup_commandline_arguments():
                                                  "Value is between 0 to 1. Default value is 0.05",
                                             type=float, metavar="NUMBER", default=0.05)
 
+        #jbw 2024
+        parser_representative_fbp.add_argument("--db_type",
+                                            help="(Optional) db_type=path indicates DBD type of clusters with hierical structure. db_type=folder represent one folder contains all pwms"
+                                                 " ."
+                                                 "Either is path or folder, default is folder",
+                                            type=str, metavar="string", default='folder')
+        #end
         parser_quality_cluster = subparsers.add_parser('quality_assessment',
                                                        formatter_class=argparse.RawTextHelpFormatter,
                                                        help='',
@@ -553,6 +560,7 @@ if __name__ == "__main__":
                                           args.occurrences_threshold
                                           )
     elif args.command == 'representative_motif':
+        #jbw 2024
         pwm_representative_test.make_representative_pwm(args.path_to_clusters,
                                                         args.dbd,
                                                         args.clusters,
@@ -561,7 +569,8 @@ if __name__ == "__main__":
                                                         args.mean_threshold,
                                                         args.z_score_threshold,
                                                         args.top_occurrences,
-                                                        args.occurrences_threshold
+                                                        args.occurrences_threshold,
+                                                        args.db_type
                                                         )
     elif args.command == 'visualize':
         visualize.Visualize(args.path_to_folder_of_assessment_file,

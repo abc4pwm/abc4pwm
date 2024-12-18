@@ -15,10 +15,13 @@ from abc4pwm.energy_to_p import read_energy_matrix
 from abc4pwm.similarity_score import compute_similarity_score4alignment
 from itertools import takewhile
 from distutils.dir_util import copy_tree
+#jbw 2024
+from abc4pwm import quality_assessment
 
 
 class PredictedCompare():
-    def __init__(self, path_to_predicted_files, output_folder, db_folder, dst_for_bad_pwms, min_pwms_in_cluster=3, mean_threshold=0.75, z_score_threshold=-0.9,
+    #jbw 2024 remove dst_for_bad_pwms
+    def __init__(self, path_to_predicted_files, output_folder, db_folder, dst_for_bad_pwms='uncertain_pwms', min_pwms_in_cluster=3, mean_threshold=0.75, z_score_threshold=-0.9,
                  top_occurrence=0.35, occurrences_threshold=0.25, ic_for_rep=0.4,top_n=2, db_type='folder',input_count=1,db_count=0, db_file_type='.txt',
                      input_file_type='.mlp', input_prob=0, db_prob=1, tf_name='', qa = 1, seed = 0, damp=0.5, max_iter=400, convergence_iter=30, preference=None):
         """
@@ -69,6 +72,8 @@ class PredictedCompare():
             fp.writelines(str(path_to_predicted_files) + " : Path to predicted files \n")
             fp.writelines(str(output_folder) + " : Output folder \n")
             fp.writelines(str(db_folder) + " : Database folders \n")
+            #jbw 2024
+            #dst_for_bad_pwms='uncertain_pwms'
             fp.writelines(str(dst_for_bad_pwms) + " : Bad pwms folder \n")
             fp.writelines(str(min_pwms_in_cluster) + " : Minimum Pwms in a cluster for results of ensembling learning and quality cluster \n")
 
@@ -96,12 +101,15 @@ class PredictedCompare():
         if not os.path.exists(out_path_for_qa_clusters):
             os.makedirs(out_path_for_qa_clusters, exist_ok=True)
         self.empty_dir(out_path_for_qa_clusters)
-        if not os.path.exists(dst_for_bad_pwms):
-            os.makedirs(dst_for_bad_pwms, exist_ok=True)
+
+        #jbw 2024
+        #if not os.path.exists(dst_for_bad_pwms):
+        #    os.makedirs(dst_for_bad_pwms, exist_ok=True)
         if not os.path.exists(dst_folder):
             os.makedirs(dst_folder, exist_ok=True)
         self.empty_dir(dst_folder)
-        self.empty_dir(dst_for_bad_pwms)
+        #jbw 2024
+        #self.empty_dir(dst_for_bad_pwms)
         self.prepare_for_clustering(path_to_predicted_files, dst_folder)
         print("step 1: Prepare for clustering Done")
         cluster_out_folder = os.path.join(temp2_folder,'clustering_out/')
@@ -112,14 +120,38 @@ class PredictedCompare():
 
         if qa:
             print("Going through qa now")
-            self.quality_assessment(cluster_out_folder,
-                                    out_path_for_qa_clusters,
-                                    dst_for_bad_pwms,
-                                    path_to_text_reports=path_to_text_report,
-                                    mean_threshold=mean_threshold,
-                                    z_score_threshold=z_score_threshold,
-                                    top_occurrence=top_occurrence,
-                                    occurrence_threshold=occurrences_threshold)
+            #jbw 2024
+            #self.quality_assessment(cluster_out_folder,
+            #                        out_path_for_qa_clusters,
+            #                        dst_for_bad_pwms,
+            #                        path_to_text_reports=path_to_text_report,
+            #                        mean_threshold=mean_threshold,
+            #                        z_score_threshold=z_score_threshold,
+            #                        top_occurrence=top_occurrence,
+            #                        occurrence_threshold=occurrences_threshold)
+            dbd_folders_directory=cluster_out_folder
+            out_path_for_qa_cluster= out_path_for_qa_clusters
+            output_folder_for_text_report= path_to_text_report
+            output_path_for_quality_assessment_file='default' 
+            load_new_assesment=1
+            minimum_pwms_in_cluster=min_pwms_in_cluster
+            mean_threshold= mean_threshold
+            z_score_threshold= z_score_threshold
+            top_occurrences=top_occurrence
+            occurrences_threshold= occurrences_threshold
+            print(dbd_folders_directory)
+            quality_assessment.ClusterQuality(dbd_folders_directory,
+                                          out_path_for_qa_clusters,
+                                          output_folder_for_text_report,
+                                          output_path_for_quality_assessment_file,
+                                          load_new_assesment,
+                                          minimum_pwms_in_cluster,
+                                          mean_threshold,
+                                          z_score_threshold,
+                                          top_occurrences,
+                                          occurrences_threshold
+                                          )
+
 
         #jbw 2024
         tmp_path_for_clusters=os.path.join(out_path_for_qa_clusters, 'out/')
@@ -213,8 +245,8 @@ class PredictedCompare():
                 if 'path' in db_type:
                   #add cluster or dbd name to the file name
                   tmp_cluster_name=os.path.normpath(path_of_clusters).split(os.sep)[2]
-                  src = os.path.join(path_of_clusters,str(cluster),"repres",str(cluster)+'-'+tmp_cluster_name+'_rep.mlp')
-                  dst = os.path.join(predicted,pwms[0].split('/')[-1]+'_'+str(cluster)+'-'+tmp_cluster_name+ '_rep.mlp')
+                  src = os.path.join(path_of_clusters,str(cluster),"repres",str(cluster)+':'+tmp_cluster_name+'_rep.mlp')
+                  dst = os.path.join(predicted,pwms[0].split('/')[-1]+'_'+str(cluster)+':'+tmp_cluster_name+ '_rep.mlp')
                 else:
                   src = os.path.join(path_of_clusters,str(cluster),"repres",str(cluster)+'_rep.mlp')
                   dst = os.path.join(predicted,pwms[0].split('/')[-1]+'_'+str(cluster)+ '_rep.mlp')
@@ -286,91 +318,91 @@ class PredictedCompare():
       return list(takewhile(lambda x: x[1] > n, data))
 
 
-    def quality_assessment(self, cluster_path, out_path_for_qa_clusters ,dst_for_bad_pwms, path_to_text_reports , mean_threshold, z_score_threshold, occurrence_threshold, top_occurrence):
-
-        copy_tree(cluster_path, out_path_for_qa_clusters)
-
-        out_path_for_qa_clusters = os.path.join(out_path_for_qa_clusters,'out')
-        clusters_list = [i for i in sorted(os.listdir(out_path_for_qa_clusters)) if os.path.isdir(os.path.join(out_path_for_qa_clusters, i))]
-        clusters_list = [int(x) for x in clusters_list]
-        clusters_list.sort()
-        if not os.path.exists(path_to_text_reports):
-            os.makedirs(path_to_text_reports, exist_ok=True)
-        with open(os.path.join(path_to_text_reports, 'ensemble_cluster_quality.txt'), 'w') as f:
-
-
-
-
-            f.writelines(
-                'Cluster Number '
-                '\t Mean '
-                '\t Median '
-                '\t Minimum '
-                '\t Standard Deviation '
-                '\t Total No. of PWMs '
-                '\t No. of Wrong PWMs '
-                '\t Percentage of Quality '
-                '\t Wrongly clustered PWMS \n')
-            for cluster in clusters_list:
-
-                pwms_full = glob(os.path.join(out_path_for_qa_clusters, str(cluster) + "/*.mlp"))
-                pwms_full = sorted(pwms_full)
-
-
-                similarityMatrix = np.zeros((len(pwms_full), len(pwms_full)))
-
-                for index1, i in enumerate(pwms_full):
-                    matrix1, matrix_string1, maximum_feq1, total_maximum1, info1 = read_energy_matrix(i)
-                    normalized_matrix1 = motif_weight2p(matrix1)
-                    for index2, j in enumerate(pwms_full):
-                        matrix2, matrix_string2, maximum_feq2, total_maximum2, info2 = read_energy_matrix(j)
-
-                        normalized_matrix2 = motif_weight2p(matrix2)
-                        similarityMatrix[index1, index2] = compute_similarity_score4alignment(normalized_matrix1,
-                                                                                              normalized_matrix2)
-
-                uper_triangle_similarity_matrix = similarityMatrix[np.triu_indices(similarityMatrix.shape[0], k=1)]
-                uper_triangle_similarity_matrix_indeces = np.triu_indices(similarityMatrix.shape[0], k=1)
-
-                # minimum_similarity_pwm_index = np.unravel_index(np.argmin(sum(similarityMatrix), axis=None),
-                #                                                 sum(similarityMatrix).shape)
-
-                if len(pwms_full) > 1:
-                    if uper_triangle_similarity_matrix.mean() > mean_threshold:
-                        potential_bad_pwms = []
-                        for index, k in enumerate(stats.zscore(uper_triangle_similarity_matrix)):
-                            if k < z_score_threshold:
-                                potential_bad_pwms.append(uper_triangle_similarity_matrix_indeces[0][index])
-                                potential_bad_pwms.append(uper_triangle_similarity_matrix_indeces[1][index])
-
-                        bad_pwms_indexes = self.get_items_upto_count(Counter(potential_bad_pwms),
-                                                                     int(np.ceil(len(
-                                                                         pwms_full) * occurrence_threshold)),
-                                                                     int(np.ceil(
-                                                                         len(pwms_full) * top_occurrence)))
-
-                        del_from_pwms_list = [i[0] for i in bad_pwms_indexes]
-                        bad_pwms = [pwms_full[x] for x in del_from_pwms_list]
-
-
-                        f.writelines(str(cluster) +
-                                     "\t" + str(uper_triangle_similarity_matrix.mean()) +
-                                     "\t" + str(median(uper_triangle_similarity_matrix)) +
-                                     "\t" + str(min(uper_triangle_similarity_matrix)) + " " +
-                                     "\t" + str(uper_triangle_similarity_matrix.std()) +
-                                     "\t" + str(len(pwms_full)) +
-                                     "\t" + str(len(bad_pwms)) +
-                                     "\t" + str(int(((len(pwms_full) - len(bad_pwms)) / len(pwms_full)) * 100)))
-                        if len(bad_pwms) > 0:
-                            f.writelines("%\t" + str([i[0] for i in bad_pwms_indexes]) + "\n")
-                            # total_bad_pwms += len(bad_pwms)
-                            for x in bad_pwms:
-                                # pwms.remove(x)
-                                shutil.move(x, dst_for_bad_pwms)
-                        else:
-                            f.writelines("\n")
-                            #print("Nothing")
-
+#jbw 2024
+#this is removed because we use the quality_assesment class for the computaiton
+#
+#    def quality_assessment(self, cluster_path, out_path_for_qa_clusters ,dst_for_bad_pwms, path_to_text_reports , mean_threshold, z_score_threshold, occurrence_threshold, top_occurrence):
+#
+#        copy_tree(cluster_path, out_path_for_qa_clusters)
+#
+#        out_path_for_qa_clusters = os.path.join(out_path_for_qa_clusters,'out')
+#        clusters_list = [i for i in sorted(os.listdir(out_path_for_qa_clusters)) if os.path.isdir(os.path.join(out_path_for_qa_clusters, i))]
+#        clusters_list = [int(x) for x in clusters_list]
+#        clusters_list.sort()
+#        if not os.path.exists(path_to_text_reports):
+#            os.makedirs(path_to_text_reports, exist_ok=True)
+#        with open(os.path.join(path_to_text_reports, 'ensemble_cluster_quality.txt'), 'w') as f:
+#
+#            f.writelines(
+#                'Cluster Number '
+#                '\t Mean '
+#                '\t Median '
+#                '\t Minimum '
+#                '\t Standard Deviation '
+#                '\t Total No. of PWMs '
+#                '\t No. of Wrong PWMs '
+#                '\t Percentage of Quality '
+#                '\t Wrongly clustered PWMS \n')
+#            for cluster in clusters_list:
+#
+#                pwms_full = glob(os.path.join(out_path_for_qa_clusters, str(cluster) + "/*.mlp"))
+#                pwms_full = sorted(pwms_full)
+#
+#
+#                similarityMatrix = np.zeros((len(pwms_full), len(pwms_full)))
+#
+#                for index1, i in enumerate(pwms_full):
+#                    matrix1, matrix_string1, maximum_feq1, total_maximum1, info1 = read_energy_matrix(i)
+#                    normalized_matrix1 = motif_weight2p(matrix1)
+#                    for index2, j in enumerate(pwms_full):
+#                        matrix2, matrix_string2, maximum_feq2, total_maximum2, info2 = read_energy_matrix(j)
+#
+#                        normalized_matrix2 = motif_weight2p(matrix2)
+#                        similarityMatrix[index1, index2] = compute_similarity_score4alignment(normalized_matrix1,
+#                                                                                              normalized_matrix2)
+#
+#                uper_triangle_similarity_matrix = similarityMatrix[np.triu_indices(similarityMatrix.shape[0], k=1)]
+#                uper_triangle_similarity_matrix_indeces = np.triu_indices(similarityMatrix.shape[0], k=1)
+#
+#                # minimum_similarity_pwm_index = np.unravel_index(np.argmin(sum(similarityMatrix), axis=None),
+#                #                                                 sum(similarityMatrix).shape)
+#
+#                if len(pwms_full) > 1:
+#                    if uper_triangle_similarity_matrix.mean() > mean_threshold:
+#                        potential_bad_pwms = []
+#                        for index, k in enumerate(stats.zscore(uper_triangle_similarity_matrix)):
+#                            if k < z_score_threshold:
+#                                potential_bad_pwms.append(uper_triangle_similarity_matrix_indeces[0][index])
+#                                potential_bad_pwms.append(uper_triangle_similarity_matrix_indeces[1][index])
+#
+#                        bad_pwms_indexes = self.get_items_upto_count(Counter(potential_bad_pwms),
+#                                                                     int(np.ceil(len(
+#                                                                         pwms_full) * occurrence_threshold)),
+#                                                                     int(np.ceil(
+#                                                                         len(pwms_full) * top_occurrence)))
+#
+#                        del_from_pwms_list = [i[0] for i in bad_pwms_indexes]
+#                        bad_pwms = [pwms_full[x] for x in del_from_pwms_list]
+#
+#
+#                        f.writelines(str(cluster) +
+#                                     "\t" + str(uper_triangle_similarity_matrix.mean()) +
+#                                     "\t" + str(median(uper_triangle_similarity_matrix)) +
+#                                     "\t" + str(min(uper_triangle_similarity_matrix)) + " " +
+#                                     "\t" + str(uper_triangle_similarity_matrix.std()) +
+#                                     "\t" + str(len(pwms_full)) +
+#                                     "\t" + str(len(bad_pwms)) +
+#                                     "\t" + str(int(((len(pwms_full) - len(bad_pwms)) / len(pwms_full)) * 100)))
+#                        if len(bad_pwms) > 0:
+#                            f.writelines("%\t" + str([i[0] for i in bad_pwms_indexes]) + "\n")
+#                            # total_bad_pwms += len(bad_pwms)
+#                            for x in bad_pwms:
+#                                # pwms.remove(x)
+#                                shutil.move(x, dst_for_bad_pwms)
+#                        else:
+#                            f.writelines("\n")
+#                            #print("Nothing")
+#
 
 
 if __name__ == '__main__':

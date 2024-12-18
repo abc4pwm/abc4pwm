@@ -52,7 +52,8 @@ class ClassificationPwm(object):
 
         mlpfiles = [i.split('/')[-1] for i in glob(os.path.join(self.output_folder_path, "*.mlp"))]
         for pwm in mlpfiles:
-            folder_name = pwm.split('-')[-1].split('.mlp')[0]
+            #jbw 2024
+            folder_name = pwm.split(':')[-1].split('.mlp')[0]
 
             path_to_dbd_folder = os.path.join(self.output_folder_path, folder_name)
             if not os.path.exists(path_to_dbd_folder):
@@ -94,7 +95,8 @@ class ClassificationPwm(object):
 
             for j in range(len(self.tfsdb[:,0])):
                 if tf in self.tfsdb[j,0]:
-                    tf_name_with_dbd = i[:len(i)-4] +'-'+ str(self.tfsdb[j,1]).replace(' ','_').replace('-','_').replace('/','_') + '.mlp'
+                    #jbw 2024
+                    tf_name_with_dbd = i[:len(i)-4] +':'+ str(self.tfsdb[j,1]).replace(' ','_').replace('-','_').replace('/','_') + '.mlp'
                     flag = 1
                     total_pwms_in_each_dbd.append(self.tfsdb[j,1])
                     if self.tfsdb[j,2] == 'HTF':
@@ -114,7 +116,8 @@ class ClassificationPwm(object):
                 for l in double_tfs:
                     for j in range(len(self.tfsdb[:,0])):
                         if l in self.tfsdb[j,0]:
-                            tf_name_with_dbd = i[:len(i)-4] +'-'+ str(self.tfsdb[j,1]).replace(' ','_').replace('-','_') +'.mlp'
+                            #jbw 2024
+                            tf_name_with_dbd = i[:len(i)-4] +':'+ str(self.tfsdb[j,1]).replace(' ','_').replace('-','_') +'.mlp'
                             flag = 1
                             if self.tfsdb[j,2] == 'HTF':
                                 counterHTF = counterHTF + 1
@@ -129,7 +132,8 @@ class ClassificationPwm(object):
 
             if flag ==0:
                 unknowns = np.append(unknowns, tf)
-                tf_name_with_dbd = i[:len(i)-4] +'-Unknown.mlp'
+                #jbw 2024
+                tf_name_with_dbd = i[:len(i)-4] +':Unknown.mlp'
             tf_name_without_dbd = os.path.join(self.input_folder_path, str(i))
             tf_name_with_dbd = os.path.join(self.output_folder_path, tf_name_with_dbd)
             os.rename(tf_name_without_dbd, tf_name_with_dbd)

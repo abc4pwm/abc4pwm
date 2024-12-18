@@ -123,7 +123,7 @@ def representaive_for_clusters(in_folder, clusters, ic, best_match_initial_motif
         if 'path' in db_type:
           #add cluster or dbd name in the file name
           tmp_cluster_name=os.path.normpath(output_folder).split(os.sep)[-4]
-          file_name = cluster + '-'+tmp_cluster_name+'_rep.mlp'
+          file_name = cluster + ':'+tmp_cluster_name+'_rep.mlp'
         else:
           file_name = cluster + '_rep.mlp'
         #end

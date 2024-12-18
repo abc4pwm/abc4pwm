@@ -212,9 +212,9 @@ def setup_commandline_arguments():
                                             help="(Optional)1 if you want to do new assessment,"
                                                  "0 if you want load existing assessment",
                                             type=int, metavar="NUMBER", default=0)
-
-        parser_quality_cluster.add_argument("--minimum_pwms_in_dbd",
-                                            help="(Optional) specify minimum numbers of pwms in DBD for processing quality. ",
+        #jbw 2024
+        parser_quality_cluster.add_argument("--minimum_pwms_in_cluster",
+                                            help="(Optional) specify minimum numbers of pwms in a cluster for processing quality. ",
                                             type=int, metavar="Number", default=5)
 
         parser_quality_cluster.add_argument("--mean_threshold",
@@ -227,10 +227,11 @@ def setup_commandline_arguments():
                                          "Default value is -1.0",
                                     type=float, metavar="NUMBER", default=-1.2)
 
+        #jbw 2024
         parser_quality_cluster.add_argument("--top_occurrences",
                                     help="(Optional) This value corresponds to occurrence of a pwm less than a threshold z-score"
                                          "Value is between 0 to 1. Default value is 0.15",
-                                    type=float, metavar="NUMBER", default=0.05)
+                                    type=float, metavar="NUMBER", default=0.15)
         parser_quality_cluster.add_argument("--occurrences_threshold",
                                             help="(Optional) This value corresponds to threshold of occurrence from top occurrences"
                                                  "Value is between 0 to 1. Default value is 0.05",
@@ -547,13 +548,13 @@ if __name__ == "__main__":
                                  args.preference)
 
     elif args.command == 'quality_assessment':
-
+        #jbw 2024
         quality_assessment.ClusterQuality(args.dbd_folders_directory,
                                           args.out_path_for_qa_clusters,
                                           args.output_folder_for_text_report,
                                           args.output_path_for_quality_assessment_file,
                                           args.load_new_assesment,
-                                          args.minimum_pwms_in_dbd,
+                                          args.minimum_pwms_in_cluster,
                                           args.mean_threshold,
                                           args.z_score_threshold,
                                           args.top_occurrences,

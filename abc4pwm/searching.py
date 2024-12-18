@@ -247,9 +247,9 @@ def plot_search_result(pwm, resulted_matches_path, out, n_items, db_file_type, i
         pdf.cell(100)
         v = motif
         #jbw 2024 ???
-        if '-' in v:
+        if ':' in v:
             #there is a DBD domain name in the file
-            tmp1 = v.split('-')[-1].replace('.mlp','').replace('.png','')
+            tmp1 = v.split(':')[-1].replace('.mlp','').replace('.png','')
         else:
             #no DBD or cluster name in the file
             tmp1= v.replace('.mlp','').replace('.png','')

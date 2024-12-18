@@ -16,10 +16,11 @@ import pandas as pd
 
 
 class ClusterQuality():
+    #jbw 2024
     def __init__(self, input_path_to_folder_of_DBDs, out_path_for_qa_clusters, output_folder_for_text_report,
                  output_path_for_quality_assessment_file='default',
                  load_new_assesment=0,
-                 minimum_pwms_in_dbd=5,
+                 minimum_pwms_in_cluster=5,
                  mean_threshold=0.77,
                  z_score_threshold=-1.2,
                  top_occurrence=0.05,
@@ -42,7 +43,7 @@ class ClusterQuality():
         output_path_for_quality_assessment_file = os.path.join(output_path_for_quality_assessment_file,'')
 
 
-        self.minimum_pwms_in_dbd = minimum_pwms_in_dbd
+        self.minimum_pwms_in_cluster = minimum_pwms_in_cluster
         self.mean_threshold = mean_threshold
         self.z_score_threshold = z_score_threshold
         self.top_occurrence = top_occurrence
@@ -133,13 +134,26 @@ class ClusterQuality():
 
 
             dbds = sorted(os.listdir(input_folder))
+            #jbw 2024
+            #print(input_folder)
+
             for ind, i in enumerate(dbds):
                 if i.startswith('.DS'):
                     dbds.pop(ind)
-
+            
+            #print(dbds)
             for dbd in dbds:
-
-                if not os.path.exists(os.path.join(input_folder , dbd,'out/')):
+                #jbw 2024
+                #print(dbd)
+                if dbd == 'out':
+                  if not os.path.exists(os.path.join(input_folder , dbd)):
+                    pwms_full = os.listdir(os.path.join(input_folder,dbd))
+                    total_bad_pwms += len(pwms_full)
+                    for x in pwms_full:
+                        shutil.move(os.path.join(input_folder,dbd,x) , dst_for_bad_pwms)
+                    continue 
+                else:
+                  if not os.path.exists(os.path.join(input_folder , dbd,'out/')):
                     pwms_full = os.listdir(os.path.join(input_folder,dbd))
                     total_bad_pwms += len(pwms_full)
                     for x in pwms_full:
@@ -153,18 +167,24 @@ class ClusterQuality():
                             shutil.move(pwm,dst_for_bad_pwms)
                     shutil.rmtree(os.path.join(input_folder , dbd))
                     continue
-                cluster_path = os.path.join(input_folder, dbd, 'out/')
+                #jbw 2024
+                if dbd == 'out':
+                   cluster_path = os.path.join(input_folder, dbd)
+                else:
+                   cluster_path = os.path.join(input_folder, dbd, 'out/')
                 f.writelines(str(dbd) + '\n')
+                #jbw 2024
                 f.writelines(
-                    'Cluster Number '
+                    'Cluster_Number '
                     '\t Mean '
                     '\t Median '
                     '\t Minimum '
-                    '\t Standard Deviation '
-                    '\t Total No. of PWMs '
-                    '\t No. of Wrong PWMs '
-                    '\t Percentage of Quality '
-                    '\t Wrongly clustered PWMS \n')
+                    '\t Maxmum '
+                    '\t Standard_Deviation '
+                    '\t Total_No._of_PWMs '
+                    '\t No._of_Wrong_PWMs '
+                    '\t Percentage_of_Quality '
+                    '\t Wrongly_clustered_PWMS \n')
 
                 clusters_list = [i for i in sorted(os.listdir(cluster_path)) if os.path.isdir(os.path.join(cluster_path,i))]
                 clusters_list = [int(x) for x in clusters_list]
@@ -174,8 +194,12 @@ class ClusterQuality():
                 total_number_of_clusters += len(clusters_list)
                 total_pwms_in_dbd = 0
                 for cluster in clusters_list:
-
-                    pwms_full = glob(os.path.join(input_folder,dbd,'out', str(cluster)+ "/*.mlp"))
+                    #jbw 2024
+                    if dbd == 'out':
+                       pwms_full = glob(os.path.join(input_folder,dbd, str(cluster)+ "/*.mlp"))  
+                    else:
+                       pwms_full = glob(os.path.join(input_folder,dbd,'out', str(cluster)+ "/*.mlp"))
+                    
                     pwms_full = sorted(pwms_full)
 
                     cluster_size_list.append(len(pwms_full))
@@ -197,9 +221,12 @@ class ClusterQuality():
 
                     minimum_similarity_pwm_index = np.unravel_index(np.argmin(sum(similarityMatrix), axis=None), sum(similarityMatrix).shape)
 
-
-                    if len(pwms_full) > 1:
-                        if uper_triangle_similarity_matrix.mean() > self.mean_threshold:
+                    #jbw 2024
+                    if len(pwms_full) > 1 :
+                        #here we require both the size of cluster and mean passed threshold
+                        #print(uper_triangle_similarity_matrix.mean(), self.mean_threshold)
+                        #print(len(pwms_full), self.minimum_pwms_in_cluster)
+                        if uper_triangle_similarity_matrix.mean() >= self.mean_threshold and len(pwms_full) >= int(self.minimum_pwms_in_cluster) :
                             potential_bad_pwms = []
                             if uper_triangle_similarity_matrix.std() > 0.0:
                                 for index, k in enumerate(stats.zscore(uper_triangle_similarity_matrix)):
@@ -215,12 +242,13 @@ class ClusterQuality():
                                 bad_pwms = [pwms_full[x] for x in del_from_pwms_list]
 
 
-
+                                #jbw 2024
                                 f.writelines(str(cluster) +
                                       "\t" + str(uper_triangle_similarity_matrix.mean()) +
                                       "\t" + str(median(uper_triangle_similarity_matrix)) +
                                       "\t" + str(min(uper_triangle_similarity_matrix)) + " " +
                                       str(minimum_similarity_pwm_index).split(',')[0].split('(')[1] +
+                                      "\t" + str(max(uper_triangle_similarity_matrix)) +
                                       "\t" + str(uper_triangle_similarity_matrix.std()) +
                                       "\t" + str(len(pwms_full)) +
                                       "\t" + str(len(bad_pwms)) +
@@ -233,15 +261,20 @@ class ClusterQuality():
                                 else:
                                     f.writelines("\n")
                         else:
+                            #jbw 2024
                             f.writelines(str(cluster) +
                                          "\t" + str(uper_triangle_similarity_matrix.mean()) +
                                          "\t" + str(median(uper_triangle_similarity_matrix)) +
                                          "\t" + str(min(uper_triangle_similarity_matrix)) + " " +
                                          str(minimum_similarity_pwm_index).split(',')[0].split('(')[1] +
+                                         "\t" + str(max(uper_triangle_similarity_matrix)) +
                                          "\t" + str(uper_triangle_similarity_matrix.std()) +
                                          "\t" + str(len(pwms_full)) +
-                                         "\t Mean less than "+ str(self.mean_threshold)+ ", bad cluster " +
-                                         "\n")
+                                         "\t Mean<"+ str(self.mean_threshold)+ " or No. pwm<" +str(self.minimum_pwms_in_cluster)+", bad cluster " +
+                                         "\t" + str(0) )
+                            #jbw 2024, here assume this cluseter is bad because there is too few pwms
+                            #f.writelines("%\t" + str([ os.path.normpath(i).split(os.sep)[-2]  for i in pwms_full]) + "\n")
+                            f.writelines("%\t" + str([ len(pwms_full)]) + "\n")
                             # moving bad cluster (less than threshold mean) to uncertain
                             total_bad_pwms += len(pwms_full)
                             for x in pwms_full:
@@ -270,6 +303,11 @@ class ClusterQuality():
                         f.writelines(str(cluster) +
                                   "\t\t\t Single pwm cluster, no need of analysis" +
                                   "\n")
+                        #jbw 2024
+                        # moving this single pwm to uncertain
+                        total_bad_pwms += len(pwms_full)
+                        for x in pwms_full:
+                            shutil.move(x, dst_for_bad_pwms)
 
 
 

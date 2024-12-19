@@ -58,6 +58,8 @@ def searching(pwm, db_path, out, tf_name = '', db_type = 'path'  , db_format = '
     score_list= {}
 
     if 'path' in db_type:
+        #jbw 2024
+        print('Search in path: ', db_path)
         dbds = [i for i in os.listdir(db_path) if not i.endswith('.DS_Store')]
 
         for dbd in dbds:
@@ -70,7 +72,7 @@ def searching(pwm, db_path, out, tf_name = '', db_type = 'path'  , db_format = '
                 #print(clusters)
                 for cluster in clusters:
                     #jbw_2024 add dbd or cluster name in the file name
-                    rep = os.path.join(db_path, dbd, 'out/', cluster, 'repres/'+ str(cluster) +'-'+dbd+'_rep.mlp')
+                    rep = os.path.join(db_path, dbd, 'out/', cluster, 'repres/'+ str(cluster) +':'+dbd+'_rep.mlp')
                     if os.path.exists(rep):
                         matrix2, matrix_string2, maximum_feq2, total_maximum2, info2 = read_energy_matrix(rep)
                         if not db_count:
@@ -89,7 +91,7 @@ def searching(pwm, db_path, out, tf_name = '', db_type = 'path'  , db_format = '
     elif 'folder' in db_type :
 
         #jbw 2024
-        print('Search in path: ')
+        print('Search in folder: ')
         tmp_search_path=os.path.join(db_path, "*"+tf_name+"*"+db_file_type)
         pwms = glob.glob(tmp_search_path)
         print(tmp_search_path)
